@@ -12,7 +12,6 @@ with open(link,'r') as g:
     html = g.read()
 bs = BeautifulSoup(html, "html.parser")
 pagelines = bs.find_all(['p'])
-print(bs.getText)
 #NLP treatment
 nlp = spacy.load("en_core_web_sm")
 
@@ -35,8 +34,7 @@ def getDate(doc):
     return confTime
 import csv
 
-writer = csv.writer(f, delimiter=';',
-                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
+writer = csv.writer(f, delimiter=',',quotechar='"', quoting=csv.QUOTE_MINIMAL)
 #Look at each line <p> of html file
 confName=""
 for line in pagelines[5:]:
