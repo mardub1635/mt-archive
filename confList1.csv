@@ -1,433 +1,219 @@
-Pre-1980 conferences,N/A,{}
-"
-Conference on Mechanical Translation",1952,{'year': 1952}
-" International Conference
-on Mechanical Translation",1956,"{'year': 1956, 'day': 20, 'month': 10}"
- Research in Machine Translation,1957,"{'year': 1957, 'day': 12, 'month': 4}"
-                                ,1961,"{'year': 1961, 'day': 2, 'month': 2}"
-"Federally sponsored
-machine translation workers",1960,"{'year': 1960, 'day': 18, 'month': 7}"
-" International Conference on
-Machine Translation and Applied Language Analysis",1962,"{'year': 1962, 'day': 5, 'month': 9}"
-"Automatic translation of
-languages",1966,{'year': 1966}
-" Annual meeting of the
-Association for Machine Translation and Computational Linguistics",1963,"{'year': 1963, 'day': 25, 'month': 2}"
-"Feasibility Study on Fully
-Automatic High Quality Translation",1971,{'year': 1971}
-" FBIS [Foreign Broadcast
-Information Service] Seminar on Machine Translation",1976,"{'year': 1976, 'day': 8, 'month': 3}"
-MT Summit,N/A,{}
-MT Summit,1987,"{'year': 1987, 'day': 17, 'month': 2}"
-MT Summit,1989,"{'year': 1989, 'day': 16, 'month': 8}"
-MT Summit,1991,{'year': 1991}
-MT Summit,1993,"{'year': 1993, 'day': 19, 'month': 7}"
-MT Summit,1995,"{'year': 1995, 'day': 10, 'month': 7}"
-MT Summit,1997,"{'year': 1997, 'day': 29, 'month': 10}"
-MT Summit,1999,"{'year': 1999, 'day': 13, 'month': 2}"
-MT Summit,2001,"{'year': 2001, 'day': 18, 'month': 9}"
-MT Summit,2003,"{'year': 2003, 'day': 23, 'month': 9}"
-MT Summit,2005,"{'year': 2005, 'day': 13, 'month': 9}"
-MT Summit,2007,{'year': 2007}
-MT Summit,2009,"{'year': 2009, 'day': 26, 'month': 8}"
-MT Summit,2011,"{'year': 2011, 'day': 19, 'month': 9}"
-MT Summit,2013,{'year': 2013}
-MT Summit,N/A,{}
-Association for Machine Translation in the Americas,N/A,{}
-Association for Machine Translation in the Americas,N/A,{}
-Association for Machine Translation in the Americas,N/A,{}
-Association for Machine Translation in the Americas,N/A,{}
-Association for Machine Translation in the Americas,2000,"{'year': 2000, 'day': 10, 'month': 10}"
-Association for Machine Translation in the Americas,2002,"{'year': 2002, 'day': 8, 'month': 10}"
-Association for Machine Translation in the Americas,2004,{'year': 2004}
-Association for Machine Translation in the Americas,N/A,"{'day': 8, 'month': 8}"
-Association for Machine Translation in the Americas,2007,"{'year': 2007, 'day': 26, 'month': 4}"
-Association for Machine Translation in the Americas,N/A,{}
-Association for Machine Translation in the Americas,2010,{'year': 2010}
-Association for Machine Translation in the Americas,2012,{'year': 2012}
-Association for Machine Translation in the Americas,2014,"{'year': 2014, 'day': 22, 'month': 10}"
-"European
-Association for Machine Translation",N/A,{}
-"European
-Association for Machine Translation",1995,{'year': 1995}
-"European
-Association for Machine Translation",1997,{'year': 1997}
-"European
-Association for Machine Translation",1996,"{'year': 1996, 'day': 29, 'month': 8}"
-"European
-Association for Machine Translation",1997,"{'year': 1997, 'day': 21, 'month': 5}"
-"European
-Association for Machine Translation",N/A,{}
-"European
-Association for Machine Translation",N/A,{}
-"European
-Association for Machine Translation",N/A,"{'day': 11, 'month': 5}"
-"European
-Association for Machine Translation",2002,"{'year': 2002, 'day': 14, 'month': 11}"
-"European
-Association for Machine Translation",N/A,"{'day': 13, 'month': 4}"
-"European
-Association for Machine Translation",2003,"{'year': 2003, 'day': 15, 'month': 5}"
-"European
-Association for Machine Translation",N/A,"{'day': 26, 'month': 4}"
-"European
-Association for Machine Translation",2005,"{'year': 2005, 'day': 30, 'month': 5}"
-"European
-Association for Machine Translation",N/A,{}
-"European
-Association for Machine Translation",N/A,{}
-"European
-Association for Machine Translation",2009,"{'year': 2009, 'day': 14, 'month': 5}"
-"European
-Association for Machine Translation",2010,"{'year': 2010, 'day': 27, 'month': 5}"
-"European
-Association for Machine Translation",N/A,{}
-"European
-Association for Machine Translation",N/A,{}
-"European
-Association for Machine Translation",2014,"{'year': 2014, 'day': 16, 'month': 6}"
-"European
-Association for Machine Translation",2015,"{'year': 2015, 'day': 11, 'month': 5}"
-"European
-Association for Machine Translation",2016,{'year': 2016}
-British Computer Society,N/A,{}
-British Computer Society,N/A,{}
-British Computer Society,2010,"{'year': 2010, 'day': 12, 'month': 11}"
-British Computer Society,N/A,{}
-British Computer Society,N/A,"{'day': 23, 'month': 10}"
- Controlled Language Applications (CLAW),N/A,{}
-          ,2003,"{'year': 2003, 'day': 15, 'month': 2}"
-          ,2006,"{'year': 2006, 'day': 12, 'month': 8}"
-"International
-Workshop on Example-Based Machine Translation",N/A,{}
-"International
-Workshop on Example-Based Machine Translation",N/A,"{'day': 18, 'month': 9}"
-"International
-Workshop on Example-Based Machine Translation",2005,"{'year': 2005, 'day': 16, 'month': 9}"
-,2009,"{'year': 2009, 'day': 12, 'month': 11}"
-"International
-Workshop on Free/Open-Source Rule-Based Machine Translation",N/A,{}
-"International
-Workshop on Free/Open-Source Rule-Based Machine Translation",N/A,{}
-"International
-Workshop on Free/Open-Source Rule-Based Machine Translation",N/A,{}
-"International
-Workshop on Free/Open-Source Rule-Based Machine Translation",2012,"{'year': 2012, 'day': 13, 'month': 6}"
-"International
-Workshop on Spoken Language Translation (IWSLT)",N/A,{}
-"International
-Workshop on Spoken Language Translation (IWSLT)",N/A,{}
-"International
-Workshop on Spoken Language Translation (IWSLT)",2005,"{'year': 2005, 'day': 24, 'month': 10}"
-"International
-Workshop on Spoken Language Translation (IWSLT)",N/A,{}
-"International
-Workshop on Spoken Language Translation (IWSLT)",N/A,{}
-"International
-Workshop on Spoken Language Translation (IWSLT)",N/A,{}
-"International
-Workshop on Spoken Language Translation (IWSLT)",2009,{'year': 2009}
-"International
-Workshop on Spoken Language Translation (IWSLT)",2010,{'year': 2010}
-"International
-Workshop on Spoken Language Translation (IWSLT)",N/A,{}
-"International
-Workshop on Spoken Language Translation (IWSLT)",N/A,{}
-"International
-Workshop on Spoken Language Translation (IWSLT)",2013,{'year': 2013}
-"International
-Workshop on Spoken Language Translation (IWSLT)",2014,{'year': 2014}
-"International
-Workshop on Spoken Language Translation (IWSLT)",2015,{'year': 2015}
-"Machine
-Translation Marathon",N/A,{}
-"Machine
-Translation Marathon",N/A,"{'day': 16, 'month': 4}"
-"Machine
-Translation Marathon",N/A,"{'day': 12, 'month': 5}"
-"Machine
-Translation Marathon",N/A,{}
-"Machine
-Translation Marathon",2010,"{'year': 2010, 'day': 25, 'month': 1}"
-"Machine
-Translation Marathon",2010,{'year': 2010}
-"Machine
-Translation Marathon",2011,"{'year': 2011, 'day': 5, 'month': 9}"
-"Machine
-Translation Marathon",2012,"{'year': 2012, 'day': 8, 'month': 3}"
-META-FORUM,N/A,{}
-                                ,N/A,"{'day': 17, 'month': 11}"
-                                ,N/A,{}
-                                ,2012,{'year': 2012}
-"Syntax and
-Structure in Statistical Translation (SSST)",N/A,{}
-"Syntax and
-Structure in Statistical Translation (SSST)",2007,{'year': 2007}
-"Syntax and
-Structure in Statistical Translation (SSST)",N/A,{}
-"Syntax and
-Structure in Statistical Translation (SSST)",N/A,{}
-"Syntax and
-Structure in Statistical Translation (SSST)",2010,"{'year': 2010, 'day': 28, 'month': 8}"
-"Syntax and
-Structure in Statistical Translation (SSST)",N/A,"{'day': 23, 'month': 6}"
-"Syntax and
-Structure in Statistical Translation (SSST)",2012,{'year': 2012}
-"Syntax and
-Structure in Statistical Translation (SSST)",2013,"{'year': 2013, 'day': 13, 'month': 6}"
-"Syntax and
-Structure in Statistical Translation (SSST)",N/A,{}
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",N/A,{}
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",N/A,"{'day': 14, 'month': 8}"
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",1988,"{'day': 12, 'month': 6, 'year': 1988}"
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",N/A,"{'day': 11, 'month': 6}"
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",N/A,"{'day': 25, 'month': 6}"
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",N/A,"{'day': 14, 'month': 7}"
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",N/A,{}
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",N/A,"{'day': 23, 'month': 7}"
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",1999,"{'day': 23, 'month': 8, 'year': 1999}"
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",N/A,"{'day': 13, 'month': 3}"
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",2004,{'year': 2004}
-"Theoretical and
-Methodological Issues in Machine Translation (TMI)",N/A,{}
-"Translating and
-the Computer: ",2014,{'year': 2014}
-"Translating and
-the Computer: ",N/A,"{'day': 14, 'month': 11}"
-"Translating and
-the Computer: ",1981,"{'day': 20, 'month': 11, 'year': 1981}"
-"Translating and
-the Computer: ",N/A,{}
-"Translating and
-the Computer: ",N/A,"{'day': 27, 'month': 2}"
-"Translating and
-the Computer: ",N/A,"{'day': 10, 'month': 11}"
-"Translating and
-the Computer: ",1985,"{'year': 1985, 'day': 20, 'month': 11}"
-"Translating and
-the Computer: ",1986,"{'year': 1986, 'day': 14, 'month': 11}"
-"Translating and
-the Computer: ",1987,"{'year': 1987, 'day': 13, 'month': 11}"
-"Translating and
-the Computer: ",1988,"{'year': 1988, 'day': 12, 'month': 11}"
-"Translating and
-the Computer: ",1990,"{'day': 10, 'month': 11, 'year': 1990}"
-"Translating and
-the Computer: ",1990,"{'day': 16, 'month': 11, 'year': 1990}"
-"Translating and
-the Computer: ",1991,{'year': 1991}
-"Translating and
-the Computer: ",1992,"{'year': 1992, 'day': 28, 'month': 11}"
-"Translating and
-the Computer: ",1992,"{'year': 1992, 'day': 10, 'month': 11}"
-"Translating and
-the Computer: ",1993,"{'day': 26, 'month': 2, 'year': 1993}"
-"Translating and
-the Computer: ",1994,"{'year': 1994, 'day': 10, 'month': 11}"
-"Translating and
-the Computer: ",1995,"{'day': 9, 'month': 11, 'year': 1995}"
-"Translating and
-the Computer: ",1996,"{'day': 14, 'month': 11, 'year': 1996}"
-"Translating and
-the Computer: ",1997,"{'day': 13, 'month': 11, 'year': 1997}"
-"Translating and
-the Computer: ",1998,"{'year': 1998, 'day': 12, 'month': 11}"
-"Translating and
-the Computer: ",1999,"{'year': 1999, 'day': 10, 'month': 11}"
-"Translating and
-the Computer: ",2000,"{'day': 16, 'month': 11, 'year': 2000}"
-"Translating and
-the Computer: ",2001,"{'day': 29, 'month': 11, 'year': 2001}"
-"Translating and
-the Computer: ",2002,"{'year': 2002, 'day': 21, 'month': 11}"
-"Translating and
-the Computer: ",2003,"{'year': 2003, 'day': 20, 'month': 11}"
-"Translating and
-the Computer: ",2004,"{'day': 18, 'month': 11, 'year': 2004}"
-"Translating and
-the Computer: ",2005,"{'year': 2005, 'day': 24, 'month': 11}"
-"Translating and
-the Computer: ",2006,"{'day': 16, 'month': 11, 'year': 2006}"
-"Translating and
-the Computer: ",2007,"{'year': 2007, 'day': 29, 'month': 11}"
-"Translating and
-the Computer: ",2008,"{'day': 27, 'month': 11, 'year': 2008}"
-"Translating and
-the Computer: ",2009,"{'year': 2009, 'day': 19, 'month': 11}"
-"Translating and
-the Computer: ",2010,"{'year': 2010, 'day': 18, 'month': 11}"
-"Translating and
-the Computer: ",2011,"{'year': 2011, 'day': 17, 'month': 11}"
-"Translating and
-the Computer: ",2012,"{'year': 2012, 'day': 29, 'month': 11}"
-"Translating and
-the Computer: ",2013,"{'year': 2013, 'day': 28, 'month': 11}"
-"Translating and
-the Computer: ",2014,"{'year': 2014, 'day': 27, 'month': 11}"
-"Translating and
-the Computer: ",2015,"{'year': 2015, 'day': 26, 'month': 11}"
-"Translating and
-the Computer: ",2016,"{'year': 2016, 'day': 17, 'month': 11}"
-Translingual,N/A,{}
-Translingual,2009,"{'year': 2009, 'day': 13, 'month': 5}"
-Translingual,2010,"{'year': 2010, 'day': 7, 'month': 6}"
-"Workshops on
-Statistical Machine Translation (WMT)",N/A,{}
-"Workshops on
-Statistical Machine Translation (WMT)",N/A,{}
-"Workshops on
-Statistical Machine Translation (WMT)",N/A,{}
-"Workshops on
-Statistical Machine Translation (WMT)",N/A,{}
-"Workshops on
-Statistical Machine Translation (WMT)",2009,"{'year': 2009, 'day': 30, 'month': 3}"
-"Workshops on
-Statistical Machine Translation (WMT)",2010,{'year': 2010}
-"Workshops on
-Statistical Machine Translation (WMT)",N/A,{}
-"Workshops on
-Statistical Machine Translation (WMT)",2012,{'year': 2012}
-"Workshops on
-Statistical Machine Translation (WMT)",N/A,"{'day': 9, 'month': 8}"
-"Workshops on
-Statistical Machine Translation (WMT)",2014,"{'year': 2014, 'day': 26, 'month': 6}"
- ,N/A,{}
-Other conferences and workshops,N/A,{}
-"International
-Workshop on Computer Aided Translation",1985,"{'year': 1985, 'day': 16, 'month': 2}"
-"World
-Systran Conference",1986,"{'year': 1986, 'day': 11, 'month': 2}"
-"
-IAI-MT86, ",1986,"{'year': 1986, 'day': 20, 'month': 2}"
-" New
-Directions in Machine Translation",1988,"{'year': 1988, 'day': 18, 'month': 8}"
-"International
-Forum for Translation Technology",1989,{'year': 1989}
-"Workshop
-on Machine Translation",1990,{'year': 1990}
-"
-Evaluators’ Forum",1991,"{'year': 1991, 'day': 21, 'month': 4}"
-"International
-Workshop on Fundamental Research for the Future Generation of Natural Language
-Processing",1992,"{'year': 1992, 'day': 30, 'month': 7}"
-"
-MT Evaluation",1992,{'year': 1992}
-"ARPA
-Workshop on Machine Translation",1994,"{'year': 1994, 'day': 17, 'month': 3}"
-"Spoken
-Language Translation",1997,"{'year': 1997, 'day': 11, 'month': 7}"
-"
-MT Eval Workshop",2001,"{'year': 2001, 'day': 19, 'month': 4}"
-"
-METIS Workshop, ",2007,"{'year': 2007, 'day': 11, 'month': 1}"
-"
-MATMT workshop",2008,"{'year': 2008, 'day': 14, 'month': 2}"
-"
-Statistical Multilingual Analysis for Retrieval and Translation",2009,"{'year': 2009, 'day': 13, 'month': 5}"
-" Joint
-EM+/CNGL workshop",2010,"{'year': 2010, 'day': 4, 'month': 11}"
-"Machine Translation and
-Morphologically Rich Languages",2011,"{'year': 2011, 'day': 23, 'month': 1}"
-"International Workshop on
-Using Linguistic Information for Hybrid Machine Translation",2011,{'year': 2011}
-Crosslingual,2012,{'year': 2012}
-Crosslingual,N/A,{}
-"Workshops on MT held
-during other conferences",N/A,{}
-"Association for
-Computational Linguistics (ACL) ",N/A,{}
-"Association for
-Computational Linguistics (ACL) ",1997,"{'year': 1997, 'day': 11, 'month': 7}"
-"Association for
-Computational Linguistics (ACL) ",2001,"{'year': 2001, 'day': 7, 'month': 7}"
-"Association for
-Computational Linguistics (ACL) ",2002,{'year': 2002}
-"Association for
-Computational Linguistics (ACL) ",2005,"{'year': 2005, 'day': 29, 'month': 6}"
-"Association for
-Computational Linguistics (ACL) ",2007,"{'year': 2007, 'day': 23, 'month': 6}"
-"Association for
-Computational Linguistics (ACL) ",N/A,{}
-"Association for
-Computational Linguistics (ACL) ",N/A,{}
-"Association for
-Computational Linguistics (ACL) ",N/A,{}
-"Association for
-Computational Linguistics (ACL) ",N/A,{}
-"Association for
-Computational Linguistics (ACL) ",N/A,{}
-"North American
-Chapter of the Association for Computational Linguistics (NAACL) ",N/A,{}
-"North American
-Chapter of the Association for Computational Linguistics (NAACL) ",N/A,"{'day': 4, 'month': 5}"
-"North American
-Chapter of the Association for Computational Linguistics (NAACL) ",N/A,{}
-"North American
-Chapter of the Association for Computational Linguistics (NAACL) ",2003,{'year': 2003}
-"North American
-Chapter of the Association for Computational Linguistics (NAACL) ",2006,{'year': 2006}
-"North American
-Chapter of the Association for Computational Linguistics (NAACL) ",2006,{'year': 2006}
-"North American
-Chapter of the Association for Computational Linguistics (NAACL) ",2007,"{'year': 2007, 'day': 26, 'month': 4}"
-"North American
-Chapter of the Association for Computational Linguistics (NAACL) ",N/A,"{'day': 5, 'month': 6}"
-Computational Linguistics,N/A,{}
-Computational Linguistics,N/A,"{'day': 1, 'month': 9}"
-Computational Linguistics,2012,{'year': 2012}
-Computational Linguistics,2012,{'year': 2012}
-"European
-Association for Computational Linguistics (EACL)",N/A,{}
-"European
-Association for Computational Linguistics (EACL)",N/A,"{'day': 13, 'month': 2}"
-"European Summer
-School on Logic, Linguistics and Information (ESSLLI)",N/A,{}
-"European Summer
-School on Logic, Linguistics and Information (ESSLLI)",N/A,{}
-"Human Language
-Technology",N/A,{}
-"Human Language
-Technology",2003,{'year': 2003}
-"Human Language
-Technology",2006,{'year': 2006}
-"Human Language
-Technology",2006,{'year': 2006}
-"Human Language
-Technology",2007,"{'year': 2007, 'day': 26, 'month': 4}"
-"Human Language
-Technology",N/A,{}
-"Human Language
-Technology",N/A,{}
-"Human Language
-Technology",N/A,"{'day': 5, 'month': 6}"
-"Language
-Resources and Evaluation (LREC) ",N/A,{}
-"Language
-Resources and Evaluation (LREC) ",2000,"{'year': 2000, 'day': 29, 'month': 5}"
-"Language
-Resources and Evaluation (LREC) ",2002,"{'year': 2002, 'day': 27, 'month': 5}"
-"Language
-Resources and Evaluation (LREC) ",2002,"{'year': 2002, 'day': 27, 'month': 5}"
-"Language
-Resources and Evaluation (LREC) ",2004,"{'year': 2004, 'day': 25, 'month': 5}"
-"Language
-Resources and Evaluation (LREC) ",5391,"{'year': 5391, 'day': 23, 'month': 5}"
-"Language
-Resources and Evaluation (LREC) ",2012,"{'year': 2012, 'day': 26, 'month': 5}"
-"Language
-Resources and Evaluation (LREC) ",2014,"{'year': 2014, 'day': 27, 'month': 5}"
-"Recent Advances in Natural
-Language Processing (RANLP) ",N/A,{}
-"Recent Advances in Natural
-Language Processing (RANLP) ",2005,"{'year': 2005, 'day': 24, 'month': 9}"
+Conference Title,Year,Time,has TOC?,Link
+Pre-1980 conferences,['1980'], / / ,no,
+Conference on Mechanical Translation,1952,1952/ / ,yes,50/MIT-1952-TOC.htm
+International Conference on Mechanical Translation,1956,1956/Oct/20,no,
+Research in Machine Translation,1957,1957/Apr/12,yes,50/GURT-1957-TOC.htm
+National Symposium on Machine Translation,1961,1961/Feb/2,yes,50/UCLA-1960-TOC.htm
+Federally sponsored machine translation workers,1960,1960/Jul/18,no,
+International Conference on Machine Translation and Applied Language Analysis,1962,1962/Sep/5,yes,50/NPL-1961-TOC.htm
+Automatic translation of languages,1966,1966/ / ,yes,50/NATO-1962-TOC.htm
+Annual meeting of the Association for Machine Translation and Computational Linguistics,1963,1963/Feb/25,yes,50/AMTCL-1963-TOC.htm
+Feasibility Study on Fully Automatic High Quality Translation,1971,1971/ / ,yes,70/LRC-1971-TOC.htm
+FBIS [Foreign Broadcast Information Service] Seminar on Machine Translation,1976,1976/Mar/8,yes,70/FBIS-1976-TOC.htm
+MT Summit International Association for Machine Translation,1987,1987/Feb/17,yes,70/MTS-1987-TOC.htm
+MT Summit International Association for Machine Translation,1989,1989/Aug/16,yes,70/MTS-1989-TOC.htm
+MT Summit International Association for Machine Translation,1991,1991/ / ,yes,90/MTS-1991-TOC.htm
+MT Summit International Association for Machine Translation,1993,1993/Jul/19,yes,90/MTS-1993-TOC.htm
+MT Summit International Association for Machine Translation,1995,1995/Jul/10,yes,90/MTS-1995-TOC.htm
+MT Summit International Association for Machine Translation,1997,1997/Oct/29,yes,90/MTS-1997-TOC.htm
+MT Summit International Association for Machine Translation,1999,1999/Feb/13,yes,90/MTS-1999-TOC.htm
+MT Summit International Association for Machine Translation,2001,2001/Sep/18,yes,00/MTS-2001-TOC.htm
+MT Summit International Association for Machine Translation,2003,2003/Sep/23,yes,00/MTS-2003-TOC.htm
+MT Summit International Association for Machine Translation,2005,2005/Sep/13,yes,05/MTS-2005-TOC.htm
+MT Summit International Association for Machine Translation,2007,2007/ / ,yes,05/MTS-2007-TOC.htm
+MT Summit International Association for Machine Translation,2009,2009/Aug/26,yes,05/MTS-2009-TOC.htm
+MT Summit International Association for Machine Translation,2011,2011/Sep/19,yes,10/MTS-2011-TOC.htm
+MT Summit International Association for Machine Translation,2013,2013/ / ,yes,10/MTS-2013-TOC.htm
+MT Summit International Association for Machine Translation,['20'], / / ,yes,/15/MTS-2015-TOC.htm
+Association for Machine Translation in the Americas,['1994'], / / ,yes,90/AMTA-1994-TOC.htm
+Association for Machine Translation in the Americas,['1996'], / / ,yes,90/AMTA-1996-TOC.htm
+Association for Machine Translation in the Americas,['1998'], / / ,yes,90/AMTA-1998-TOC.htm
+Association for Machine Translation in the Americas,2000,2000/Oct/10,yes,00/AMTA-2000-TOC.htm
+Association for Machine Translation in the Americas,2002,2002/Oct/8,yes,00/AMTA-2002-TOC.htm
+Association for Machine Translation in the Americas,2004,2004/ / ,yes,00/AMTA-2004-TOC.htm
+Association for Machine Translation in the Americas,['20'], /Aug/8,yes,05/AMTA-2006-TOC.htm
+Association for Machine Translation in the Americas,2007,2007/Apr/26,yes,05/NAACL-HLT-2007-TOC.htm
+Association for Machine Translation in the Americas,['20'], / / ,yes,05/AMTA-2008-TOC.htm
+Association for Machine Translation in the Americas,2010,2010/ / ,yes,10/AMTA-2010-TOC.htm
+Association for Machine Translation in the Americas,2012,2012/ / ,yes,10/AMTA-2012-TOC.htm
+Association for Machine Translation in the Americas,2014,2014/Oct/22,yes,10/AMTA-2014-TOC.htm
+European Association for Machine Translation,1995,1995/ / ,no,
+European Association for Machine Translation,1997,1997/ / ,no,
+European Association for Machine Translation,1996,1996/Aug/29,no,
+European Association for Machine Translation,1997,1997/May/21,yes,90/EAMT-1997-TOC.htm
+European Association for Machine Translation,['1998'], / / ,no,
+European Association for Machine Translation,['1999'], / / ,yes,90/EAMT-1999-TOC.htm
+European Association for Machine Translation,['20'], /May/11,yes,00/EAMT-2000-TOC.htm
+European Association for Machine Translation,2002,2002/Nov/14,yes,00/EAMT-2002-TOC.htm
+European Association for Machine Translation,['20'], /Apr/13,yes,00/EAMT-2003-TOC.htm
+European Association for Machine Translation,2003,2003/May/15,yes,00/CLT-2003-TOC.htm
+European Association for Machine Translation,['20'], /Apr/26,yes,00/EAMT-2004-TOC.htm
+European Association for Machine Translation,2005,2005/May/30,yes,05/EAMT-2005-TOC.htm
+European Association for Machine Translation,"['20', '20']", / / ,yes,05/EAMT-2006-TOC.htm
+European Association for Machine Translation,['20'], / / ,yes,05/EAMT-2008-TOC.htm
+European Association for Machine Translation,2009,2009/May/14,yes,05/EAMT-2009-TOC.htm
+European Association for Machine Translation,2010,2010/May/27,yes,10/EAMT-2010-TOC.htm
+European Association for Machine Translation,['20'], / / ,yes,10/EAMT-2011-TOC.htm
+European Association for Machine Translation,['20'], / / ,yes,10/EAMT-2012-TOC.htm
+European Association for Machine Translation,2014,2014/Jun/16,yes,10/EAMT-2014-TOC.htm
+European Association for Machine Translation,2015,2015/May/11,yes,/15/EAMT-2015-TOC.htm
+European Association for Machine Translation,2016,2016/ / ,yes,/15/EAMT-2016-TOC.htm
+British Computer Society,['1984'], / / ,yes,70/BCS-1984-TOC.htm
+British Computer Society,2010,2010/Nov/12,yes,90/BCS-1994-TOC.htm
+British Computer Society,"['20', '20', '20']", / / ,yes,00/BCS-2000-TOC.htm
+British Computer Society,['20'], /Oct/23,yes,05/BCS-2006-TOC.htm
+Controlled Language Applications (CLAW),2003,2003/Feb/15,yes,00/CLT-2003-TOC.htm
+Controlled Language Applications (CLAW),2006,2006/Aug/12,no,
+International Workshop on Example-Based Machine Translation,['20'], /Sep/18,yes,00/MTS-2001-EBMT-WS.htm
+International Workshop on Example-Based Machine Translation,2005,2005/Sep/16,yes,05/MTS-2005-EBMT-WS.htm
+International Workshop on Example-Based Machine Translation,2009,2009/Nov/12,yes,05/EBMT-2009-TOC.htm
+International Workshop on Free/Open-Source Rule-Based Machine Translation,['20'], / / ,yes,05/FreeRBMT-2009-TOC.htm
+International Workshop on Free/Open-Source Rule-Based Machine Translation,"['20', '20']", / / ,yes,10/FreeRBMT-2011-TOC.htm
+International Workshop on Free/Open-Source Rule-Based Machine Translation,2012,2012/Jun/13,yes,10/FreeRBMT-2012-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),"['20', '20']", / / ,yes,00/IWSLT-2004-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2005,2005/Oct/24,yes,05/IWSLT-2005-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),['20'], / / ,yes,05/IWSLT-2006-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),['20'], / / ,yes,05/IWSLT-2007-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),"['20', '20']", / / ,yes,05/IWSLT-2008-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2009,2009/ / ,yes,05/IWSLT-2009-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2010,2010/ / ,yes,10/IWSLT-2010-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),['20'], / / ,yes,10/IWSLT-2011-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),['20'], / / ,yes,10/IWSLT-2012-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2013,2013/ / ,yes,10/IWSLT-2013-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2014,2014/ / ,yes,10/IWSLT-2014-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2015,2015/ / ,yes,/15/IWSLT-2015-TOC.htm
+Machine Translation Marathon,"['20', '20']", /Apr/16,yes,05/MTMarathon-2007-TOC.htm
+Machine Translation Marathon,['20'], /May/12,yes,05/MTMarathon-2008-TOC.htm
+Machine Translation Marathon,['20'], / / ,yes,05/MTMarathon-2009-TOC.htm
+Machine Translation Marathon,2010,2010/Jan/25,yes,10/MTMarathon-2010-TOC.htm
+Machine Translation Marathon,2010,2010/ / ,yes,10/MTMarathon-5-2010-TOC.htm
+Machine Translation Marathon,2011,2011/Sep/5,yes,10/MTMarathon-2011-TOC.htm
+Machine Translation Marathon,2012,2012/Mar/8,yes,10/MTMarathon-2012-TOC.htm
+META-FORUM,['20'], /Nov/17,yes,10/META-FORUM-2010-TOC.htm
+META-FORUM,['20'], / / ,yes,10/META-FORUM-2011-TOC.htm
+META-FORUM,2012,2012/ / ,no,
+Syntax and Structure in Statistical Translation (SSST),2007,2007/ / ,yes,05/SSST-2007-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),"['20', '20', '20']", / / ,yes,05/SSST-2008-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),"['20', '20']", / / ,yes,05/SSST-2009-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),2010,2010/Aug/28,yes,10/SSST-2010-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),"['20', '20']", /Jun/23,yes,10/SSST-2011-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),2012,2012/ / ,yes,10/SSST-2012-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),2013,2013/Jun/13,yes,10/SSST-2013-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),['20'], / / ,yes,10/SSST-2014-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1985'], /Aug/14,yes,70/TMI-1985-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),1988,1988/Jun/12,yes,70/TMI-1988-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1990'], /Jun/11,yes,90/TMI-1990-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1992'], /Jun/25,yes,90/TMI-1992-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1993'], /Jul/14,yes,90/TMI-1993-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1995'], / / ,yes,90/TMI-1995-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1997'], /Jul/23,yes,90/TMI-1997-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),1999,1999/Aug/23,yes,90/TMI-1999-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),"['20', '20']", /Mar/13,yes,00/TMI-2002-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),2004,2004/ / ,yes,00/TMI-2004-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),"['20', '20']", / / ,yes,05/TMI-2007-TOC.htm
+Translating and the Computer:,2014,2014/ / ,no,
+Translating and the Computer:,['1978'], /Nov/14,yes,70/Aslib-1978-TOC.htm
+Translating and the Computer:,1981,1981/Nov/20,yes,70/Aslib-1980-TOC.htm
+Translating and the Computer:,['1981'], / / ,yes,70/Aslib-1981-TOC.htm
+Translating and the Computer:,['1982'], /Feb/27,yes,70/Aslib-1982-TOC.htm
+Translating and the Computer:,['1983'], /Nov/10,yes,70/Aslib-1983-TOC.htm
+Translating and the Computer:,1985,1985/Nov/20,yes,70/Aslib-1984-TOC.htm
+Translating and the Computer:,1986,1986/Nov/14,yes,70/Aslib-1985-TOC.htm
+Translating and the Computer:,1987,1987/Nov/13,yes,70/Aslib-1986-TOC.htm
+Translating and the Computer:,1988,1988/Nov/12,yes,70/Aslib-1987-TOC.htm
+Translating and the Computer:,1990,1990/Nov/10,yes,70/Aslib-1988-TOC.htm
+Translating and the Computer:,1990,1990/Nov/16,yes,70/Aslib-1989-TOC.htm
+Translating and the Computer:,1991,1991/ / ,yes,90/Aslib-1990-TOC.htm
+Translating and the Computer:,1992,1992/Nov/28,yes,90/Aslib-1991-TOC.htm
+Translating and the Computer:,1992,1992/Nov/10,yes,90/Aslib-1992-TOC.htm
+Translating and the Computer:,1993,1993/Feb/26,yes,90/Aslib-1993-TOC.htm
+Translating and the Computer:,1994,1994/Nov/10,yes,90/Aslib-1994-TOC.htm
+Translating and the Computer:,1995,1995/Nov/9,yes,90/Aslib-1995-TOC.htm
+Translating and the Computer:,1996,1996/Nov/14,yes,90/Aslib-1996-TOC.htm
+Translating and the Computer:,1997,1997/Nov/13,yes,90/Aslib-1997-TOC.htm
+Translating and the Computer:,1998,1998/Nov/12,yes,90/Aslib-1998-TOC.htm
+Translating and the Computer:,1999,1999/Nov/10,yes,90/Aslib-1999-TOC.htm
+Translating and the Computer:,2000,2000/Nov/16,yes,00/Aslib-2000-TOC.htm
+Translating and the Computer:,2001,2001/Nov/29,yes,00/Aslib-2001-TOC.htm
+Translating and the Computer:,2002,2002/Nov/21,yes,00/Aslib-2002-TOC.htm
+Translating and the Computer:,2003,2003/Nov/20,yes,00/Aslib-2003-TOC.htm
+Translating and the Computer:,2004,2004/Nov/18,yes,00/Aslib-2004-TOC.htm
+Translating and the Computer:,2005,2005/Nov/24,yes,05/Aslib-2005-TOC.htm
+Translating and the Computer:,2006,2006/Nov/16,yes,05/Aslib-2006-TOC.htm
+Translating and the Computer:,2007,2007/Nov/29,yes,05/Aslib-2007-TOC.htm
+Translating and the Computer:,2008,2008/Nov/27,yes,05/Aslib-2008-TOC.htm
+Translating and the Computer:,2009,2009/Nov/19,yes,05/Aslib-2009-TOC.htm
+Translating and the Computer:,2010,2010/Nov/18,yes,10/Aslib-2010-TOC.htm
+Translating and the Computer:,2011,2011/Nov/17,yes,10/Aslib-2011-TOC.htm
+Translating and the Computer:,2012,2012/Nov/29,yes,10/Aslib-2012-TOC.htm
+Translating and the Computer:,2013,2013/Nov/28,yes,10/Aslib-2013-TOC.htm
+Translating and the Computer:,2014,2014/Nov/27,yes,10/Asling-2014-TOC.htm
+Translating and the Computer:,2015,2015/Nov/26,yes,/15/Asling-2015-TOC.htm
+Translating and the Computer:,2016,2016/Nov/17,yes,/15/Asling-2016-TOC.htm
+Translingual Europe,2009,2009/May/13,yes,05/Translingual-Europe-2009-TOC.htm
+Translingual Europe,2010,2010/Jun/7,yes,10/Translingual-Europe-2010-TOC.htm
+Workshops on Statistical Machine Translation (WMT),"['20', '20']", / / ,yes,05/WMT-2006-TOC.htm
+Workshops on Statistical Machine Translation (WMT),"['20', '20']", / / ,yes,05/WMT-2007-TOC.htm
+Workshops on Statistical Machine Translation (WMT),"['20', '20']", / / ,yes,05/WMT-2008-TOC.htm
+Workshops on Statistical Machine Translation (WMT),2009,2009/Mar/30,yes,05/WMT-2009-TOC.htm
+Workshops on Statistical Machine Translation (WMT),2010,2010/ / ,yes,10/WMT-2010-TOC.htm
+Workshops on Statistical Machine Translation (WMT),"['20', '20']", / / ,yes,10/WMT-2011-TOC.htm
+Workshops on Statistical Machine Translation (WMT),2012,2012/ / ,yes,10/WMT-2012-TOC.htm
+Workshops on Statistical Machine Translation (WMT),['20'], /Aug/9,yes,10/WMT-2013-TOC.htm
+Workshops on Statistical Machine Translation (WMT),2014,2014/Jun/26,yes,10/WMT-2014-TOC.htm
+International Workshop on Computer Aided Translation,1985,1985/Feb/16,yes,70/Wahab-1985-TOC.htm
+World Systran Conference,1986,1986/Feb/11,yes,70/T&T-1986-TOC.htm
+"IAI-MT86,",1986,1986/Feb/20,yes,70/IAI-1986-TOC.htm
+New Directions in Machine Translation,1988,1988/Aug/18,yes,70/DLT-1988-Maxwell-TOC.htm
+International Forum for Translation Technology,1989,1989/ / ,no,
+Workshop on Machine Translation,1990,1990/ / ,yes,90/UMIST-1990-TOC.htm
+Evaluators’ Forum,1991,1991/Apr/21,yes,90/ISSCO-1991-TOC.htm
+International Workshop on Fundamental Research for the Future Generation of Natural Language Processing,1992,1992/Jul/30,yes,90/FGNLP-1992-TOC.htm
+MT Evaluation,1992,1992/ / ,yes,90/AMTA-1992-TOC.htm
+ARPA Workshop on Machine Translation,1994,1994/Mar/17,yes,90/ARPA-1994-TOC.htm
+Spoken Language Translation,1997,1997/Jul/11,yes,90/SLT-1997-TOC.htm
+MT Eval Workshop,2001,2001/Apr/19,yes,00/MTEval-2001-TOC.htm
+"METIS Workshop,",2007,2007/Jan/11,yes,05/METIS-2007-TOC.htm
+MATMT workshop,2008,2008/Feb/14,yes,05/MATMT-2008-TOC.htm
+Statistical Multilingual Analysis for Retrieval and Translation,2009,2009/May/13,yes,05/SMART-2009-TOC.htm
+Joint EM+/CNGL workshop,2010,2010/Nov/4,yes,10/JEC-2010-TOC.htm
+Machine Translation and Morphologically Rich Languages,2011,2011/Jan/23,yes,10/MTMRL-2011-TOC.htm
+International Workshop on Using Linguistic Information for Hybrid Machine Translation,2011,2011/ / ,yes,10/LIHMT-2011-TOC.htm
+Crosslingual Language Technology in service of an integrated multilingual Europe,2012,2012/ / ,no,
+Association for Computational Linguistics (ACL),1997,1997/Jul/11,yes,90/SLT-1997-TOC.htm
+Association for Computational Linguistics (ACL),2001,2001/Jul/7,yes,00/ACL-EACL-2001-TOC.htm
+Association for Computational Linguistics (ACL),2002,2002/ / ,yes,00/ACL-2002-TOC.htm
+Association for Computational Linguistics (ACL),2005,2005/Jun/29,yes,05/ACL-2005-WS-PT-TOC.htm
+Association for Computational Linguistics (ACL),2007,2007/Jun/23,yes,05/WMT-2007-TOC.htm
+Association for Computational Linguistics (ACL),['20'], / / ,yes,05/WMT-2008-TOC.htm
+Association for Computational Linguistics (ACL),['20'], / / ,yes,05/SSST-2008-TOC.htm
+Association for Computational Linguistics (ACL),['20'], / / ,yes,05/NEWS-2009-TOC.htm
+Association for Computational Linguistics (ACL),['20'], / / ,yes,10/WMT-2010-TOC.htm
+Association for Computational Linguistics (ACL),['20'], / / ,yes,10/BUCC-2013-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),['20'], /May/4,yes,00/ANLP-NAACL-2000-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),['20'], / / ,yes,00/NAACL-ANLP-2000-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),2003,2003/ / ,yes,00/HLT-NAACL-2003-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),2006,2006/ / ,yes,05/HLT-NAACL-2006-WS-MST-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),2006,2006/ / ,yes,05/WMT-2006-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),2007,2007/Apr/26,yes,05/SSST-2007-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),['20'], /Jun/5,yes,05/SSST-2009-TOC.htm
+Computational Linguistics Coling,['20'], /Sep/1,yes,00/Coling-2002-TOC.htm
+Computational Linguistics Coling,2012,2012/ / ,yes,10/Coling-2012-WS-RSMT.htm
+Computational Linguistics Coling,2012,2012/ / ,yes,10/Coling-2012-WS-ML4HMT.htm
+European Association for Computational Linguistics (EACL),['20'], /Feb/13,yes,10/EACL-2012-WS-TOC.htm
+"European Summer School on Logic, Linguistics and Information (ESSLLI)",['1998'], / / ,yes,90/ESSLLI-1998-TOC.htm
+Human Language Technology HLT,2003,2003/ / ,yes,00/HLT-NAACL-2003-TOC.htm
+Human Language Technology HLT,2006,2006/ / ,yes,05/HLT-NAACL-2006-WS-MST-TOC.htm
+Human Language Technology HLT,2006,2006/ / ,yes,05/WMT-2006-TOC.htm
+Human Language Technology HLT,2007,2007/Apr/26,yes,05/SSST-2007-TOC.htm
+Human Language Technology HLT,['20'], / / ,yes,05/WMT-2008-TOC.htm
+Human Language Technology HLT,['20'], / / ,yes,05/SSST-2008-TOC.htm
+Human Language Technology HLT,['20'], /Jun/5,yes,05/SSST-2009-TOC.htm
+Language Resources and Evaluation (LREC),2000,2000/May/29,yes,00/LREC-2000-TOC.htm
+Language Resources and Evaluation (LREC),2002,2002/May/27,no,
+Language Resources and Evaluation (LREC),2002,2002/May/27,no,
+Language Resources and Evaluation (LREC),2004,2004/May/25,no,
+Language Resources and Evaluation (LREC),5391,5391/May/23,no,
+Language Resources and Evaluation (LREC),2012,2012/May/26,yes,10/BUCC-2012-TOC.htm
+Language Resources and Evaluation (LREC),2014,2014/May/27,yes,10/BUCC-2014-TOC.htm
+Recent Advances in Natural Language Processing (RANLP),2005,2005/Sep/24,yes,05/RANLP-2005-TOC.htm
