@@ -1,0 +1,44 @@
+Title	Authors	Pdf	Presentation	Volume_Name
+"A Hybrid Approach to Multilingual Text Processing: Information Extraction and Machine Translation"	"Chinatsu Aone and Hatte Blejer and Mary Ellen Okurowski and Carol Van Ess-Dykema"	http://www.mt-archive.info/AMTA-1994-Aone.pdf		Papers
+"Representing Text Meaning for Multilingual Knowledge-Based Machine Translation"	"Lynn Carlson and Elizabeth Cooper and Ronald Dolan and Steven Maiorano"	http://www.mt-archive.info/AMTA-1994-Carlson.pdf		Papers
+"Using Partially Aligned Parallel Text and Part-of-speech Information in Word Alignment"	"Jyun-Sheng Chang and Huey-Chyun Chen"	http://www.mt-archive.info/AMTA-1994-Chang.pdf		Papers
+"Reengineering Linguistic Resources for Machine Translation in Medical Applications"	"G. Deville and E. Herbigniaux and P. Mousel and G. Thienpont"	http://www.mt-archive.info/AMTA-1994-Deville.pdf		Papers
+"Stylistic Choice in Machine Translation"	"Chrysanne DiMarco"	http://www.mt-archive.info/AMTA-1994-DiMarco.pdf		Papers
+"The Case for a MT Developers' Tool with a Two-Component View of the Interlingua"	"Bonnie Dorr and Clare Voss"	http://www.mt-archive.info/AMTA-1994-Dorr.pdf		Papers
+"Korean to English Translation Using Synchronous TAGs"	"D. Egedi and M. Palmer and H.S. Park and A. Joshi"	http://www.mt-archive.info/AMTA-1994-Egedi.pdf		Papers
+"PANGLYZER: Spanish Language Analysis System"	"David Farwell and Steven Helmreich and Wanying Jin and Mark Casper and Jim Hargrave and Hugo Molina-Salgado and Fuliang Weng"	http://www.mt-archive.info/AMTA-1994-Farwell.pdf		Papers
+"Error Classification for MT Evaluation"	"Mary Flanagan"	http://www.mt-archive.info/AMTA-1994-Flanagan-1.pdf		Papers
+"Integrating Translations from Multiple Sources within the PANGLOSS Mark III Machine Translation System"	"Robert Frederking and Sergei Nirenburg and David Farwell and Steven Helmreich and Eduard Hovy and Kevin Knight and Stephen Beale and Constantino Domashnev and Donalee Attardo and Dean Grannes and Ralf Brown"	http://www.mt-archive.info/AMTA-1994-Frederking.pdf		Papers
+"Aligning Noisy Parallel Corpora Across Language Groups: Word Pair Feature Matching by Dynamic Time Warping"	"Pascale Fung and Kathleen McKeown"	http://www.mt-archive.info/AMTA-1994-Fung.pdf		Papers
+"Complex Verb Transfer Phenomena in the SLT System"	"Björn Gambäck and Ivan Bretan"	http://www.mt-archive.info/AMTA-1994-Gamback.pdf		Papers
+"The Logos Translatability Index"	"Claudia Gdaniec"	http://www.mt-archive.info/AMTA-1994-Gdaniec.pdf		Papers
+"An Adaptation of Lexical Conceptual Structures to Multilingual Processing in an Existing Text Understanding System"	"Bonnie Glover Stalls and Robert Belvin and Alfredo Arnaiz and Christine Montgomery and Robert Stumberger"	http://www.mt-archive.info/AMTA-1994-Glover-Stalls.pdf		Papers
+"PaTrans - A MT System: Development and Implementation of and Experiences from a MT-system"	"Viggo Hansen"	http://www.mt-archive.info/AMTA-1994-Hansen.pdf		Papers
+"From Machine Translation to Automatic Spoken Language Interpretation"	"Dieter Huber"	http://www.mt-archive.info/AMTA-1994-Huber.pdf		Papers
+"Technical Evaluation of MT Systems from the Developer's Point of View: Exploiting Test-Sets for Quality Evaluation"	"H. Isahara and H. Uchino and S. Ogino and T. Okunishi and S. Kinoshita and S. Shibata and T. Sugio and Y. Takayama and S. Doi and T. Nagano and M. Narita and H. Nomura"	http://www.mt-archive.info/AMTA-1994-Isahara.pdf		Papers
+"Integrating Knowledge Bases and Statistics in MT"	"Kevin Knight and Ishwar Chander and Matthew Haines and Vasileios Hatzivassiloglou and Eduard Hovy and Masayo lida and Steve K. Luk and Akitoshi Okumura and Richard Whitney and Kenji Yamada"	http://www.mt-archive.info/AMTA-1994-Knight.pdf		Papers
+"Internationalization and Translatability"	"David Kumhyr and Carla Merrill and Karin Spalink"	http://www.mt-archive.info/AMTA-1994-Kumhyr.pdf		Papers
+"A Parameter-Based Message-Passing Parser for MT of Korean and English"	"Dekang Lin and Bonnie Dorr and Jye-hoon Lee and Sungki Suh"	http://www.mt-archive.info/AMTA-1994-Lin.pdf		Papers
+"Using Bi-textual Alignment for Translation Validation: the TransCheck system"	"Elliott Macklovitch"	http://www.mt-archive.info/AMTA-1994-Macklovitch.pdf		Papers
+"Interlingua vs. Transfer? Knowledge Sharing Across Projects"	"Nadia Mesli"	http://www.mt-archive.info/AMTA-1994-Mesli.pdf		Papers
+"Lexicon-to-Ontology Concept Association Using a Bilingual Dictionary"	"Akitoshi Okumura and Eduard Hovy"	http://www.mt-archive.info/AMTA-1994-Okumura.pdf		Papers
+"Towards Text-Based Machine Translation"	"Jörg Schütz and Bärbel Ripplinger"	http://www.mt-archive.info/AMTA-1994-Schutz.pdf		Papers
+"The ARPA MT Evaluation Methodologies: Evolution, Lessons, and Future Approaches"	"John S. White and Theresa A. O'Connell and Francis E. O'Mara"	http://www.mt-archive.info/AMTA-1994-White.pdf		Papers
+"Learning an English-Chinese Lexicon from a Parallel Corpus"	"Dekai Wu and Xuanyin Xia"	http://www.mt-archive.info/AMTA-1994-Wu.pdf		Papers
+"Is MT Research Doing Any Good?"	"Kenneth Church and Bonnie Dorr and Eduard Hovy and Sergei Nirenburg and Bernard Scott and Virginia Teller"	http://www.mt-archive.info/AMTA-1994-Panel-1.pdf		"Panel Discussions"
+"The Role of MT Evaluation"	"Scott Bennett and George Doddington and Mary Flanagan and Laurie Gerber and Maghi King and Marjorie León and John White"	http://www.mt-archive.info/AMTA-1994-Panel-2.pdf		"Panel Discussions"
+"The Economics of MT"	"Colin Brace and Ron Fournier and Denis Gachot and John Smart and Muriel Vasconcellos and Alan Weaver"	http://www.mt-archive.info/AMTA-1994-Panel-3.pdf		"Panel Discussions"
+"Voices of Experience: MT in Operational Settings"	"Susan Armstrong and Roberta Merchant and Kazunori Muraki and Karin Spalink and Mike Tacelosky and Michelle Vanni and Michael Zarechnak"	http://www.mt-archive.info/AMTA-1994-Panel-4.pdf		"Panel Discussions"
+"Transfer-Driven Machine Translation"	"Osamu Furuse"	http://www.mt-archive.info/AMTA-1994-Furuse.pdf		"System Demonstrations and Presentations "
+"ClearCheck Demonstration"	"Peggy Andersen"	http://www.mt-archive.info/AMTA-1994-Andersen.pdf		"System Demonstrations and Presentations "
+"Machine Translation on CompuServe Forums"	"Mary Flanagan"	http://www.mt-archive.info/AMTA-1994-Flanagan-2.pdf		"System Demonstrations and Presentations "
+"Power Translator"	"Tom Knupp"	http://www.mt-archive.info/AMTA-1994-Knupp.pdf		"System Demonstrations and Presentations "
+"KANT: Knowledge-Based, Accurate Natural Language Translation"	"Teruko Mitamura and Eric Nyberg and Jaime Carbonell"	http://www.mt-archive.info/AMTA-1994-Mitamura.pdf		"System Demonstrations and Presentations "
+"The Klingon Machine Translation Project"	"d'Armond Speers"	http://www.mt-archive.info/AMTA-1994-Speers.pdf		"System Demonstrations and Presentations "
+"Machine-Aided Voice Translation (MAVT): Advanced Development Model"	"Christine Montgomery and Bonnie Glover Stalls and Robert Stumberger and Naicong Li and Robert Belvin and Alfredo Arnaiz and Susan Hirsh Litenatsky"	http://www.mt-archive.info/AMTA-1994-Montgomery.pdf		"System Demonstrations and Presentations "
+"Logos Intelligent Translation System"	"Winfield Scott Bennett"	http://www.mt-archive.info/AMTA-1994-Bennett.pdf		"System Demonstrations and Presentations "
+"LogoVista E to J"	"John Richards"	http://www.mt-archive.info/AMTA-1994-Richards.pdf		"System Demonstrations and Presentations "
+PANGLOSS	"Jaime Carbonell and David Farwell and Robert Frederking and Steven Helmreich and Eduard Hovy and Kevin Knight and Lori Levin and Sergei Nirenburg"	http://www.mt-archive.info/AMTA-1994-Carbonell.pdf		"System Demonstrations and Presentations "
+"Commercial PC-Based Machine Translation Software Packages"	"L. Chris Miller"	http://www.mt-archive.info/AMTA-1994-Miller.pdf		"System Demonstrations and Presentations "
+"SPANAM(™) and ENGSPAN(™)"	"Marjorie León and Julia Aymerich"	http://www.mt-archive.info/AMTA-1994-Leon.pdf		"System Demonstrations and Presentations "
+"SYSTRAN: Demonstration and Company Profile"	"Stephen Dakis"	http://www.mt-archive.info/AMTA-1994-Systran.pdf		"System Demonstrations and Presentations "
