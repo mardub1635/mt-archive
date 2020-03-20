@@ -1,0 +1,46 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Raw_webtext
+Machine Translation: from Research to Real Users
+5th conference of the Association for Machine Translation in the Americas, AMTA 2000,
+Tiburon
+Edited by Stephen D. Richardson
+Berlin/Heidelberg/New York: Springer Verlag, 2002
+ISBN: 3-540-44282-0
+(Lecture Notes in Artificial Intelligence; Lecture Notes in Computer Science 2499)
+Table of Contents
+[For copyright reasons these papers are only available directly from the 
+Technical papers
+Automatic rule learning for resource-limited MT	Jaime Carbonell and Katharina Probst and Erik Peterson and Christian Monson and Alon Lavie and Ralf Brown and Lori Levin			Technical papers	Jaime Carbonell,Katharina Probst, Erik Peterson, Christian Monson, Alon Lavie, Ralf Brown, and Lori Levin: Automatic rule learning for resource-limited MT; pp. 1-10
+Toward a hybrid integarted translation environment	Michael Carl and Andy Way and Reinhard Schäler			Technical papers	Michael Carl,Andy Way, and Reinhard Schäler: Toward a hybrid integarted translation environment ; pp. 11-20
+Adaptive bilingual sentence alignment	Thomas C.Chuang and G.N.You and Jason Chang			Technical papers	Thomas C.Chuang, G.N.You, and Jason Chang: Adaptive bilingual sentence alignment ; pp. 21-30
+DUSTer: a method for unraveling cross-language divergences for statistical word-level alignment	Bonnie J.Dorr and Lisa Pearl and Rebecca Hwa and Nizar Habash			Technical papers	Bonnie J.Dorr, Lisa Pearl,Rebecca Hwa, and Nizar Habash: DUSTer: a method for unraveling cross-language divergences for statistical word-level alignment; pp. 31-43
+Text prediction with fuzzy alignment	George Foster and Philippe Langlais and Guy Lapalme			Technical papers	George Foster,Philippe Langlais,and Guy Lapalme: Text prediction with fuzzy alignment; pp. 44-53
+Efficient integration of maximum entropy lexicon models within the training of statistical alignment models	Ismael Garcia Varea and Franz J.Och and Hermann Ney and Francisco Casacuberta			Technical papers	Ismael Garcia Varea, Franz J.Och, Hermann Ney, and Francisco Casacuberta: Efficient integration of maximum entropy lexicon models within the training of statistical alignment models; pp. 54-63
+Using word formation rules to extend MT lexicons	Claudia Gdaniec and Esmé Manandise			Technical papers	Claudia Gdaniec and Esmé Manandise: Using word formation rules to extend MT lexicons; pp. 64-73
+Example-based machine translation via the Web	Nano Gough and Andy Way and Mary Hearne			Technical papers	Nano Gough,Andy Way, and Mary Hearne: Example-based machine translation via the Web; pp. 74-83
+handling translation divergences: combining statistical and symbolic techniques in generation-heavy machine translation	Nizar Habash and Bonnie Dorr			Technical papers	Nizar Habash and Bonnie Dorr: handling translation divergences: combining statistical and symbolic techniques in generation-heavy machine translation; pp. 84-93
+Korean-Chinese machine translation based on verb patterns	Changhyun Kim and Munpyo Hong and Yinxia Huang and Young Kil Kim and Sung Il Yang and Young Ae Seo and Sung-Kwon Choi			Technical papers	Changhyun Kim, Munpyo Hong, Yinxia Huang, Young Kil Kim, Sung Il Yang, Young Ae Seo, and Sung-Kwon Choi: Korean-Chinese machine translation based on verb patterns; pp. 94-103
+Merging example-based and statistical machine translation: an experiment	Philippe Langlais and Michel Simard			Technical papers	Philippe Langlais and Michel Simard: Merging example-based and statistical machine translation: an experiment; pp.104-113
+Classification a	Hyo-Kyung Lee			Technical papers	Hyo-Kyung Lee: Classification approach to word selection in machine translation ; pp. 114-123
+Better contextual translation using machine learning	Arul Menezes			Technical papers	Arul Menezes: Better contextual translation using machine learning; pp. 124-134
+Fast and accurate sentence alignment of bilingual corpora	Robert C. Moore			Technical papers	Robert C. Moore: Fast and accurate sentence alignment of bilingual corpora; pp. 135-144
+Deriving semantic knowledge from descriptive texts using an MT system	Eric Nyberg and Teruko Mitamura and Kathryn Baker and David Svoboda and Brian Peterson and Jennifer Williams			Technical papers	Eric Nyberg, Teruko Mitamura, Kathryn Baker, David Svoboda, Brian Peterson, and Jennifer Williams: Deriving semantic knowledge from descriptive texts using an MT system; pp. 145-154
+using a large monolingual corpus to improve translation accuracy	Radu Soricut and Kevin Knight and daniel Marcu			Technical papers	Radu Soricut, Kevin Knight, and daniel Marcu: using a large monolingual corpus to improve translation accuracy; pp. 155-164
+Semi-automatic compilation of bilingual lexcion entries from cross-lingually relevant news articles on WWW news sites	Takehito Utsuro and Takashi Horiuchi and Yasunobu Chiba and Takeshi Hamamoto			Technical papers	Takehito Utsuro, Takashi Horiuchi, Yasunobu Chiba, and Takeshi Hamamoto: Semi-automatic compilation of bilingual lexcion entries from cross-lingually relevant news articles on WWW news sites; pp. 165-176
+Bootstra	Ruvan Weerasinghe			Technical papers	Ruvan Weerasinghe: Bootstrapping the lexicon building process for machine translation between 'new' languages; pp. 177-186
+User studies
+A report on the experiences of implementing an MT system for use in a commercial environment	Anthony Clarke and Elisabeth Maier and Hans-Udo Stadler			User studies	Anthony Clarke,Elisabeth Maier, and Hans-Udo Stadler: A report on the experiences of implementing an MT system for use in a commercial environment; pp. 187-194
+Getting the message in: a global company's experience with the new generation of low-cost,high-performance machine translation systems	Vernon Morland			User studies	Vernon Morland: Getting the message in: a global company's experience with the new generation of low-cost,high-performance machine translation systems; pp. 195-206
+An assessment of machine translation for vehicle assembly process planning at Ford Motor Company	Nestor Rychtyckyj			User studies	Nestor Rychtyckyj: An assessment of machine translation for vehicle assembly process planning at Ford Motor Company; pp.207-215
+System descriptions
+Fluent Machines' EliMT system	Eli Abir and Steve Klein and David Miller and Michael Steinbaum			System descriptions	Eli Abir, Steve Klein, David Miller, and Michael Steinbaum: Fluent Machines' EliMT system; pp. 216-219
+LogoMedia TRANSLATE,Version 2.0	Glenn A. Akers			System descriptions	Glenn A. Akers: LogoMedia TRANSLATE,Version 2.0; pp. 220-223
+Natural intelligence in a machine translation system	Howard J.Bender			System descriptions	Howard J.Bender: Natural intelligence in a machine translation system; pp. 224-228
+Translation by the numbers: Language Weaver	Bryce Benjamin and Kevin Knight and Daniel Marcu			System descriptions	Bryce Benjamin, Kevin Knight, and Daniel Marcu: Translation by the numbers: Language Weaver; pp. 229-231
+A new family of the PARS translation systems	Michael Blekhman and Andrei Kursin and Alia Rakova			System descriptions	Michael Blekhman, Andrei Kursin, and Alia Rakova: A new family of the PARS translation systems; pp. 232-236
+MSR-MT: the Microsoft research machine translation system	Willaim B. Dolan and Jessie Pinkham and Stephen D.Richardson			System descriptions	Willaim B. Dolan, Jessie Pinkham, and Stephen D.Richardson: MSR-MT: the Microsoft research machine translation system; pp. 237-239
+The NESPOLE! speech-to-speech translation system	Alon Lavie and Lori Levin and Robert frederking and Fabio Pianesi			System descriptions	Alon Lavie, Lori Levin, Robert frederking, and Fabio Pianesi: The NESPOLE! speech-to-speech translation system; pp. 240-243
+The KANTOO MT sytem: controlled language checker and lexical maintenance tool	Teriuko Mitamura and Eric Nyberg and Kathy Baker and Peter Cramer and Jeongwoo Ko and David Svoboda and Michael Duggan			System descriptions	Teriuko Mitamura,Eric Nyberg, Kathy Baker, Peter Cramer, Jeongwoo Ko, David Svoboda,and Michael Duggan: The KANTOO MT sytem: controlled language checker and lexical maintenance tool ; pp. 244-247
+A	Christine A. Montgomery and Naicong Li			System descriptions	Christine A. Montgomery, and Naicong Li: Approaches to spoken translation; pp. 248-252
+Tutorials
+Example-based machine translation	Ralf Brown	http://www.mt-archive.info/00/AMTA-2002-Brown-tutorial.pdf		Tutorials	Ralf Brown: Example-based machine translation
+The state of the art in language modeling	Joshua Goodman	http://www.mt-archive.info/00/AMTA-2002-Goodman-tutorial.pdf		Tutorials	Joshua Goodman: The state of the art in language modeling

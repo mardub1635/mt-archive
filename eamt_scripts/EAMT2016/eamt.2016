@@ -1,0 +1,1524 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="EAMT-2016-TOC_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>John Hutchins</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>John Hutchins</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>2638</o:TotalTime>
+  <o:Created>2016-12-20T11:07:00Z</o:Created>
+  <o:LastSaved>2017-03-10T11:59:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>1552</o:Words>
+  <o:Characters>8847</o:Characters>
+  <o:Lines>73</o:Lines>
+  <o:Paragraphs>20</o:Paragraphs>
+  <o:CharactersWithSpaces>10379</o:CharactersWithSpaces>
+  <o:Version>15.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="EAMT-2016-TOC_files/themedata.thmx">
+<link rel=colorSchemeMapping href="EAMT-2016-TOC_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>90</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-GB</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073732485 9 0 511 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#0563C1;
+	mso-themecolor:hyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-GB link="#0563C1" vlink="#954F72" style='tab-interval:36.0pt'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:105%;font-family:"Times New Roman",serif'>Proceedings
+of the 19<sup>th</sup> annual conference of the<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:18.0pt;line-height:105%;font-family:"Times New Roman",serif'>European
+Association for Machine Translation (EAMT)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:14.0pt;line-height:105%;font-family:"Times New Roman",serif'>Riga,
+Latvia, 2016<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='margin-top:6.0pt;margin-right:0cm;
+margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center'><b
+style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:normal'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'>Published
+in Baltic Journal of Modern Computing vol.4, pt.2 (2016)<o:p></o:p></span></i></b></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:0cm;margin-bottom:.0001pt'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt;line-height:105%;font-family:"Times New Roman",serif'>Research
+Track<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:0cm;margin-bottom:.0001pt'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Culo.pdf">Patterns of
+terminological variation in post-editing and of cognate use in machine
+translation in contrast to human translation</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Oliver <span class=SpellE>&#268;ulo</span>
+and Jean <span class=SpellE>Nitzke</span><span style='mso-tab-count:10'>                                                                                                               </span>106-114<span
+style='mso-tab-count:1'>      </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Babych.pdf"><span class=SpellE>Graphonological</span>
+<span class=SpellE>Levenshtein</span> edit distance</a>: application for
+automated cognate identification<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Bogdan <span class=SpellE>Babych</span><span
+style='mso-tab-count:11'>                                                                                                                                  </span>115-128<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Passban.pdf">Improving phrase-based
+SMT using cross-granularity embedding similarity</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Peyman</span> <span
+class=SpellE>Passban</span>, Chris <span class=SpellE>Hokamp</span>. Andy Way,
+and <span class=SpellE>Qun</span> Liu<span style='mso-tab-count:6'>                                                              </span>129-140<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Moorkens.pdf">Comparing
+translator acceptability of TM and SMT outputs</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Joss <span class=SpellE>Moorkens</span>
+and Andy Way<span style='mso-tab-count:9'>                                                                                                           </span>141-151<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Forcada-2.pdf">Stand-off
+annotation of web content as a legally safer alternative to crawling for
+distribution</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Mikel L. <span class=SpellE>Forcada</span>,
+Miquel <span class=SpellE>Esplà-Gomis</span> and Juan Pérez-Ortiz<span
+style='mso-tab-count:5'>                                                           </span>152-164<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Li.pdf">Combining translation
+memories and syntax-based SMT: experiments with real industrial data</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Liangyou</span>
+Li, Carla Parra <span class=SpellE>Escartín</span>, and <span class=SpellE>Qun</span>
+Liu<span style='mso-tab-count:7'>                                                                                </span>165-177<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Sim-Smith.pdf">The trouble with
+machine translation coherence</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Karin Sim Smith, <span class=SpellE>Wilker</span>
+Aziz, and Lucia <span class=SpellE>Specia</span><span style='mso-tab-count:
+7'>                                                                               </span>178--189<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Hoang.pdf">Pivoting methods and data
+for Czech-Vietnamese translation via English</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Duc</span> Tam
+Hoang and <span class=SpellE>Ond&#345;ej</span> <span class=SpellE>Bojar</span><span
+style='mso-tab-count:9'>                                                                                                     </span>190-202<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Tezcan.pdf">Detecting grammatical
+errors in machine translation output using dependency parsing and treebank
+querying</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Arda</span> <span
+class=SpellE>Tezcan</span>, <span class=SpellE>Véronique</span> <span
+class=SpellE>Hoste</span> and <span class=SpellE>Lieve</span> <span
+class=SpellE>Macken</span><span style='mso-tab-count:7'>                                                                            </span>203-217<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Popovic.pdf">Potential and limits
+of using post-edits as reference translations for MT evaluation</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Maja <span class=SpellE>Popovi&#263;</span>,
+<span class=SpellE>Mihael</span> <span class=SpellE>Ar&#269;an</span>, and <span
+class=SpellE>Arle</span> <span class=SpellE>Lommel</span> <span
+style='mso-tab-count:7'>                                                                               </span>218-229<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Stajner.pdf">Can text
+simplification help machine translation</a>?<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Sanja</span> <span
+class=SpellE>Štajner</span> and Maja <span class=SpellE>Popovi&#263;</span><span
+style='mso-tab-count:9'>                                                                                                         </span>230-242<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Echegoyhen.pdf">A portable method
+for parallel and comparable document alignment</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Thierry <span class=SpellE>Etchegoyhen</span>
+and <span class=SpellE>Andoni</span> <span class=SpellE>Azpeitia</span><span
+style='mso-tab-count:8'>                                                                                        </span>243-255<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Bechara.pdf">Semantic textual
+similarity in quality estimation</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Hanna <span class=SpellE>Béchara</span>,
+Carla <span class=SpellE>Escartín</span>, Constantia <span class=SpellE>Or&#1233;san</span>,
+and Lucia <span class=SpellE>Specia</span><span style='mso-tab-count:4'>                                              </span>256-268<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Smith.pdf">Climbing Mount BLEU:
+the strange world of reachable high-BLEU translations</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Aaron Smith, Christian <span
+class=SpellE>Hardmeier</span>, and <span class=SpellE>Jörg</span> Tiedemann<span
+style='mso-tab-count:6'>                                                                   </span>269-281<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Domingo.pdf">Interactive-predictive
+translation based on multiple word segments</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Miguel Domingo, Álvaro <span
+class=SpellE>Peris</span>, and Francisco <span class=SpellE>Casacuberta</span><span
+style='mso-tab-count:6'>                                                              </span>282-291<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Luong.pdf">A contextual language
+model to improve machine translation of pronouns by re-ranking translation
+hypotheses</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Ngoc-<span class=SpellE>Quang</span>
+Luong, and Andrei <span class=SpellE>Popescu-Belis</span><span
+style='mso-tab-count:7'>                                                                                </span>291-304<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Steele.pdf">Predicting and using
+implicit discourse elements in Chinese-English translation</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>David Steele and Lucia <span
+class=SpellE>Specia</span><span style='mso-tab-count:9'>                                                                                                           </span>305-317<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Hardmeier.pdf">A graphical
+pronoun analysis tool for the PROTEST pronoun evaluation test suite</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Christian <span class=SpellE>Hardmeier</span>
+and Liane <span class=SpellE>Guillou</span><span style='mso-tab-count:8'>                                                                                              </span>318-330<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Schaeffer.pdf">Measuring
+cognitive translation effort with activity units</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Moritz Schaeffer, Michael Carl,
+Isabel <span class=SpellE>Lacruz</span>, and Akiko <span class=SpellE>Aizawa</span><span
+style='mso-tab-count:5'>                                                   </span>331-335<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;line-height:
+105%;font-family:"Times New Roman",serif'>User track<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Hu.pdf">A comparative study of
+post-editing guidelines</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Ke</span> Hu and
+Patrick <span class=SpellE>Cadwell</span><span style='mso-tab-count:10'>                                                                                                                </span>346-353<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Sanchez-Cartagena.pdf">Dealing
+with data sparseness in SMT with factored models and morphological expansion</a>:
+a case study on <span class=SpellE>Croation</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Victor Sánchez-Cartagena, Nikola <span
+class=SpellE>Ljubeši&#263;</span>, and Filip <span class=SpellE>Klubi&#269;ka</span><span
+style='mso-tab-count:5'>                                                       </span>354-360<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Klubicka.pdf">Collaborative
+development of a rule-based machine translator between Croatian and Serbian</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Filip <span class=SpellE>Klubi&#269;ka</span>,
+<span class=SpellE>Gema</span> <span class=SpellE>Ramírez</span>-Sánchez, and
+Nikola <span class=SpellE>Ljubeši&#263;</span><span style='mso-tab-count:5'>                                                           </span>361-367<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Toral.pdf">Re-assessing the
+impact of SMT techniques with human evaluation</a>: a case study on <span
+class=SpellE>English&#8596;Crotian</span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Antonio <span class=SpellE>Toral</span>,
+Raphael <span class=SpellE>Rubino</span>, and <span class=SpellE>Gema</span> <span
+class=SpellE>Ramírez</span>-Sánchez<span style='mso-tab-count:5'>                                                           </span>368-375<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><b
+style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;line-height:
+105%;font-family:"Times New Roman",serif'>Projects/Products<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Popel.pdf"><span class=SpellE>TectoMT</span>
+– a deep linguistic core of the combined <span class=SpellE>Cimera</span> MT
+system</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Martin <span class=SpellE>Popel</span>,
+Roman <span class=SpellE>Sudarikov</span>, <span class=SpellE>Ond&#345;ej</span>
+<span class=SpellE>Bojar</span>, Rudolf Rosa, and Jan <span class=SpellE>Haji&#269;</span><span
+style='mso-tab-count:3'>                                   </span><span
+style='mso-tab-count:1'>            </span>377<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Barczewska.pdf"><span
+class=SpellE>WiTKoM</span> – virtual sign language translator project</a>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Katarzyna</span> <span
+class=SpellE>Barczewska</span>, Jakub <span class=SpellE>Galka</span>, Filip <span
+class=SpellE>Malawski</span>, <span class=SpellE>Mariusz</span> <span
+class=SpellE>M&#261;sior</span>, <span class=SpellE>Dorota</span> <span
+class=SpellE>Szulc</span>, Tomasz <span class=SpellE>Wilczy&#324;ski</span>,
+&amp; Krzysztof <span class=SpellE>Wróbel</span><span style='mso-tab-count:
+10'>                                                                                                                    </span><span
+style='mso-tab-count:4'>                                                </span>378<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="EAMT-2016-Paetzold.pdf">Multi-level quality prediction with <span
+class=SpellE>QuEst</span>++</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'>Gustavo
+<span class=SpellE>H.Paetzold</span> &amp; Lucia <span class=SpellE>Specia</span><span
+style='mso-tab-count:10'>                                                                                                              </span>379<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Forcada-3.pdf"><span
+class=SpellE>Apertium</span>: a free/open source platform for machine
+translation and basic language technology</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Mikel <span class=SpellE>L.Forcada</span>
+&amp; Francis <span class=SpellE>M.Tyers</span><span style='mso-tab-count:9'>                                                                                                   </span>380<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mtarchive.info/15/EAMT-2016-Bouillon.pdf"><span class=SpellE>BabelDr</span>:
+a web platform for rapid construction of phrasebook-style medical speech
+translation applications</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Pierrette</span>
+Bouillon &amp; <span class=SpellE>Hervé</span> <span class=SpellE>Spechbach</span><span
+style='mso-tab-count:8'>                                                                                               </span>381<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Vandeghinste.pdf">SCATE – smart
+computer aided translation environment</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>V.Vandeghinste</span>,
+<span class=SpellE>T.Vanallemeersch</span>, <span class=SpellE>L.Augustinus</span>,
+<span class=SpellE>J.Pelemans</span>, <span class=SpellE>G.Heymans</span>, <span
+class=SpellE>I.Van</span> der <span class=SpellE>Lek-Ciudin</span>, <span
+class=SpellE>A.Tezcan</span>, <span class=SpellE>D.Degraen</span>, <span
+class=SpellE>J.Van</span> den Bergh, <span class=SpellE>L.Macken</span>, <span
+class=SpellE>E.Lefever</span>, <span class=SpellE>M.Moens</span>, <span
+class=SpellE>P.Wambacq</span>, <span class=SpellE>F.Steurs</span>, <span
+class=SpellE>K.Coninx</span>, &amp; <span class=SpellE>F.Van</span> <span
+class=SpellE>Eynde</span><span style='mso-tab-count:1'>   </span>382<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Haddow.pdf"><span class=SpellE>HimL</span>:
+Health in my language</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Barry <span class=SpellE>Haddow</span>
+&amp; Alex Fraser<span style='mso-tab-count:10'>                                                                                                            </span>383<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Tiedemann.pdf">OPUS – parallel
+corpora for everyone</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Jörg</span>
+Tiedemann<span style='mso-tab-count:11'>                                                                                                                                   </span>384<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Costa-jussa.pdf">Integration of
+machine translation paradigms</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Marta R. Costa-<span class=SpellE>jussà</span><span
+style='mso-tab-count:11'>                                                                                                                           </span>385<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Hofmann.pdf">STAR Transit &amp;
+STAR MT: morphologically generated additional information for improving MT
+quality</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:
+36.0pt'><span class=SpellE><span style='font-size:12.0pt;line-height:105%;
+font-family:"Times New Roman",serif'>Nadira</span></span><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'>
+Hofmann<span style='mso-tab-count:11'>                                                                                                                                 </span>386<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Ramirez-Sanchez.pdf"><span
+class=SpellE>AltLang</span>: an automatic converter between varieties of
+English, Spanish, French and Portuguese</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Gema</span> <span
+class=SpellE>Ramírez-Sànchez</span><span style='mso-tab-count:10'>                                                                                                                      </span>387<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Nikiforovs.pdf"><span
+class=SpellE><span class=GramE>iEMS</span></span> – interactive experiment management
+system for machine translation</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>P&#275;teris</span>
+<span class=SpellE>&#7750;ikiforovs</span><span style='mso-tab-count:11'>                                                                                                                               </span>388<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Casanellas.pdf"><span
+class=SpellE>KantanLQR</span>: a platform for human evaluation of machine
+translation output to drive engine rapid improvement</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Laura <span class=SpellE>Casanellas</span>
+<span class=SpellE>Luri</span><span style='mso-tab-count:11'>                                                                                                                         </span>389<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Helle.pdf"><span class=SpellE>PangeaMT</span>
+v 3 – customise your own machine translation environment</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Alexandre <span class=SpellE>Helle</span>
+&amp; Manuel <span class=SpellE>Herranz</span><span style='mso-tab-count:9'>                                                                                                   </span>390<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Ranta.pdf">International
+translation in the Grammatical Framework (GF)</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Aarne</span> <span
+class=SpellE>Ranta</span>, <span class=SpellE>Kasimir</span> <span
+class=SpellE>Angelov</span>, Thomas <span class=SpellE>Hallgren</span>, <span
+class=SpellE>Prasanth</span> <span class=SpellE>Kolachina</span>, &amp; Inari <span
+class=SpellE>Listenmaa</span><span style='mso-tab-count:2'>             </span>391<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Ranta-2.pdf">Domain-specific
+multilingual translation for producers of information</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Aarne</span> <span
+class=SpellE>Ranta</span>, <span class=SpellE>Kasimir</span> <span
+class=SpellE>Angelov</span>, Markus Forsberg, &amp; Thomas <span class=SpellE>Hallgren</span><span
+style='mso-tab-count:4'>                                            </span>392<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Orasan.pdf">The EXPERT project:
+training the future experts in translation technology</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Constantin <span class=SpellE>Orašan</span><span
+style='mso-tab-count:11'>                                                                                                                              </span>393<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Ceausu.pdf"><span class=SpellE>Amplexor</span>
+<span class=SpellE>MTExpert</span> – machine translation adapted to the
+translation workflow</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Alexandru</span> <span
+class=SpellE>Ceausu</span>, Sabine <span class=SpellE>Hunsicker</span>, &amp; <span
+class=SpellE>Tudy</span> <span class=SpellE>Droumaguet</span><span
+style='mso-tab-count:6'>                                                             </span>394<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Toral-2.pdf">Abu-<span
+class=SpellE>MaTran</span>: automatic building of machine translation</a>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Antonio <span class=SpellE>Toral</span>,
+Sergio Ortiz Rojas, Mikel <span class=SpellE>Forcada</span>, Nikola <span
+class=SpellE>Lubesic</span>, &amp; <span class=SpellE>Prokopis</span> <span
+class=SpellE>Prokopis</span><span style='mso-tab-count:2'>                </span>395<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Kordoni.pdf"><span class=SpellE>TraMOOC</span>
+(Translation for Massive Open Online Courses): providing reliable MT for MOOCs</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>Valia</span> <span
+class=SpellE>Kordoni</span>, Lexi Birch, <span class=SpellE>Ioana</span> <span
+class=SpellE>Buliga</span>, <span class=SpellE>Kostadin</span> <span
+class=SpellE>Cholakov</span>, Markus Egg, Federico <span class=SpellE>Gaspari</span>,
+<span class=SpellE>Yota</span> <span class=SpellE>Georgakopolou</span>, Maria <span
+class=SpellE>Gialama</span>, Iris <span class=SpellE>Hendrickx</span>, <span
+class=SpellE>Mitja</span> <span class=SpellE>Jermol</span>, Katia <span
+class=SpellE>Kermanidis</span>, Joss <span class=SpellE>Moorkens</span>, <span
+class=SpellE>Davor</span> <span class=SpellE>Orlic</span>, Michael
+Papadopoulos, Maja <span class=SpellE>Popovi&#263;</span>, Rico <span
+class=SpellE>Sennrich</span>, <span class=SpellE>Vilelmini</span> <span
+class=SpellE>Sosoni</span>, <span class=SpellE>Dimitrios</span> <span
+class=SpellE>Tsoumakos</span>, <span class=SpellE>Antal</span> van den Bosch,
+Menno van <span class=SpellE>Zaanen</span>, Andy Way<span style='mso-tab-count:
+1'>          </span>396<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Germann.pdf">Modern MT: a new
+open-source machine translation platform for the translation industry</a>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>U.Germann</span>,
+<span class=SpellE>E.Barbu</span>, <span class=SpellE>L.Bentivogli</span>, <span
+class=SpellE>N.Bertoldi</span>, <span class=SpellE>N.Bogoychev</span>, <span
+class=SpellE>C.Buck</span>, <span class=SpellE>D.Caroselli</span>, <span
+class=SpellE>L.Carvalho</span>, <span class=SpellE>A.Cattelan</span>, <span
+class=SpellE>R.Cettolo</span>, <span class=SpellE>M.Federico</span>, <span
+class=SpellE>B.Haddow</span>, <span class=SpellE>D.Madl</span>, <span
+class=SpellE>L.Mastrostefano</span>, <span class=SpellE>P.Mathur</span>, <span
+class=SpellE>A.Ruopp</span>, <span class=SpellE>A.Samiotou</span>, <span
+class=SpellE>V.Sudharshan</span>, <span class=SpellE>M.Trombetti</span>, Jan
+van der Meer<span style='mso-tab-count:8'>                                                                                              </span><span
+style='mso-tab-count:6'>                                                                        </span>397<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Popescu-Belis.pdf">MODERN: modelling
+discourse entities and relations for coherent machine translation</a>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span><span class=SpellE>A.Popescu-Belis</span>,
+<span class=SpellE>J.Evers-Vermeul</span>, <span class=SpellE>M.Fishel</span>, <span
+class=SpellE>C.Grisot</span>, <span class=SpellE>M.Groen</span>, <span
+class=SpellE>J.Hoeck</span>, <span class=SpellE>S.Loaiciga</span>, <span
+class=SpellE>N.Q.Luong</span>, <span class=SpellE>L.Mascarelli</span>, <span
+class=SpellE>T.Meyer</span>, <span class=SpellE>L.Miculicich</span>, <span
+class=SpellE>J.Moeschler</span>, <span class=SpellE>X.Pu</span>, <span
+class=SpellE>A.Rios</span>, <span class=SpellE>T.Sanders</span>, <span
+class=SpellE>M.Volk</span>, <span class=SpellE>S.Zufferey</span><span
+style='mso-tab-count:2'>              </span><span style='mso-tab-count:3'>                                    </span>398<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Rehm.pdf">Digital curation
+technologies (DKT)</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Georg <span class=SpellE>Rehm</span>
+&amp; Felix Sasaki<span style='mso-tab-count:10'>                                                                                                               </span>399<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><a
+href="http://www.mt-archive.info/15/EAMT-2016-Rehm-2.pdf">CRACKER – cracking
+the language barrier. Selected results 2015/2016</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><span
+style='mso-tab-count:1'>            </span>Georg <span class=SpellE>Rehm</span><span
+style='mso-tab-count:12'>                                                                                                                                        </span>400<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span
+style='font-size:12.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

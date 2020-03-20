@@ -1,0 +1,41 @@
+Title	Authors	Pdf
+Introduction	"Maegaard, Bente"	http://www.mt-archive.info/05/EAMT-2005-Maegaard.pdf
+"The Language Translation Interface"	"Estival, Dominique"	http://www.mt-archive.info/05/EAMT-2005-Estival.pdf
+"Codified close translation as a standard for MT"	"Ahrenberg, Lars"	http://www.mt-archive.info/05/EAMT-2005-Ahrenberg.pdf
+"Machine translation for Catalan↔Spanish: the real case for productive MT"	"Alberto Alonso, Juan"	http://www.mt-archive.info/05/EAMT-2005-Alonso.pdf
+"Building a conversation corpus by text derivation from ""germ dialogs"""	"Asanoma, Naoki and Yamada, Setsuo and Furuse, Osamu and Oku, and Masahiro"	http://www.mt-archive.info/05/EAMT-2005-Asanoma.pdf
+"Comparison of generation strategies for interactive machine translation"	"Bender, Oliver and Hasan, Saša and Vilar, David and Zens, Richard and Ney, Hermann"	http://www.mt-archive.info/05/EAMT-2005-Bender.pdf
+"Are we making ourselves clear? Terminology management and machine translation at Volkswagen"	"Bernardi, Ulrike and Bocsak, Andras and Porsiel, Jörg"	http://www.mt-archive.info/05/EAMT-2005-Bernardi.pdf
+"A generic multi-lingual open source platform for limited-domain medical speech translation"	"Bouillon, Pierrette and Rayner, Manny and Chatzichrisafis, Nikos and Hockey, Beth Ann and Santaholma, Marianne and Starlander, Marianne and Nakao, Yukie and Kanzaki, Kyoko and Isahara, Hitoshi"	http://www.mt-archive.info/05/EAMT-2005-Bouillon.pdf
+"A compact data structure for searchable translation memories"	"Callison-Burch, Chris and Bannard, Colin and Schroeder, Josh"	http://www.mt-archive.info/05/EAMT-2005-Callison-Burch.pdf
+"Using template-grammars for shake & bake paraphrasing"	"Carl, Michael and Rascu, Ecaterina and Schmidt, Paul"	http://www.mt-archive.info/05/EAMT-2005-Carl.pdf
+"Prague Czech-English dependency treebank: resource for structure-based MT"	"Čmejrek, Martin and Cuřín, Jan and Hajič, Jan and Havelka, Jiří"	http://www.mt-archive.info/05/EAMT-2005-Cmejrek.pdf
+"An open-source shallow-transfer machine translation engine for the Romance languages of Spain"	"Corbi-Bellot, Antonio M. And Forcada, Mikel L. And Ortíz-Rojas, Sergio and Pérez-Ortiz, Juan Antonio and Ramírez-Sánchez, Gema and Sánchez-Martínez, Felipe and Alegria, Iñaki and Mayor, Aingeru and Sarasola, Kepa"	http://www.mt-archive.info/05/EAMT-2005-Corbi-Bellot.pdf
+"A framework for interactive and automatic refinement of transfer-based machine translation"	"Llitjós, Ariadna Font and Carbonell, Jaime G. And Lavie, Alon"	http://www.mt-archive.info/05/EAMT-2005-Font-Llitjos.pdf
+"Extraction of translation equivalents from parallel corpora using sense-sensitive contexts"	"Gamallo Otero, Pablo"	http://www.mt-archive.info/05/EAMT-2005-Gamallo-Otero.pdf
+"Sentence-level MT evaluation without reference translations: beyond language modeling"	"Gamon, Michael and Aue, Anthony and Smets, Martine"	http://www.mt-archive.info/05/EAMT-2005-Gamon.pdf
+"Target language preposition selection – an experiment with transformation based learning and aligned bilingual data"	"Gustavii, Ebba"	http://www.mt-archive.info/05/EAMT-2005-Gustavii.pdf
+"Clustered language models based on regular expressions for SMT"	"Hasan, Saša and Ney, Hermann"	http://www.mt-archive.info/05/EAMT-2005-Hasan.pdf
+"Augmenting a statistical translation system with a translation memory"	"Hewavitharana, Sanjika and Vogel, Stephan and Waibel, Alex"	http://www.mt-archive.info/05/EAMT-2005-Hewavitharana.pdf
+"Adaptation of the translation model for statistical machine translation based on information retrieval"	"Hildebrand, Almut Silja and Eck, Matthias and Vogel, Stephan and Waibel, Alex"	http://www.mt-archive.info/05/EAMT-2005-Hildebrand.pdf
+"Multi-engine machine translation guided by explicit word matching"	"Jayaraman, Shyamsundar and Lavie, Alon"	http://www.mt-archive.info/05/EAMT-2005-Jayaraman.pdf
+"Symmetric probabilistic alignment for example-based translation"	"Kim, Jae Dong and Brown, Ralf D. and Jansen, Peter J. and Carbonell, and Jaime G."	http://www.mt-archive.info/05/EAMT-2005-Kim.pdf
+"An experiment in MT post-editing by a class of intermediate/advanced French majors"	"Kliffer, Michael"	http://www.mt-archive.info/05/EAMT-2005-Kliffer.pdf
+"From the real world to real words: the METEO case"	"Langlais, Philippe and Leplus, Thomas and Gandrabur, Simona and Lapalm, and Guy"	http://www.mt-archive.info/05/EAMT-2005-Langlais.pdf
+"The MT developer/provider and the global corporation"	"Lewis, Terence and Meier, Rudolf M."	http://www.mt-archive.info/05/EAMT-2005-Lewis.pdf
+"Efficient statistical machine translation with constrained reordering"	"Matusov, Evgeny and Kanthak, Stephan and Ney, Hermann"	http://www.mt-archive.info/05/EAMT-2005-Matusov.pdf
+"TransBooster: boosting the performance of wide-coverage machine translation systems"	"Mellebeek, Bart and Khasin, Anna and Van Genabith, Josef and Way, Andy"	http://www.mt-archive.info/05/EAMT-2005-Mellebeek.pdf
+"Holistic regression testing for high-quality MT: some methodological and technological reflections"	"Oepen, Stephan and Dyvik, Helge and Flickinger, Dan and Lønning, Jan Tore and Meurer, Paul and Rosén, Victoria"	http://www.mt-archive.info/05/EAMT-2005-Oepen.pdf
+"Building a WSD module within an MT system to enable interactive resolution in the user’s source language"	"Orasan, Constantin and Marshall, Ted and Clark, Robert and Ha, Le An and Mitkov, Ruslan"	http://www.mt-archive.info/05/EAMT-2005-Orasan.pdf
+"Exploiting phrasal lexica and additional morpho-syntactic language resources for statistical machine translation with scarce training data"	"Popovic, Maja and Ney, Hermann"	http://www.mt-archive.info/05/EAMT-2005-Popovic.pdf
+"An approach to machine translation via the rule-to-rule hypothesis"	"Prószéky, Gábor"	http://www.mt-archive.info/05/EAMT-2005-Proszeky.pdf
+"Linguistic representation of Finnish in a limited domain speech-to-speech translation system"	"Santaholma, Marianne"	http://www.mt-archive.info/05/EAMT-2005-Santaholma.pdf
+"Integrating CAT and MT in AnglaBhart-II architecture"	"Sinha, K. And Mahesh, R. "	http://www.mt-archive.info/05/EAMT-2005-Sinha-1.pdf
+"Translation divergence in English-Hindi MT"	"Sinha, K. And Mahesh, R. And Thakur, Anil"	http://www.mt-archive.info/05/EAMT-2005-Sinha-2.pdf
+"Lexicon-coding workflow at CLS Communication"	"Stadler, Hans-Udo"	http://www.mt-archive.info/05/EAMT-2005-Stadler.pdf
+"Application of word-level confidence measures in interactive statistical machine translation"	"Ueffing, Nicola and Ney, Hermann"	http://www.mt-archive.info/05/EAMT-2005-Ueffing.pdf
+"Considerations in maximum mutual information and minimum classification error training for statistical machine translation"	"Vengupol, Ashish and Vogel, Stephan"	http://www.mt-archive.info/05/EAMT-2005-Venugopal.pdf
+"Sentence segmentation using IBM word alignment model 1"	"Xu, Jia and Zens, Richard and Ney, Hermann"	http://www.mt-archive.info/05/EAMT-2005-Xu.pdf
+"Initial considerations in building a speech-to-speech translation system for the Slovenian-English language pair"	"ŽganecGros, J. and Mihelič, A. and Žganec, M. and Mihelič, F. and Dobrišek, S. and Žibert, J. and Vintar, Š. and Korošec, T. and Erjavec, T. and Romih, and M."	http://www.mt-archive.info/05/EAMT-2005-Zganec-Gros.pdf
+"An efficient phrase-to-phrase alignment model for arbitrarily long phrase and large corpora"	"Zhang, Ying and Vogel, Stephan"	http://www.mt-archive.info/05/EAMT-2005-Zhang.pdf
+"MT News International  no. 35"		http://www.mt-archive.info/05/MTNI-35.pdf

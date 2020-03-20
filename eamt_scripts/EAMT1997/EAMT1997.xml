@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<collection id="str1234">
+  <volume id="str1234">
+    <meta>
+      <booktitle>
+        European Association for Machine Translation
+      </booktitle>
+      <url>http://www.mt-archive.info/90/EAMT-1997-TOC.htm</url>
+      <editor>
+        <first>str1234</first>
+        <last>str1234</last>
+      </editor>
+      <publisher>str1234</publisher>
+      <address>Copenhagen, Denmark</address>
+      <month>May</month>
+      <year>1997</year>
+    </meta>
+    <frontmatter>
+      <url>str1234</url>
+    </frontmatter>
+    <paper id="str1234">
+      <title>Economics of translation tools -- Experience gained at Swiss Bank Corporation
+      </title>
+      <author id="1">
+        <first>Doris</first>
+        <last>Marty-Albisser</last>
+      </author>
+      <pages>str1234</pages>
+      <url>str1234</url>
+      <revision href="str1234" id="str1234"/>
+    </paper>
+  </volume>
+</collection>

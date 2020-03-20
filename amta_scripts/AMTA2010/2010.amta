@@ -1,0 +1,1487 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40"
+xmlns:ns1="http://schemas.microsoft.com/office/2004/12/omml">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<base href="http://www.mt-archive.info/10/" target="_self">
+<link rel=File-List
+href="file:///C:\Users\John\Documents\MT%20Archive\MT-A%20new\transf%2010\AMTA-2010-TOC_files\filelist.xml">
+<title> AMTA 2010: table of contents</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="address"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="Street"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073741899 0 0 159 0;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:NimbusRomNo9L-Medi;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h2
+	{mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:13.0pt;
+	mso-bidi-font-size:13.0pt;
+	font-family:Cambria;
+	mso-ascii-font-family:Cambria;
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:Cambria;
+	mso-bidi-font-family:"Times New Roman";
+	color:#4F81BD;
+	font-weight:bold;}
+p.Noparagraphstyle, li.Noparagraphstyle, div.Noparagraphstyle
+	{mso-style-name:"\[No paragraph style\]";
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	line-height:120%;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.Default, li.Default, div.Default
+	{mso-style-name:Default;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+span.bold
+	{mso-style-name:bold;}
+span.company
+	{mso-style-name:company;}
+span.StyleGeorgia11pt
+	{mso-style-name:"Style Georgia 11 pt";
+	mso-ansi-font-size:11.0pt;
+	font-family:Georgia;
+	mso-ascii-font-family:Georgia;
+	mso-hansi-font-family:Georgia;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 9.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="10242"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-GB link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:108.0pt 252.0pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:22.0pt;
+font-family:Georgia;mso-ansi-language:EN-US'>AMTA 2010<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:108.0pt 252.0pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+font-family:Georgia;mso-ansi-language:EN-US'>The Ninth Conference of the<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:108.0pt 252.0pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+font-family:Georgia;mso-ansi-language:EN-US'>Association for Machine
+Translation in the <st1:place w:st="on"><st1:country-region w:st="on">Americas</st1:country-region></st1:place><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:108.0pt 252.0pt'><st1:place
+w:st="on"><st1:City w:st="on"><b style='mso-bidi-font-weight:normal'><span
+  lang=EN-US style='font-family:Georgia;mso-ansi-language:EN-US'>Denver</span></b></st1:City><b
+ style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-family:Georgia;
+ mso-ansi-language:EN-US'>, <st1:State w:st="on">Colorado</st1:State></span></b></st1:place><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-family:Georgia;
+mso-ansi-language:EN-US'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:108.0pt 252.0pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-family:Georgia;
+mso-ansi-language:EN-US'>October 31 – November 4<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:108.0pt 252.0pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-family:Georgia;
+mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;tab-stops:108.0pt 252.0pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:16.0pt;
+font-family:Georgia;mso-ansi-language:EN-US'>Table of Contents<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt;mso-para-margin-top:.6gd;tab-stops:
+right dotted 417.6pt left blank 423.0pt'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:14.0pt;font-family:Georgia;mso-ansi-language:EN-US'>Keynote
+Presentations</span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:7.2pt;mso-para-margin-top:.6gd;tab-stops:
+right dotted 417.6pt left blank 423.0pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Hartmann.pdf">Real Voices: What translators do and why we need
+to keep doing it</a></span><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'> </span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Nicholas
+Hartmann, Scientific and Technical Translator; President, American Translators
+Association (2009-2011)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Jost
+Zetzsche, Freelance Translator, Author</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt;mso-para-margin-top:.6gd;tab-stops:
+right dotted 417.6pt left blank 423.0pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="../papers/*.*"></a>&quot;What
+in the World is Everybody Talking about?&quot;</span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Paul
+Bremer, AppTek</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt;mso-para-margin-top:.6gd;tab-stops:
+right dotted 417.6pt left blank 423.0pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="../papers/*.*"></a>&quot;Ten
+Years of MT: A Commercial Case Study&quot;</span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Mark
+Lancaster, SDL</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Jaap
+van Der Meer, TAUS</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Philipp
+Koehn, <st1:place w:st="on"><st1:PlaceType w:st="on">University</st1:PlaceType>
+ of <st1:PlaceName w:st="on">Edinburgh</st1:PlaceName></st1:place></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt;mso-para-margin-top:.6gd;tab-stops:
+right dotted 417.6pt left blank 423.0pt'><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-size:11.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:7.2pt;mso-para-margin-top:.6gd;tab-stops:
+right dotted 417.6pt left blank 423.0pt'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:14.0pt;font-family:Georgia;mso-ansi-language:EN-US'>MT
+Research Program Papers: Oral and Poster Presentations<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Carter.pdf">Discriminative Syntactic Reranking for Statistical
+Machine Translation</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Simon
+Carter and Christof Monz (UVA)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Koehn.pdf">Fast Approximate String Matching with Suffix Arrays
+and A* Parsing</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Philipp
+Koehn and Jean Senellart (U <st1:place w:st="on"><st1:City w:st="on">Edinburgh</st1:City></st1:place>)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Specia.pdf">Combining Confidence Estimation and Reference-based
+Metrics for Segment-level MT Evaluation</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Lucia
+Specia and Jesús Giménez (U <st1:place w:st="on">Wolverhampton</st1:place>, UP
+Catalunya)</span></span><span class=StyleGeorgia11pt><span style='font-size:
+11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-AlHaj.pdf">The Impact of Arabic Morphological Segmentation on
+Broad-coverage English-to-Arabic Statistical Machine Translation</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Hassan
+Al-Haj and Alon Lavie (CMU)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Sawaf.pdf">Arabic Dialect Handling in Hybrid Machine
+Translation</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Hassan
+Sawaf (AppTek)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Ahsan.pdf">Coupling Statistical Machine Translation with
+Rule-based Transfer and Generation</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Arafat
+Ahsan, Prasanth Kolachina, Sudheer Kolachina, Dipti Misra and Rajeev Sangal
+(IIIT)</span></span><span class=StyleGeorgia11pt><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Baker.pdf">Semantically-Informed Syntactic Machine Translation:
+A Tree-Grafting Approach</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Kathryn
+Baker (DoD), Michael Bloodgood (JHU), Chris Callison-Burch (JHU), Bonnie Dorr
+(UMD), Nathaniel Filardo (JHU), Lori Levin (CMU), Scott Miller (BBN) and
+Christine Piatko (JHU)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Stein.pdf">A Cocktail of Deep Syntactic Features for
+Hierarchical Machine Translation</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Daniel
+Stein, Stephan Peitz, David Vilar and Hermann Ney (U <st1:place w:st="on"><st1:City
+ w:st="on">Aachen</st1:City></st1:place>)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-Du.pdf">Using
+TERp to Augment the System Combination for SMT</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Jinhua
+Du and <st1:Street w:st="on"><st1:address w:st="on">Andy Way</st1:address></st1:Street>
+(DCU)</span></span><span class=StyleGeorgia11pt><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-Bryl.pdf">f-align:
+An Open-Source Alignment Tool for LFG f-Structures</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Anton
+Bryl (DCU) and Josef van Genabith (<st1:place w:st="on"><st1:PlaceName w:st="on">Trinity</st1:PlaceName>
+ <st1:PlaceType w:st="on">College</st1:PlaceType></st1:place>)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Jiang.pdf">Improved Phrase-based SMT with Syntactic Reordering
+Patterns Learned from Lattice Scoring</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Jie
+Jiang, Jinhua Du and <st1:Street w:st="on"><st1:address w:st="on">Andy Way</st1:address></st1:Street>
+(DCU)</span></span><span class=StyleGeorgia11pt><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Irvine.pdf">Transliterating From All Languages</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Ann
+Irvine, Chris Callison-Burch and Alexandre Klementiev (JHU)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Huang.pdf">Using Sublexical Translations to Handle the OOV
+Problem in MT</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Chung-chi
+Huang, Ho-ching Yen, Shih-ting Huang and Jason Chang (National Tsing Hua U)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Sennrich.pdf">MT-based Sentence Alignment for OCR-generated
+Parallel Texts</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Rico
+Sennrich and Martin Volk (U <st1:place w:st="on"><st1:City w:st="on">Zurich</st1:City></st1:place>)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-Wu.pdf">Detecting
+Cross-lingual Semantic Similarity Using Parallel PropBanks</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Shumin
+Wu, Jinho Choi and Martha Palmer (U <st1:place w:st="on"><st1:State w:st="on">Colorado</st1:State></st1:place>)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Banerjee.pdf">Combining Multi-Domain Statistical Machine
+Translation Models using Automatic Classifiers</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Pratyush
+Banerjee, Jinhua Du, Baoli Li, Sudip Naskar and Andy Way (DCU) and Josef van
+Genabith (Trinity College)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Mohit.pdf">Using Variable Decoding Weight for Language Model in
+Statistical Machine Translation</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Behrang
+Mohit and Rebecca Hwa (U <st1:place w:st="on"><st1:City w:st="on">Pittsburgh</st1:City></st1:place>)
+and Alon Lavie (CMU)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Tomeh.pdf">Refining Word Alignment with Discriminative Training</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Nadi
+Tomeh, Alexandre Allauzen, François Yvon and Guillaume Wisniewski (LIMSI)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Zhechev.pdf">Maximizing TM Performance through Sub-Tree
+Alignment and SMT</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Ventsislav
+Zhechev and Josef van Genabith (DCU)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Denkowski.pdf">Choosing the Right Evaluation for Machine
+Translation: an Examination of Annotator and Automatic Metric Performance on
+Human Judgment Tasks</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Michael
+Denkowski and Alon Lavie (CMU)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Hardt.pdf">Incremental Re-training for Post-editing SMT</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Daniel
+Hardt and Jakob Elming (CBS)</span></span><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-Feng.pdf"></a></span><span
+class=MsoHyperlink><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+font-family:Georgia'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=MsoHyperlink><span
+lang=EN-US style='font-size:11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Feng.pdf">A Source-side Decoding Sequence Model for Statistical
+Machine Translation</a></span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Minwei
+Feng, Arne Mauser and Hermann Ney (RWTH)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Haque.pdf">Supertags as Source Language Context in Hierarchical
+Phrase-Based SMT</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Rejwanul
+Haque, Sudip Naskar, Antal van den Bosch and Andy Way (DCU)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Foster.pdf">Translating Structured Documents</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>George
+Foster, Pierre Isabelle and Roland Kuhn (NRC)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-He-1.pdf">Extending
+the Hierarchical Phrase Based Model with Maximum Entropy Based BTG</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Zhongjun
+He, <st1:place w:st="on"><st1:City w:st="on">Yao</st1:City></st1:place> Meng
+and Hao Yu (Fujitsu)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-Li-1.pdf">Transferring
+Syntactic Relations of Subject-Verb-Object Pattern in Chinese-to-Korean SMT</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Jin-Ji
+Li, Jungi Kim and Jong-Hyeok Lee (POSTech)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-He-2.pdf">Improving
+the Post-Editing Experience using Translation Recommendation: A User Study</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Yifan
+He (DCU), Yanjun Ma (DCU), Johann Roturier (Symantec), Andy Way (DCU) and Josef
+van Genabith (DCU)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Penkale.pdf">Accuracy-Based Scoring for Phrase-Based
+Statistical Machine Translation </a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Sergio
+Penkale (DCU), Yanjun May (DCU), Daniel Galron (NYU) and Andy Way (DCU)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Matusov.pdf">Improving Reordering in Statistical Machine
+Translation from Farsi</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Evgeny
+Matusov and Selçuk Köprü (AppTek)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-Li-2.pdf">Chinese
+Syntactic Reordering through Contrastive Analysis of Predicate-predicate
+Patterns in Chinese-to-Korean SMT</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Jin-Ji
+Li, Jungi Kim and Jong-Hyeok Lee (POSTech)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-Roth.pdf">Machine
+Translation Using Overlapping Alignments and SampleRank</a></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Benjamin
+Roth (U <st1:place w:st="on"><st1:State w:st="on">Saarland</st1:State></st1:place>),
+Andrew McCallum (U Mass), Marc Dymetman (XRCE) and Nicola Cancedda (XRCE)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a href="AMTA-2010-Huck.pdf">A
+Comparison of Various Types of Extended Lexicon Models for Statistical Machine
+Translation</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Matthias
+Huck, Martin Ratajczak, Patrick Lehnen and Hermann Ney (U <st1:place w:st="on"><st1:City
+ w:st="on">Aachen</st1:City></st1:place>)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Jeong.pdf">A Discriminative Lexicon Model for Complex
+Morphology</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Minwoo
+Jeong (<st1:place w:st="on"><st1:State w:st="on">Saarland</st1:State></st1:place>
+U) Kristina Toutanova, Hisami Suzuki and Chris Quirk (Microsoft)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Heafield.pdf">Voting on N-grams for Machine Translation System
+Combination</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Kenneth
+Heafield and Alon Lavie (CMU)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Marton.pdf">Improved Statistical Machine Translation with
+Hybrid Phrasal Paraphrases Derived from Monolingual Text and a Shallow Lexical
+Resource</a></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Yuval
+Marton (<st1:place w:st="on"><st1:City w:st="on">Columbia</st1:City></st1:place>
+U)</span></span><span class=StyleGeorgia11pt><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:11.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;font-family:Georgia;
+mso-bidi-font-family:NimbusRomNo9L-Medi;mso-ansi-language:EN-US'>Student MT
+Research Papers </span></b><span style='font-size:14.0pt;mso-bidi-font-family:
+NimbusRomNo9L-Medi'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span lang=EN-US style='font-size:
+11.0pt;font-family:Georgia;mso-bidi-font-family:NimbusRomNo9L-Medi;mso-ansi-language:
+EN-US'><a href="AMTA-2010-Doren.pdf">Statistical Machine Translation of English
+– Manipuri using Morpho-syntactic and Semantic Information</a></span><span
+class=MsoHyperlink><span style='font-size:11.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Thoudam
+Doren Singh and Savaji Bandyopadhyay (Jadavpur U) <span style='mso-tab-count:
+1'>          </span></span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Na.pdf">A Synchronous Context Free Grammar using Dependency
+Sequence for Syntax-based Statistical Machine Translation</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Hwidong
+Na, Jin-Ji Li, Yeha Lee and Jong-hyeok Lee (POSTech) <span style='mso-tab-count:
+1'>         </span></span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Bar.pdf">Using Synonyms for Arabic-to-English Example-Based
+Translation</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Kfir
+Bar and Nachum Dershowitz (Tel Aviv U) </span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Shilon.pdf">Machine Translation between Hebrew and Arabic: Needs,
+Challenges and Preliminary Solutions<span style='mso-spacerun:yes'>    </span></a><span
+style='mso-spacerun:yes'>                     </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Reshef
+Shilon (Tel Aviv U), Nizar Habash (Columbia U), Alon Lavie (CMU) and Shuly
+Wintner (U Haifa) <span style='mso-tab-count:1'>  </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:11.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:14.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'>Commercial MT Users Program</span></b></span><span
+class=StyleGeorgia11pt><span lang=EN-US style='font-size:14.0pt;font-family:
+"Times New Roman";mso-bidi-font-family:NimbusRomNo9L-Medi;mso-ansi-language:
+EN-US'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
+EN-US;mso-bidi-font-weight:bold'><a href="AMTA-2010-Ramos.pdf">Post-Editing
+Free Machine Translation: From a Language Vendor's Perspective</a></span></span><span
+class=MsoHyperlink><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+font-family:Georgia'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Luciana
+Ramos (Ocean Translations) <span style='mso-tab-count:1'>        </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Strock.pdf">Practical uses of MT at Global Language
+Translations and Consulting: A case study of MT use for profit</a><span
+style='mso-spacerun:yes'>                       </span><span
+style='mso-spacerun:yes'>  </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Doug
+Strock (GLTAC)<span style='mso-tab-count:1'>           </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Dixon.pdf">MT in the Enterprise Environment</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>John
+Dixon (Applied Language) <span style='mso-tab-count:1'>     </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Yuste.pdf">PangeaMT - putting open standards to work… well</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>E.Yuste,
+M. Herranz (Pangeanic), A-L. Lagarda, L. Tarazón, I. Sánchez-Cortina and F.
+Casacuberta (U Poli Valencia) <span style='mso-tab-count:1'>       </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Flournoy.pdf">One technology, many solutions: MT at Adobe</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Raymond
+Flournoy and Jeff Rueppel (Adobe)<span style='mso-tab-count:1'>       </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Scott.pdf">Evaluating vendors for MT and post-editing at Avaya</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Barbara
+Scott (Avaya) and Adriana Beaton (SDL) <span style='mso-tab-count:1'>            </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Vashee.pdf">Scenarios for Customizing an SMT Engine Based on
+Availability of Data</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Kirti
+Vashee (Asia Online) and Rustin Gibbs (<st1:State w:st="on"><st1:place w:st="on">Moravia</st1:place></st1:State>)
+<span style='mso-tab-count:1'>   </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Beaupre.pdf">Content Quality for Better MT: A Practical Guide
+to Quality at the Source</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Jennifer
+Beaupre and Kent Taylor (acrolinx) </span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Stewart.pdf">Using Machine Translation for the Localization of
+Electronic Support Content: Evaluating End-User Satisfaction</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Osamuyimen
+Stewart, David Lubensky, Scott Macdonald, Julie Marcotte (IBM)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Wendt.pdf">Better translations with user collaboration –
+Integrated MT at Microsoft</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Chris
+Wendt (Microsoft) <span style='mso-tab-count:1'>      </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Lu.pdf">Where can MT be most successful and what are the best
+MT engines for various languages?</a><span
+style='mso-spacerun:yes'>                   </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=FR style='font-size:
+11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:FR'>Jenny Lu (CA
+Technologies) <span style='mso-tab-count:1'>           </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=FR style='font-size:
+11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:FR'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Ruopp.pdf">The “Moses for Localization” Open Source Project</a></span></span><span
+class=MsoHyperlink><span lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Achim
+Ruopp (<st1:Street w:st="on"><st1:address w:st="on">Digital Silk Road</st1:address></st1:Street>)<span
+style='mso-tab-count:1'>     </span></span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Andra.pdf">Effective MT within a Translation Workflow
+Panopticon</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Sven
+Andrä (Ontram) and Jorg Shütz (BioLoom Group) <span style='mso-tab-count:1'>            </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Tinsley.pdf">PLuTO: MT for On-Line Patent Translation</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>John
+Tinsley, <st1:Street w:st="on"><st1:address w:st="on">Andy Way</st1:address></st1:Street>
+and Páraic Sheridan (CNGL)<span style='mso-tab-count:1'>     </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Beaton.pdf">Sharing the Continental Airlines and SDL
+Post-Editing Experience</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Adriana
+Beaton (SDL) and Gabriela Contreras (Continental Airlines)<span
+style='mso-tab-count:1'>    </span></span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Beregovaya.pdf">ProMT at PayPal: Enterprise-scale MT for
+financial industry content</a><span
+style='mso-spacerun:yes'>                       </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Olga
+Beregovaya and Alex Yanishevsky (ProMT)<span style='mso-tab-count:1'>  </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>&quot;Trusted
+Translations Deliver Compelling Results for the Travel Industry&quot;<o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Daniel
+Marcu (SDL LanguageWeaver) [<span style='color:red'>not available</span>]<span
+style='mso-tab-count:1'>     </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:14.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'>Government MT Users Program</span></b></span><span
+class=StyleGeorgia11pt><span lang=EN-US style='font-size:14.0pt;font-family:
+"Times New Roman";mso-bidi-font-family:NimbusRomNo9L-Medi;mso-ansi-language:
+EN-US'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
+EN-US'><a href="AMTA-2010-VanEss-Dykema.pdf">Paralinguist Assessment Decision
+Factors For Machine Translation Output: A Case Study</a></span></span><span
+class=MsoHyperlink><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+font-family:Georgia'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Carol
+Van Ess-Dykema, Jocelyn Phillips (NVTC), <st1:City w:st="on"><st1:place w:st="on">Florence</st1:place></st1:City>
+Reeder, Laurie Gerber (MITRE) <span style='mso-tab-count:1'> </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A1">Abstract of &quot;Paralinguist Assessment
+Decision Factors for Machine Translation Output: A Case Study&quot;</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Carol
+Van Ess-Dykema, et al. (NVTC and MITRE)<span style='mso-tab-count:1'>           </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A2">Abstract of &quot;Utilizing Automated
+Translation with Quality Scores to Increase Productivity&quot;</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Daniel
+Marcu (SDL Language Weaver), Kathleen Egan (TSWG), Chuck Simmons (NASIC),
+Ning-Ning Mahlmann (SDL Language Weaver)<span style='mso-tab-count:1'>          </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A3">Abstract of &quot;Machine translation from
+English to Chinese: A study of Google’s performance with the UN documents&quot;</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Li
+Zuo (UNTS)<span style='mso-tab-count:1'>           </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A4">Abstract of &quot;Foreign Media Collaboration
+Framework (FMCF)&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Chuck
+Simmons (NASIC)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A5">Abstract of &quot;Cross Lingual Arabic Blog
+Alerting (COLABA)&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Kathleen
+Egan (TSWG)</span></span><span class=StyleGeorgia11pt><span style='font-size:
+11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A6">Abstract of &quot;Pre-editing for Machine
+Translation&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Weimin
+Jiang (NASIC)<span style='mso-tab-count:1'>         </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A7">Abstract of &quot;Multi-Language Desktop
+Suite&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Brian
+Roberson (Basis Technology Inc.)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A8">Abstract of &quot;User-generated System for
+Critical Document Triage and Exploitation–Version 2011&quot;</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Kristen
+Summers (CACI) and Hassan Sawaf (AppTek)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A9">Abstract of &quot;Panel Topic: Task-based
+evaluation methods for machine translation, in practice and theory&quot;</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Judith
+Klavans, et al. (ODNI/FLPO)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A10">Abstract of &quot;Exploring the AFPAK
+Web&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Rod <st1:City
+w:st="on"><st1:place w:st="on">Holland</st1:place></st1:City> (MITRE)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A11">Abstract of &quot;Terminology Management for
+Web Monitoring&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Sean
+Colbath (Raytheon BBN Technologies)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A12">Abstract of &quot;Use of HLT tools within
+the US Government&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Nicholas
+Bemish (DIA)</span></span><span class=StyleGeorgia11pt><span style='font-size:
+11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A13">Abstract of &quot;Multilingual Concordancer
+Built from Public High Quality Web Content&quot;</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Alain
+Désilets (NRC/CNRC)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A14">Abstract of “Data Preparation for Machine
+Translation Customization”</a><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Stacey
+Bailey (MITRE)<span style='mso-tab-count:1'>         </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A15">Abstract of &quot;Language NOW&quot;</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Michael
+Ladwig (Northrup Grumman)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A16">Abstract of &quot;The Challenges of
+Distributed Parallel Corpora&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Mike
+O’Malley (TDG)<span style='mso-tab-count:1'>            </span></span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A17">Abstract of &quot;Translation of Chinese
+Entities in Russian Text&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>William
+McIntyre (NASIC)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Abstracts.htm#A18">Abstract of &quot;Parallel Corpus
+Development at NVTC&quot;</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Carol
+Van Ess-Dykema, et al. (NVTC and MITRE)<span style='mso-spacerun:yes'>  
+</span></span></span><span class=StyleGeorgia11pt><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Phillips.pdf">Parallel Corpus Development at NVTC</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Jocelyn
+Phillips, Carol Van Ess-Dykema (NVTC), Timothy Allison and Laurie Gerber
+(MITRE) </span></span><span class=StyleGeorgia11pt><span style='font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:14.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'>Tutorials</span></b></span><span
+class=StyleGeorgia11pt><span lang=EN-US style='font-size:14.0pt;font-family:
+"Times New Roman";mso-bidi-font-family:NimbusRomNo9L-Medi;mso-ansi-language:
+EN-US'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
+EN-US;mso-bidi-font-weight:bold'><a href="AMTA-2010-OBrien.pdf">Introduction to
+Post-Editing: Who, What, How and Where to Next?</a></span></span><span
+class=MsoHyperlink><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt;
+font-family:Georgia'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Sharon
+O'Brien (CNGL DCU)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Dillinger.pdf">An Introduction to Machine Translation </a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Mike
+Dillinger (Translation Optimization Partners)</span></span><span
+class=StyleGeorgia11pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Postediting.pdf">MT Postediting Showcase</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Laurie
+Gerber (MITRE/NVTC) and Elliott Macklovitch (Onscope Group, Inc.)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Lavie.pdf">Evaluating the Output of Machine Translation Systems</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Alon
+Lavie (CMU)</span></span><span class=StyleGeorgia11pt><span style='font-size:
+11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><a
+href="AMTA-2010-Koehn-2.pdf">Machine Translation with Open source Software</a></span></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Philipp
+Koehn and Hieu Hoang (U <st1:City w:st="on"><st1:place w:st="on">Edinburgh</st1:place></st1:City>)
+</span></span><st1:place w:st="on"></st1:place><st1:country-region w:st="on"></st1:country-region><span
+class=StyleGeorgia11pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:14.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'>Technology Showcase</span></b></span><span
+class=StyleGeorgia11pt><span lang=EN-US style='font-size:14.0pt;font-family:
+"Times New Roman";mso-bidi-font-family:NimbusRomNo9L-Medi;mso-ansi-language:
+EN-US'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:8.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='mso-ansi-font-size:12.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'><a href="AMTA-2010-TechnicalShowcase.pdf">Exhibit
+Descriptions</a></span></span><span class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Showcase
+Chair: Jennifer DeCamp (MITRE)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-top:7.2pt'><span class=StyleGeorgia11pt><b><span
+lang=EN-US style='font-size:14.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'>Workshop Programs</span></b></span><span
+class=StyleGeorgia11pt><span lang=EN-US style='font-size:14.0pt;font-family:
+"Times New Roman";mso-bidi-font-family:NimbusRomNo9L-Medi;mso-ansi-language:
+EN-US'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:14.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></b></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-ansi-font-size:12.0pt;mso-bidi-font-family:
+NimbusRomNo9L-Medi;mso-ansi-language:EN-US'><a href="AMTA-2010-Desilets.pdf">Collaborative
+Translation: technology, crowdsourcing, and the translator perspective</a></span></b></span><span
+class=MsoHyperlink><o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Workshop
+chair: Alain Désilets (NRC)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'><a href="AMTA-2010-Munro.pdf">Crowdsourced translation
+for emergency response in Haiti: the global collaboration of local knowledge</a></span></span><span
+class=MsoHyperlink><span lang=EN-US style='mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'> </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:9.0pt;mso-ansi-language:
+EN-US'>Robert Munro (Stanford U)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:9.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'><a href="AMTA-2010-Zetzsche.pdf">Crowdsourcing and the
+Professional Translator</a></span></span><span class=MsoHyperlink><b
+style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-family:
+NimbusRomNo9L-Medi'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:9.0pt;mso-ansi-language:
+EN-US'>Jost Zetzsche (International Writers' Group)</span></span><span
+class=StyleGeorgia11pt><span style='font-size:11.0pt;mso-bidi-font-size:9.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'><a href="AMTA-2010-Kronrod.pdf">Position Paper:
+Improving Translation via Targeted Paraphrasing</a></span></span><span
+class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
+style='font-size:14.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:9.0pt;mso-ansi-language:
+EN-US'>Yakov Kronrod, Philip Resnik, Olivia Buzek, Chang Hu, Alex Quinn, Ben
+Bederson (UMD)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:9.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-family:NimbusRomNo9L-Medi;
+mso-ansi-language:EN-US'><a href="AMTA-2010-Kumaran.pdf">WikiBABEL: A System
+for Multilingual Wikipedia Content</a></span></span><span class=MsoHyperlink><b
+style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-family:
+NimbusRomNo9L-Medi'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span class=StyleGeorgia11pt><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:9.0pt;mso-ansi-language:
+EN-US'>A. Kumaran, Naren Datha, B. Ashok, K. Saravanan, Anil Ande, Ashwani
+Sharma, Sridhar Vedantham and Vidya Natampally (Microsoft Research India),
+Vikram Dendi and Sandor Maurice (Microsoft Research)</span></span><span
+class=StyleGeorgia11pt><span style='mso-ansi-font-size:12.0pt;font-family:"Times New Roman"'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='mso-ansi-font-size:12.0pt;mso-bidi-font-family:
+NimbusRomNo9L-Medi;mso-ansi-language:EN-US'><a href="JEC-2010-TOC.htm">Second
+Joint EM+/CNGL Workshop “Bringing MT to the User: Research on Integrating MT in
+the Translation Industry&quot; (JEC 2010)</a></span></b></span><span
+class=MsoHyperlink><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-family:NimbusRomNo9L-Medi'><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'>Workshop
+chair: Ventsislav Zhechev (DCU)</span></span><span class=StyleGeorgia11pt><span
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=StyleGeorgia11pt><span lang=EN-US
+style='font-size:11.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></span></p>
+
+</div>
+
+</body>
+
+</html>
