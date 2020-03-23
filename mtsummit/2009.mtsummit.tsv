@@ -1,0 +1,87 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Notes
+Deploying Novel MT Technology to Raise the Bar for Quality at Symantec: Key Advantages and Challenge	Johann Roturier and Symantec	http://www.mt-archive.info/05/MTS-2009-Roturier.pdf			Keynote Presentations
+Creating the World's Largest Translation Memory	Marco Trombetti and Translated.net	http://www.mt-archive.info/05/MTS-2009-Trombetti-ppt.pdf			Keynote Presentations
+MT: the Current Research Landscape	Roland Kuhn and Pierre Isabelle and National Research Council and Canada	http://www.mt-archive.info/05/MTS-2009-Kuhn-ppt.pdf			Keynote Presentations
+Source-side Dependency Tree Reordering Models with Subtree Movements and Constraints	Nguyen Bach and Qin Gao and Stephan Vogel	http://www.mt-archive.info/05/MTS-2009-Bach.pdf			MT Research Papers
+Phrase Translation Model Enhanced with Association based Features	Boxing Chen and George Foster and Roland Kuhn	http://www.mt-archive.info/05/MTS-2009-Chen.pdf			MT Research Papers
+Normalization for Automated Metrics: English and Arabic Speech Translation	Sherri Condon and Gregory A. Sanders and Dan Parvaz and Alan Rubenstein and Christy Doran and John Aberdeen and Beatrice Oshika	http://www.mt-archive.info/05/MTS-2009-Condon.pdf			MT Research Papers
+Creating a High-Quality Machine Translation System for a Low-Resource Language: Yiddish	Dmitriy Genzel and Klaus Macherey and Jakob Uszkoreit	http://www.mt-archive.info/05/MTS-2009-Genzel.pdf			MT Research Papers
+Reassessment of the Role of Phrase Extraction in PBSMT	Francisco Guzman and Qin Gao and Stephan Vogel	http://www.mt-archive.info/05/MTS-2009-Guzman.pdf			MT Research Papers
+Hybrid Spoken Language Translation Using Sentence Splitting Based on Syntax Structure	Satoshi Kamatani and Tetsuro Chino and Kazuo Sumita	http://www.mt-archive.info/05/MTS-2009-Kamatani.pdf			MT Research Papers
+462 Machine Translation Systems for Europe	Philipp Koehn and Alexandra Birch and Ralf Steinberger	http://www.mt-archive.info/05/MTS-2009-Koehn-1.pdf			MT Research Papers
+Interactive Assistance to Human Translators using Statistical Machine Translation Methods	Philipp Koehn and Barry Haddow	http://www.mt-archive.info/05/MTS-2009-Koehn-2.pdf			MT Research Papers
+Automatic Detection of Translated Text and its Impact on Machine Translation	David Kurokawa and Cyril Goutte and Pierre Isabelle	http://www.mt-archive.info/05/MTS-2009-Kurokawa.pdf			MT Research Papers
+Improving a Lexicalized Hierarchical Reordering Model Using Maximum Entropy	Vinh Van Nguyen and Akira Shimazu and Minh Le Nguyen and Thai Phuong Nguyen	http://www.mt-archive.info/05/MTS-2009-Nguyen.pdf			MT Research Papers
+User choice as an evaluation metric for web translation in cross language instant messaging applications	William Ogden and Ron Zacharski and Sieun An and Yuki Ishikawa	http://www.mt-archive.info/05/MTS-2009-Ogden.pdf			MT Research Papers
+Prediction of Words in Statistical Machine Translation using a Multilayer Perceptron	Alexandre Patry and Philippe Langlais	http://www.mt-archive.info/05/MTS-2009-Patry.pdf			MT Research Papers
+Incorporating Knowledge of Source Language Text in a System for Dictation of Document Translations	Aarthi Reddy and Richard Rose and Hani Safadi and Samuel Larkin and Gilles Boulianne	http://www.mt-archive.info/05/MTS-2009-Reddy.pdf			MT Research Papers
+Phrase-based Machine Translation in a Computer-assisted Translation Environment	Michel Simard and Pierre Isabelle	http://www.mt-archive.info/05/MTS-2009-Simard.pdf			MT Research Papers
+Lemmatic Machine Translation	Stephen Soderland and Christopher Lim and Mausam Mausam and Bo Qin and Oren Etzioni and Jonathan Pool	http://www.mt-archive.info/05/MTS-2009-Soderland.pdf			MT Research Papers
+Improving the Confidence of Machine Translation Quality Estimates	Lucia Specia and Marco Turqui and Zhuoran Wang and John Shawe-Taylor and Craig Saunders	http://www.mt-archive.info/05/MTS-2009-Specia.pdf			MT Research Papers
+Complexity-Based Phrase-Table Filtering for Statistical Machine Translation	Nadi Tomeh and Nicola Cancedda and Marc Dymetman	http://www.mt-archive.info/05/MTS-2009-Tomeh.pdf			MT Research Papers
+Mining Parallel Texts from Mixed-Language Web Pages	Masao Utiyama and Daisuke Kawahara and Keiji Yasuda and Eiichiro Sumita	http://www.mt-archive.info/05/MTS-2009-Utiyama-1.pdf			MT Research Papers
+Decoding by Dynamic Chunking for Statistical Machine Translation	Sirvan Yahyaei and Christof Monz	http://www.mt-archive.info/05/MTS-2009-Yahyaei.pdf			MT Research Papers
+Introduction to China's CWMT2008 Machine Translation Evaluation	Hongmei Zhao and Jun Xie and Qun Liu and Yajuan Lü and Dongdong Zhang and Mu Li	http://www.mt-archive.info/05/MTS-2009-Zhao.pdf			MT Research Papers
+Inducing translations from officially published materials in Canadian government websites	Qibo Zhu and Diana Inkpen and Ash Asudeh	http://www.mt-archive.info/05/MTS-2009-Zhu.pdf			MT Research Papers
+Chained System: A Linear Combination of Different Types of Statistical Machine Translation Systems	Takako Aikawa and Achim Ruopp	http://www.mt-archive.info/05/MTS-2009-Aikawa.pdf			MT Research Posters 
+Extraction of Syntactic Translation Models from Parallel Data using Syntax from Source and Target Languages	Vamshi Ambati and Alon Lavie and Jaime Carbonell	http://www.mt-archive.info/05/MTS-2009-Ambati.pdf			MT Research Posters 
+Using Automatic Roundtrip Translation to Repair General Errors in Second Language Writing	Alain Désilets and Matthieu Hermet	http://www.mt-archive.info/05/MTS-2009-Desilets-1.pdf			MT Research Posters 
+Reordering on Spanish-Basque SMT	Arantza Díaz de Ilaraza and Gorka Labaka and Kepa Sarasola	http://www.mt-archive.info/05/MTS-2009-Diaz.pdf			MT Research Posters 
+Can MT Output Be Evaluated Through Eye Tracking?	Stephen Doherty and Sharon O'Brien	http://www.mt-archive.info/05/MTS-2009-Doherty.pdf			MT Research Posters 
+Selective addition of corpus-extracted phrasal lexical rules to a rule-based machine translation system	Loic Dugast and Jean Senellart and Philipp Koehn	http://www.mt-archive.info/05/MTS-2009-Dugast.pdf			MT Research Posters 
+Source-Side Context-Informed Hypothesis Alignment for Combining Outputs from Machine Translation Systems	Jinhua Du and Yanjun Ma and Andy Way	http://www.mt-archive.info/05/MTS-2009-Du.pdf			MT Research Posters 
+Improving the Objective Function in Minimum Error Rate Training	Yifan He and Andy Way	http://www.mt-archive.info/05/MTS-2009-He.pdf			MT Research Posters 
+Harnessing the Redundant Results of Translation Spotting	Stéphane Huet and Julien Bourdaillet and Philippe Langlais and Guy Lapalme	http://www.mt-archive.info/05/MTS-2009-Huet.pdf			MT Research Posters 
+Development of a Japanese-English Software Manual Parallel Corpus	Tatsuya Ishisaka and Masao Utiyama and Eiichiro Sumita and Kazuhide Yamamoto	http://www.mt-archive.info/05/MTS-2009-Ishisaka.pdf			MT Research Posters 
+Word Alignment by Thresholded Two-Dimensional Normalization	Hamidreza Kobdani and Alexander Fraser and Hinrich Schütze	http://www.mt-archive.info/05/MTS-2009-Kobdani.pdf			MT Research Posters 
+Tracking Relevant Alignment Characteristics for Machine Translation	Patrik Lambert and Yanjun Ma and Sylwia Ozdowska and Andy Way	http://www.mt-archive.info/05/MTS-2009-Lambert.pdf			MT Research Posters 
+Improving Fluency by Reordering Target Constituents using MST Parser in English-to-Japanese Phrase-based SMT	Hwidong Na and Jin-Ji Li and Jungi Kim and Jong-Hyeok Lee	http://www.mt-archive.info/05/MTS-2009-Na.pdf			MT Research Posters 
+Anchor Points for Bilingual Lexicon Extraction from Small Comparable Corpora	Emmanuel Prochasson and Emmanuel Morin and Kyo Kageura	http://www.mt-archive.info/05/MTS-2009-Prochasson.pdf			MT Research Posters 
+United Nations General Assembly Resolutions: A Six-Language Parallel Corpus	Alexandre Rafalovitch and Robert Dale	http://www.mt-archive.info/05/MTS-2009-Rafalovitch.pdf			MT Research Posters 
+Using Artificial Data to Compare the Difficulty of Using Statistical Machine Translation in Different Language-Pairs	Manny Rayner and Paula Estrella and Pierrette Bouillon and Yukie Nakao	http://www.mt-archive.info/05/MTS-2009-Rayner.pdf			MT Research Posters 
+Translation Model Adaptation for an Arabic/French News Translation System by Lightly- Supervised Training	Holger Schwenk and Jean Senellart	http://www.mt-archive.info/05/MTS-2009-Schwenk.pdf			MT Research Posters 
+Using Percolated Dependencies for Phrase Extraction in SMT	Ankit Srivastava and Andy Way	http://www.mt-archive.info/05/MTS-2009-Srivastava.pdf			MT Research Posters 
+Relating recognition, translation and usability of two different versions of MedSLT	Marianne Starlander and Paula Estrella	http://www.mt-archive.info/05/MTS-2009-Starlander.pdf			MT Research Posters 
+Correlation between Automatic Evaluation Metric Scores, Post-Editing Speed, and Some Other Factors	Midori Tatsumi	http://www.mt-archive.info/05/MTS-2009-Tatsumi.pdf			MT Research Posters 
+Comparing different architectures of hybrid Machine Translation systems	Gregor Thurmair	http://www.mt-archive.info/05/MTS-2009-Thurmair.pdf			MT Research Posters 
+Hosting Volunteer Translators	Masao Utiyama and Takeshi Abekawa and Eiichiro Sumita and Kyo Kageura	http://www.mt-archive.info/05/MTS-2009-Utiyama-2.pdf			MT Research Posters 
+Transfer rule generation for a Japanese-Hungarian machine translation system	István Varga and Shoichi Yokoyama	http://www.mt-archive.info/05/MTS-2009-Varga.pdf			MT Research Posters 
+Efficient Beam Thresholding for Statistical Machine Translation	Deyi Xiong and Min Zhang and Aiti Aw and Haizhou Li	http://www.mt-archive.info/05/MTS-2009-Xiong-1.pdf			MT Research Posters 
+A Source Dependency Model for Statistical Machine Translation	Deyi Xiong and Min Zhang and Aiti Aw and Haizhou Li	http://www.mt-archive.info/05/MTS-2009-Xiong-2.pdf			MT Research Posters 
+Bilingual Dictionary Extraction from Wikipedia	Kun Yu and Junichi Tsujii	http://www.mt-archive.info/05/MTS-2009-Yu.pdf			MT Research Posters 
+Virtual Babel: Towards Context-Aware Machine Translation in Virtual Worlds	Ying Zhang and Nguyen Bach	http://www.mt-archive.info/05/MTS-2009-Zhang.pdf			MT Research Posters 
+MT Bazaar: Translation Ecosystems in the Cloud	Sven Christian Andrä and Jörg Schütz and Andra AG and Bioloom Group	http://www.mt-archive.info/05/MTS-2009-Andra.pdf			Commercial MT User Program
+The MT Maturity Model at PAHO	Julia Aymerich and Hermes Camelo and Pan-American Health Organization	http://www.mt-archive.info/05/MTS-2009-Aymerich.pdf			Commercial MT User Program
+Technology for Translators: What doesn't Kill you, Makes you Stronger	Jordi Carrera and Alex Yanishevsky and ProMT	http://www.mt-archive.info/05/MTS-2009-Carrera-ppt.pdf			Commercial MT User Program
+An Automatic Translation Management System for Legal Texts	Atefeh Farzindar and NLP Technologies	http://www.mt-archive.info/05/MTS-2009-Farzindar.pdf			Commercial MT User Program
+MT and Document Localization at Adobe: From Pilot to Production	Ray Flournoy and Christine Duran and Adobe	http://www.mt-archive.info/05/MTS-2009-Flournoy.pdf			Commercial MT User Program
+Identification and Analysis of Post-Editing Patterns for MT	Declan Groves and Dag Schmidtke and Traslan and Microsoft	http://www.mt-archive.info/05/MTS-2009-Groves.pdf			Commercial MT User Program
+Real Time Translation Services at IBM	David Lubensky and Salim Roukos and IBM	http://www.mt-archive.info/05/MTS-2009-Lubensky-ppt.pdf			Commercial MT User Program
+MT Quality Control in a Translation Production Environment	Larry Rogers and LexiTech	http://www.mt-archive.info/05/MTS-2009-Rogers-ppt.pdf			Commercial MT User Program
+Pushing the Quality of a Customized SMT System Using Shared Training Data	Chris Wendt and Will Lewis and Microsoft	http://www.mt-archive.info/05/MTS-2009-Wendt-ppt.pdf			Commercial MT User Program
+Panel Summary: Educating and Assessing the Human Translator in an Age of Technology	Patricia Phillips Batoma and Roxana Girju and Elizabeth Lowe and Patricia Minacori	http://www.mt-archive.info/05/MTS-2009-Batoma.pdf			Special Session: Translator Tools and Training
+Translation assessment at university: creation of a computer interface	Patricia Minacori and Université Paris Diderot	http://www.mt-archive.info/05/MTS-2009-Minacori-ppt.pdf			Special Session: Translator Tools and Training
+Technology in Translator Training and tools for translators	Pierrette Bouillon and Marianne Starlander	http://www.mt-archive.info/05/MTS-2009-Bouillon-ppt.pdf			Special Session: Translator Tools and Training
+IMHO: Translators’ not-so-humble opinions on using TM systems	Cheryl Mc Bride	http://www.mt-archive.info/05/MTS-2009-McBride-ppt.pdf			Special Session: Translator Tools and Training
+Big TM.net: Gaining a head start on translations projects	Achim Ruopp	http://www.mt-archive.info/05/MTS-2009-Ruopp-ppt.pdf			Special Session: Translator Tools and Training
+What’s missing in User-centric MT?	Jennifer DeCamp	http://www.mt-archive.info/05/MTS-2009-DeCamp-1.pdf			Special Session: Translator Tools and Training
+Application of Machine Translation System in Japan Patent Office	Susumu Bani	http://www.mt-archive.info/05/MTS-2009-Bani-3-ppt.pdf			Government MT User Program
+Language Technology Resource Center	Jennifer DeCamp	http://www.mt-archive.info/05/MTS-2009-DeCamp-2.pdf			Government MT User Program
+On beyond TM: When the Translator Leads the Design of a Translation Support Framework	Reginald Hobbs and Clare Voss and Jamal Laoudi	http://www.mt-archive.info/05/MTS-2009-Hobbs.pdf			Government MT User Program
+Canadian Job Bank Automated Translation System	Verna McIntosh	http://www.mt-archive.info/05/MTS-2009-McIntosh-ppt.pdf			Government MT User Program
+U.S. Army Requirements and Capability	Vaughn Laganosky and Tracy Blocker	http://www.mt-archive.info/05/MTS-2009-Laganosky-ppt.pdf			Government MT User Program
+Indian National Translation Mission: Need for Integrating Human-Machine Translation	R.M.K. Sinha	http://www.mt-archive.info/05/MTS-2009-Sinha-1.pdf			Government MT User Program
+The EDEAL Project for Automated Processing of African Languages	Anna Borovikov and Eugene Borovikov and Bradley Colquitt and Kristen Summers	http://www.mt-archive.info/05/MTS-2009-Borovikov.pdf			Government MT User Program
+Translation Memory Technology Assessment	Carol Van Ess-Dykema and Dennis Perzanowsky and Susan Converse and Rachel Richardson and John S. White and Tucker Maney	http://www.mt-archive.info/05/MTS-2009-VanEssDykema-ppt.pdf			Government MT User Program
+Introduction	Mike Dillinger		http://www.mt-archive.info/05/MTS-2009-Dillinger-2-ppt.pdf		Panel discussion: Converging Technologies – What are the Benefits for MT Users?
+ProMT	Alex Yanishevsky and Olga Beregovaya		http://www.mt-archive.info/05/MTS-2009-Yanishevsky-ppt.pdf		Panel discussion: Converging Technologies – What are the Benefits for MT Users?
+MultiCorpora	Daniel Gervais		http://www.mt-archive.info/05/MTS-2009-Gervais.pptx		Panel discussion: Converging Technologies – What are the Benefits for MT Users?
+SDL	Terry Lawlor		http://www.mt-archive.info/05/MTS-2009-Lawlor-ppt.pdf		Panel discussion: Converging Technologies – What are the Benefits for MT Users?
+TAUS	Jaap van der Meer		http://www.mt-archive.info/05/MTS-2009-VanderMeer.pptx		Panel discussion: Converging Technologies – What are the Benefits for MT Users?
+PortageLive: delivering machine translation technology via virtualization	Patrick Paul and Samuel Larkin and Ulrich Germann and Eric Joanis and Roland Kuhn	http://www.mt-archive.info/05/MTS-2009-Paul.pdf			Technology Showcase 
+Introduction to Machine Translation	Mike Dillinger	http://www.mt-archive.info/05/MTS-2009-Dillinger-ppt.pdf			Tutorials
+Machine Learning Approaches for Dealing with Bilingual Data in Statistical Machine Translation	Gholamreza Haffari				Tutorials
+Tools for Translation: Current Practices, State of the Art and Capability Gaps	Jennifer DeCamp	http://www.mt-archive.info/05/MTS-2009-DeCamp-3.pdf			Tutorials
+The Business Case for Machine Translation	Donald A. DePalma	http://www.mt-archive.info/05/MTS-2009-DePalma-ppt.pdf			Tutorials
+Postediting Machine Translation Output Guidelines	Sharon O’Brien and Johann Roturier and Giselle de Almeida	http://www.mt-archive.info/05/MTS-2009-OBrien.pdf	http://www.mt-archive.info/05/MTS-2009-OBrien-ppt.pdf		Tutorials
+Up close and personal with a Translator – How Translators Really Work	Alain Desilets and UQO and Geneviève Patenaude	http://www.mt-archive.info/05/MTS-2009-Desilets-3.pdf			Tutorials

@@ -1,0 +1,84 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Notes
+Front cover	Table of Contents	http://www.mt-archive.info/10/MTS-2011-cover.pdf			Summit XIII
+Message from the President of International Association for Machine Translation	Hitoshi Isahara	http://www.mt-archive.info/10/MTS-2011-prelims.pdf			Preliminary
+Message from the Program Committee Chair	Hiromi Nakaiwa	http://www.mt-archive.info/10/MTS-2011-prelims.pdf			
+Tutorials		http://www.mt-archive.info/10/MTS-2011-tutorials.pdf			
+Keynote	Zhendong Dong				
+					
+MT everywhere: Next Steps	Dr. Mike Dillinger	http://www.mt-archive.info/10/MTS-2011-Dillinger.pdf			Invited Talk 1
+Strategic MT Research in Europe: Themes, Approaches, Results and Plans	Hans Uszkoreit				Invited Talk 2
+Challenges of Patent MT -- Term and Structure Translation	Jun'ichi Tsujii				Introductory talk
+MT for Patent Search at KIPO	YooChan Choi				Invited Talk
+COPPA, CLIR and TAPTA: three tools to assist in overcoming the Patent language barrier at WIPO	Mr. Bruno Pouliquen	http://www.mt-archive.info/10/MTS-2011-Pouliquen.pdf			
+Methods for Smoothing the Optimizer Instability in SMT	Mauro Cettolo and Nicola Bertoldi and Marcello Federico	http://www.mt-archive.info/10/MTS-2011-Cettolo.pdf			
+Training Machine Translation with a Second-Order Taylor Approximation of Weighted Translation Instances	Aaron Phillips and Ralf Brown	http://www.mt-archive.info/10/MTS-2011-Phillips.pdf			
+Maximum Rank Correlation Training for Statistical Machine Translation	Daqi Zheng and Yifan He and Yang Liu and Qun Liu	http://www.mt-archive.info/10/MTS-2011-Zheng-1.pdf			
+POS Tagging of English Particles for Machine Translation	Jianjun Ma and Degen Huang and Haixia Liu and Wenfeng Sheng	http://www.mt-archive.info/10/MTS-2011-Ma-1.pdf			
+Multi-stage Chinese Dependency Parsing Based on Dependency Direction	Wenjing Lang and Qiaoli Zhou and Guiping Zhang and Dongfeng Cai	http://www.mt-archive.info/10/MTS-2011-Lang.pdf			
+Statistic Machine Translation Boosted with Spurious Word Deletion	Shujie Liu and Chi-Ho Li and Ming Zhou	http://www.mt-archive.info/10/MTS-2011-Liu-1.pdf			
+Unsupervised Vocabulary Selection for Domain-Independent Simultaneous Lecture Translation	Paul Maergner and Ian Lane and Alex Waibel	http://www.mt-archive.info/10/MTS-2011-Maergner.pdf			
+Context-aware Language Modeling for Conversational Speech Translation	Avneesh Saluja and Ian Lane and Ying Zhang	http://www.mt-archive.info/10/MTS-2011-Saluja.pdf			
+Incremental Training and Intentional Over-fitting of Word Alignment	Qin Gao and Will Lewis and Chris Quirk and Mei-Yuh Hwang	http://www.mt-archive.info/10/MTS-2011-Gao.pdf			
+Alignment Inference and Bayesian Adaptation for Machine Translation	Kevin Duh and Katsuhito Sudoh and Tomoharu Iwata and Hajime Tsukada	http://www.mt-archive.info/10/MTS-2011-Duh.pdf			
+Multi-Strategy Approaches to Active Learning for Statistical Machine Translation	Vamshi Ambati and Stephan Vogel and Jaime Carbonell	http://www.mt-archive.info/10/MTS-2011-Ambati.pdf			
+Document-level Consistency Verification in Machine Translation	Tong Xiao and Jingbo Zhu and Shujie Yao and Hao Zhang	http://www.mt-archive.info/10/MTS-2011-Xiao.pdf			
+Function Word Generation in Statistical Machine Translation Systems	Lei Cui and Dongdong Zhang and Mu Li and Ming Zhou	http://www.mt-archive.info/10/MTS-2011-Cui.pdf			
+Multimodal Building of Monolingual Dictionaries for Machine Translation by Non-Expert Users	Miquel Esplà-Gomis and Víctor M. Sánchez-Cartagena and Juan Antonio Pérez-Ortiz	http://www.mt-archive.info/10/MTS-2011-Espla-Gomis-1.pdf			
+Automatic Post-Editing based on SMT and its selective application by Sentence-Level Automatic Quality Evaluation	Hirokazu Suzuki	http://www.mt-archive.info/10/MTS-2011-Suzuki.pdf			
+Qualitative Analysis of Post-Editing for High Quality Machine Translation	Frédéric Blain and Jean Senellart and Holger Schwenk and Mirko Plitt and Johann Roturier	http://www.mt-archive.info/10/MTS-2011-Blain.pdf			
+Using machine translation in computer-aided translation to suggest the target-side words to change	Miquel Esplà-Gomis and Felipe Sánchez-Martínez and Mikel L. Forcada	http://www.mt-archive.info/10/MTS-2011-Espla-Gomis-2.pdf			
+A Unified SMT Framework Combining MIRA and MERT	Shujie Liu and Chi-Ho Li and Ming Zhou	http://www.mt-archive.info/10/MTS-2011-Liu-2.pdf			
+Improving Phrase Extraction via MBR Phrase Scoring and Pruning	Nan Duan and Mu Li and Ming Zhou and Lei Cui	http://www.mt-archive.info/10/MTS-2011-Duan.pdf			
+Phrase Segmentation Model using Collocation and Translational Entropy	Hyoung-Gyu Lee and Joo-Young Lee and Min-Jeong Kim and Hae-Chang Rim and Joong-Hwi Shin and Young-Sook Hwang	http://www.mt-archive.info/10/MTS-2011-Lee.pdf			
+Singular or Plural? Exploiting Parallel Corpora for Chinese Number Prediction	Elizabeth Baran and Nianwen Xue	http://www.mt-archive.info/10/MTS-2011-Baran.pdf			
+Handling Multiword Expressions in Phrase-Based Statistical Machine Translation	Santanu Pal and Tanmoy Chakraborty and Sivaji Bandyopadhyay	http://www.mt-archive.info/10/MTS-2011-Pal.pdf			
+Automatic Error Analysis for Morphologically Rich Languages	Ahmed El Kholy and Nizar Habash	http://www.mt-archive.info/10/MTS-2011-ElKholy.pdf			
+MT use within the enterprise: Encouraging adoption via a unified MT API	Raymond Flournoy	http://www.mt-archive.info/10/MTS-2011-Flournoy.pdf			
+Deploying MT into a Localisation Workflow: Pains and Gains	Yanli Sun and Juan Liu and Yi Li	http://www.mt-archive.info/10/MTS-2011-Sun.pdf			
+Evaluation of MT Systems to Translate User Generated Content	Johann Roturier and Anthony Bensadoun	http://www.mt-archive.info/10/MTS-2011-Roturier.pdf			
+A Unified and Discriminative Soft Syntactic Constraint Model for Hierarchical Phrase-based Translation	Lemao Liu and Tiejun Zhao and Chao Wang and Hailong Cao	http://www.mt-archive.info/10/MTS-2011-Liu-3.pdf			
+Simple but Effective Approaches to Improving Tree-to-tree Model	Feifei Zhai and Jiajun Zhang and Yu Zhou and Chengqing Zong	http://www.mt-archive.info/10/MTS-2011-Zhai.pdf			
+Unpacking and Transforming Feature Functions: New Ways to Smooth Phrase Tables	Boxing Chen and Roland Kuhn and George Foster and Howard Johnson	http://www.mt-archive.info/10/MTS-2011-Chen-1.pdf			
+Identification and Translation of Significant Patterns for Cross-Domain SMT Applications	Han-Bin Chen and Hen-Hsen Huang and Jengwei Tjiu and Ching-Ting Tan and Hsin-Hsi Chen	http://www.mt-archive.info/10/MTS-2011-Chen-2.pdf			
+Domain Adaptation in Statistical Machine Translation of User-Forum Data using Component Level Mixture Modelling	Pratyush Banerjee and Sudip Kumar Naskar and Johann Roturier and Andy Way and Josef van Genabith	http://www.mt-archive.info/10/MTS-2011-Banerjee.pdf			
+Bagging-based System Combination for Domain Adaption	Linfeng Song and Haitao Mi and Yajuan Lü and Qun Liu	http://www.mt-archive.info/10/MTS-2011-Song.pdf			
+Extracting Pre-ordering Rules from Chunk-based Dependency Trees for Japanese-to-English Translation	Xianchao Wu and Katsuhito Sudoh and Kevin Duh and Hajime Tsukada and Masaaki Nagata	http://www.mt-archive.info/10/MTS-2011-Xu.pdf			
+Statistical Post-Editing for a Statistical MT System	Hanna Bechara and Yanjun Ma and Josef van Genabith	http://www.mt-archive.info/10/MTS-2011-Bechara.pdf			
+Post-ordering in Statistical Machine Translation	Katsuhito Sudoh and Xianchao Wu and Kevin Duh and Hajime Tsukada and Masaaki Nagata	http://www.mt-archive.info/10/MTS-2011-Sudoh.pdf			
+Searching Translation Memories for Paraphrases	Masao Utiyama and Graham Neubig and Takashi Onishi and Eiichiro Sumita	http://www.mt-archive.info/10/MTS-2011-Utiyama.pdf			
+Are numbers good enough for you? - A linguistically meaningful MT evaluation method	Takako Aikawa and Spencer Rarrick	http://www.mt-archive.info/10/MTS-2011-Aikawa.pdf			
+Marker-based Chunking for Analogy-based Translation of Chunks	Kota Takeya and Yves Lepage	http://www.mt-archive.info/10/MTS-2011-Takeya.pdf			
+A Comparison of Unsupervised Bilingual Term Extraction Methods Using Phrase-Tables	Masamichi Ideue and Kazuhide Yamamoto and Masao Utiyama and Eiichiro Sumita	http://www.mt-archive.info/10/MTS-2011-Ideue.pdf			
+Improving Low-Resource Statistical Machine Translation with a Novel Semantic Word Clustering Algorithm	Jeff Ma and Spyros Matsoukas and Richard Schwartz	http://www.mt-archive.info/10/MTS-2011-Ma-2.pdf			
+Multi-granularity Word Alignment and Decoding for Agglutinative Language Translation	Zhiyang Wang and Yajuan Lü and Qun Liu	http://www.mt-archive.info/10/MTS-2011-Wang.pdf			
+Word Alignment Using GIZA++ on Windows	Liang Tian and Fai Wong and Sam Chao	http://www.mt-archive.info/10/MTS-2011-Tian.pdf			
+ENGtube: an Integrated Subtitle Environment for ESL	Chi-Ho Li and Shujie Liu and Chenguang Wang and Ming Zhou	http://www.mt-archive.info/10/MTS-2011-Li-1.pdf			
+Broadcast news speech-to-text translation experiments	Sylvain Raybaud and David Langlois and Kamel Smaïli	http://www.mt-archive.info/10/MTS-2011-Raybaud.pdf			
+Improving the Hierarchical Phrase-Based Translation Model	Xiaodong Shi and Xiang Zhu and Yidong Chen	http://www.mt-archive.info/10/MTS-2011-Shi.pdf			
+Lexical-based Reordering Model for Hierarchical Phrase-based Machine Translation	Zhongguang Zheng and Yao Meng and Hao Yu	http://www.mt-archive.info/10/MTS-2011-Zheng-2.pdf			
+Effective Use of Discontinuous Phrases for Hierarchical Phrase-based Translation	Wei Wei and Bo Xu	http://www.mt-archive.info/10/MTS-2011-Wei.pdf			
+Generating Virtual Parallel Corpus: A Compatibility Centric Method	Jia Xu and Weiwei Sun	http://www.mt-archive.info/10/MTS-2011-Xu.pdf			
+Parallel Corpus Refinement as an Outlier Detection Algorithm	Kaveh Taghipour and Shahram Khadivi and Jia Xu	http://www.mt-archive.info/10/MTS-2011-Taghipour.pdf			
+MT Detection in Web-Scraped Parallel Corpora	Spencer Rarrick and Chris Quirk and Will Lewis	http://www.mt-archive.info/10/MTS-2011-Rarrick.pdf			
+On the Expressivity of Linear Transductions	Markus Saers and Dekai Wu and Chris Quirk	http://www.mt-archive.info/10/MTS-2011-Saers.pdf			
+Handheld Machine Translation System Based on Constraint Synchronous Grammar	Fai Wong and Francisco Oliveira and Sam Chao and Chi-Wai Tang	http://www.mt-archive.info/10/MTS-2011-Wong-1.pdf			
+A Comparison Study of Parsers for Patent Machine Translation	Isao Goto and Masao Utiyama and Takashi Onishi and Eiichiro Sumita	http://www.mt-archive.info/10/MTS-2011-Goto.pdf			
+Rich Linguistic Features for Translation Memory-Inspired Consistent Translation	Yifan He and Yanjun Ma and Andy Way and Josef van Genabith	http://www.mt-archive.info/10/MTS-2011-He.pdf			
+Japanese-Chinese Phrase Alignment Using Common Chinese Characters Information	Chenhui Chu and Toshiaki Nakazawa and Sadao Kurohashi	http://www.mt-archive.info/10/MTS-2011-Chu.pdf			
+The Cultivation of a Chinese-English-Japanese Trilingual Parallel Corpus from Comparable Patents	Bin Lu and Ka Po Chow and Benjamin K. Tsou	http://www.mt-archive.info/10/MTS-2011-Lu.pdf			
+Evaluation Methodology and Results for English-to-Arabic MT	Olivier Hamon and Khalid Choukri	http://www.mt-archive.info/10/MTS-2011-Hamon.pdf			
+Example-Based Machine Translation for Low-Resource Language Using Chunk-String Templates	Khan Md. Anwarus Salam and Setsuo Yamada and Tetsuro Nishino	http://www.mt-archive.info/10/MTS-2011-Anwarus-Salam.pdf			
+Improve SMT with Source-Side “Topic-Document” Distributions	Zhengxian Gong and Guodong Zhou and Liangyou Li	http://www.mt-archive.info/10/MTS-2011-Gong.pdf			
+AIR-based light clients for supporting Moses engine training	Jeffrey Rueppel and Li Jiang and Gong Yu and Ray Flournoy	http://www.mt-archive.info/10/MTS-2011-Rueppel.pdf			
+LetsMT!: Cloud-Based Platform for Building User Tailored Machine Translation Engines	Andrejs Vasiljevs and Raivis Skadinš and Jörg Tiedemann	http://www.mt-archive.info/10/MTS-2011-Vasiljevs.pdf			
+Predicting Machine Translation Adequacy	Lucia Specia and Najeh Hajlaoui and Catalina Hallett and Wilker Aziz	http://www.mt-archive.info/10/MTS-2011-Specia.pdf			
+Getting Expert Quality from the Crowd for Machine Translation Evaluation	Luisa Bentivogli and Marcello Federico and Giovanni Moretti and Michael Paul	http://www.mt-archive.info/10/MTS-2011-Bentivogli.pdf			
+A Framework for Diagnostic Evaluation of MT Based on Linguistic Checkpoints	Sudip Kumar Naskar and Antonio Toral and Federico Gaspari and Andy Way	http://www.mt-archive.info/10/MTS-2011-Naskar.pdf			
+Comparative Evaluation of Term Informativeness Measures in Machine Translation Evaluation Metrics	Billy Wong and Chunyu Kit	http://www.mt-archive.info/10/MTS-2011-Wong-2.pdf			
+System Combination for Machine Translation Based on Text-to-Text Generation	Wei-Yun Ma and Kathleen Mckeown	http://www.mt-archive.info/10/MTS-2011-Ma-3.pdf			
+Hybrid Machine Translation Guided by a Rule–Based System	Cristina España-Bonet and Gorka Labaka and Arantza Díaz de Ilarraza and Lluís Màrquez	http://www.mt-archive.info/10/MTS-2011-Espana-Bonet-1.pdf			
+Integrating shallow-transfer rules into phrase-based statistical machine translation	Víctor M. Sánchez-Cartagena and Felipe Sánchez-Martínez and Juan Antonio Pérez-Ortiz	http://www.mt-archive.info/10/MTS-2011-Sanchez-Cartagena.pdf			
+Hypergraph Training and Decoding of System Combination in SMT	Yupeng Liu and Tiejun Zhao and Sheng Li	http://www.mt-archive.info/10/MTS-2011-Liu-4.pdf			
+Study on the Impact Factors of the Translators' Post-editing Efficiency in a Collaborative Translation Environment	Na Ye and Guiping Zhang	http://www.mt-archive.info/10/MTS-2011-Ye.pdf			
+UTX 1.11, a Simple and Open User Dictionary/Terminology Standard, and its Effectiveness with Multiple MT Systems	Seiji Okura and Yuji Yamamoto and Hajime Ito and Michael Kato and Miwako Shimazu	http://www.mt-archive.info/10/MTS-2011-Okura.pdf			
+Real-time Multi-media Translation for Healthcare: a Usability Study	Mark Seligman and Mike Dillinger	http://www.mt-archive.info/10/MTS-2011-Seligman.pdf			
