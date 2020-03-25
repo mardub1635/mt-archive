@@ -1,0 +1,87 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Notes
+Welcome	Eduard Hovy	http://www.mt-archive.info/00/MTS-2003-Hovy-2.pdf			Prelim
+Preface	Elliott Macklovitch	http://www.mt-archive.info/00/MTS-2003-Macklovitch.pdf			Prelim
+Soaring demand, shrinking supply in translation: how we plan to make ends meet	Donald Barabé	http://www.mt-archive.info/00/MTS-2003-Barabe.pdf			Invited Speakers
+Development of speech translation for hand-held devices	Akitoshi Okumura	http://www.mt-archive.info/00/MTS-2003-Okumura.pdf			Invited Speakers
+Multilingual document processing at XRCE	Pierre Isabelle				Invited Speakers
+Questions the panelists were asked to comment on. PDF file [KB]		http://www.mt-archive.info/00/MTS-2003-panel.pdf			Panel
+Have we found the Holy Grail? 	Hermann Ney		http://www.mt-archive.info/00/MTS-2003-Ney.pdf		Panel
+Have we found the Holy Grail? 	Steve Richardson		http://www.mt-archive.info/00/MTS-2003-Richardson.pdf		Panel
+The HKUST leading question translation system	Dekai Wu		http://www.mt-archive.info/00/MTS-2003-Wu.pdf		Panel
+Holy and unholy grails	Eduard Hovy and Deepak Ravichandran		http://www.mt-archive.info/00/MTS-2003-Hovy-1.pdf		Panel
+Experimental comparison of MT evaluation methods: RED vs.BLEU	Yasuhiro Akiba and Eiichiro Sumita and Hiromi Nakaiwa and Seiichi Yamamoto and Hiroshi G. Okuno	http://www.mt-archive.info/00/MTS-2003-Akiba.pdf			Papers presented
+A hybrid approach to deriving selectional preferences	Arendse Bernth and Michael C. McCord	http://www.mt-archive.info/00/MTS-2003-Bernth.pdf			Papers presented
+Evaluation of a method of creating new valency entries	Francis Bond and Sanae Fujita	http://www.mt-archive.info/00/MTS-2003-Bond.pdf			Papers presented
+Reducing boundary friction using translation-fragment overlap	Ralf D. Brown and Rebecca Hutchinson and Paul N. Bennett and Jaime G. Carbonell and Peter Jansen	http://www.mt-archive.info/00/MTS-2003-Brown.pdf			Papers presented
+Communicative strategies and patterns of multimodal integration in a speech-to-speech translation system	Susanne Burger and Erica Costantini and Fabio Pianesi	http://www.mt-archive.info/00/MTS-2003-Burger.pdf			Papers presented
+Syntax-based language models for statistical machine translation	Eugene Charniak and Kevin Knight and Kenji Yamada	http://www.mt-archive.info/00/MTS-2003-Charniak.pdf			Papers presented
+A fine-grained evaluation framework for machine translation system development	Nelson Correa	http://www.mt-archive.info/00/MTS-2003-Correa.pdf			Papers presented
+Combining decision trees and transformation-based learning to correct transferred linguistic representations	Simon Corston-Oliver and Michael Gamon	http://www.mt-archive.info/00/MTS-2003-Corston.pdf			Papers presented
+Correlating automated and human assessments of machine translation quality	Deborah Coughlin	http://www.mt-archive.info/00/MTS-2003-Coughlin.pdf			Papers presented
+The limits of n-gram translation evaluation metrics	Christopher Culy and Susanne Z. Riehemann	http://www.mt-archive.info/00/MTS-2003-Culy.pdf			Papers presented
+A hybrid approach to word order transfer in the English-to-Vietnamese machine translation	Dinh Dien and Nguyen Luu Thuy Ngan and Do Xuan Quang and Van Chi Nam	http://www.mt-archive.info/00/MTS-2003-Dien-1.pdf			Papers presented
+BTL: a hybrid model for English-Vietnamese machine translation	Dinh Dien and Kiem Hoang and Eduard Hovy	http://www.mt-archive.info/00/MTS-2003-Dien-2.pdf			Papers presented
+An algorithm for word-level alignment of parallel dependency trees	Yuan Ding and Daniel Gildea and Martha Palmer	http://www.mt-archive.info/00/MTS-2003-Ding.pdf			Papers presented
+Effectiveness of automatic extraction of bilingual collocations using recursive chain-link-type learning	Hiroshi Echizen-ya and Kenji Araki and Yoshio Momouchi and Koji Tochinai	http://www.mt-archive.info/00/MTS-2003-Echizen.pdf			Papers presented
+Statistical machine translation: rapid development with limited resources	George Foster and Simona Gandrabur and Philippe Langlais and Pierre Plamondon and Graham Russell and Michel Simard	http://www.mt-archive.info/00/MTS-2003-Foster.pdf			Papers presented
+The functionality of a tool bar for postedition in machine translation between languages with linguistic interference: the Spanish-Galician case	Antonio Sayáns Gómez and Elena Villar Conde	http://www.mt-archive.info/00/MTS-2003-Sayans.pdf			Papers presented
+Transliteration considering context information based on the maximum entropy method	Isao Goto and Naoto Kato and Noriyoshi Uratani and Terumasa Ehara	http://www.mt-archive.info/00/MTS-2003-Goto-1.pdf			Papers presented
+Controlled generation in example-based machine translation	Nano Gough and Andy Way	http://www.mt-archive.info/00/MTS-2003-Gough.pdf			Papers presented
+Identification of divergence for English to Hindi EBMT	Deepa Gupta and Niladri Chatterjee	http://www.mt-archive.info/00/MTS-2003-Gupta.pdf			Papers presented
+Matador: a large-scale Spanish-English GHMT system	Nizar Habash	http://www.mt-archive.info/00/MTS-2003-Habash-3.pdf			Papers presented
+A simple multilingual machine translation system	Jan Hajicv and Petr Homola and Vladislav Kubonv	http://www.mt-archive.info/00/MTS-2003-Hajic.pdf			Papers presented
+Seeing the wood for the trees: data-oriented translation	Mary Hearne and Andy Way	http://www.mt-archive.info/00/MTS-2003-Hearne.pdf			Papers presented
+A unified statistical model for generalized translation memory system	Jin-Xia Huang and Wei Wang and Ming Zhou	http://www.mt-archive.info/00/MTS-2003-Huang.pdf			Papers presented
+Has machine translation improved? some historical comparisons	John Hutchins	http://www.mt-archive.info/00/MTS-2003-Hutchins.pdf			Papers presented
+Testing "Prompt": the development of a rapid post-editing service at CLS Corporate Language Services AG, Switzerland	Catherine Hyland	http://www.mt-archive.info/00/MTS-2003-Hyland.pdf			Papers presented
+Lexical knowledge representation with contextonyms	Hyungsuk Ji and Sabine Ploux and Eric Wehrli	http://www.mt-archive.info/00/MTS-2003-Ji.pdf			Papers presented
+Multilingual translation via annotated hub language	Hiroshi Kanayama and Hideo Watanabe	http://www.mt-archive.info/00/MTS-2003-Kanayama.pdf			Papers presented
+Acquisition of bilingual MT lexicons from OCRed dictionaries	Burcu Karagol-Ayan and David Doermann and Bonnie J. Dorr	http://www.mt-archive.info/00/MTS-2003-Karagol.pdf			Papers presented
+Building a parallel corpus for monologues with clause alignment	Hideki Kashioka and Takehiko Maruyama and Hideki Tanaka	http://www.mt-archive.info/00/MTS-2003-Kashioka.pdf			Papers presented
+FEMTI: creating and using a framework for MT evaluation	Margaret King and Andrei Popescu-Belis and Eduard Hovy	http://www.mt-archive.info/00/MTS-2003-King.pdf			Papers presented
+Practical machine translation system allowing complex patterns	Mihoko Kitamura and Toshiki Murata	http://www.mt-archive.info/00/MTS-2003-Kitamura.pdf			Papers presented
+A novel string-to-string distance measure with applications to machine translation evaluation	Gregor Leusch and Nicola Ueffing and Hermann Ney	http://www.mt-archive.info/00/MTS-2003-Leusch.pdf			Papers presented
+Scalability in MT systems	Elisabeth Maier and Anthony Clarke	http://www.mt-archive.info/00/MTS-2003-Maier.pdf			Papers presented
+Source language diagnostics for MT	Teruko Mitamura and Kathryn Baker and David Svoboda and Eric Nyberg	http://www.mt-archive.info/00/MTS-2003-Mitamura-1.pdf			Papers presented
+Resolving 'incognito' ellipsis: treatment for constructions that disguise ellipsis	Shigeko Nariyama	http://www.mt-archive.info/00/MTS-2003-Nariyama.pdf			Papers presented
+Predictive models of performance in multi-engine machine translation	Tadashi Nomoto	http://www.mt-archive.info/00/MTS-2003-Nomoto.pdf			Papers presented
+Rapid-response machine translation for unexpected languages	Douglas W. Oard and Franz Josef Och	http://www.mt-archive.info/00/MTS-2003-Oard.pdf			Papers presented
+Translation of news headlines	Kenji Ono	http://www.mt-archive.info/00/MTS-2003-Ono.pdf			Papers presented
+Collocation extraction for machine translation	Brigitte Orliac and Mike Dillinger	http://www.mt-archive.info/00/MTS-2003-Orliac.pdf			Papers presented
+On the use of statistical machine-translation techniques within a memory-based translation system (AMETRA)	Daniel Ortíz and Ismael García-Varea and Francisco Casacuberta and Antonio Lagarda and Jorge González	http://www.mt-archive.info/00/MTS-2003-Ortiz.pdf			Papers presented
+An experiment in comparative evaluation: humans vs. computers	Andrei Popescu-Belis	http://www.mt-archive.info/00/MTS-2003-Popescu.pdf			Papers presented
+Word sense discovery based on sense descriptor dissimilarity	Reinhard Rapp	http://www.mt-archive.info/00/MTS-2003-Rapp.pdf			Papers presented
+For the proper treatment of long sentences in a sentence pattern-based English-Korean MT system	Yoon-Hyung Roh and Munpyo Hong and Sung-Kwon Choi and Ki-Young Lee and Sang-Kyu Park	http://www.mt-archive.info/00/MTS-2003-Roh.pdf			Papers presented
+Disambiguation of English PP attachment using multilingual aligned data	Lee Schwartz and Takako Aikawa and Chris Quirk	http://www.mt-archive.info/00/MTS-2003-Schwartz.pdf			Papers presented
+SYSTRAN new generation: the XML translation workflow	Jean Senellart and Christian Boitet and Laurent Romary	http://www.mt-archive.info/00/MTS-2003-Senellart-1.pdf			Papers presented
+SYSTRAN intuitive coding technology	Jean Senellart and Jin Yang and Anabel Rebollo	http://www.mt-archive.info/00/MTS-2003-Senellart-2.pdf			Papers presented
+Example-based rough translation for speech-to-speech translation	Mitsuo Shimohata and Eiichiro Sumita and Yuji Matsumoto	http://www.mt-archive.info/00/MTS-2003-Shimohata.pdf			Papers presented
+High quality machine translation using a machine-learned sentence realization component	Martine Smets and Michael Gamon and Jessie Pinkham and Tom Reutter and Martine Pettenaro	http://www.mt-archive.info/00/MTS-2003-Smets.pdf			Papers presented
+Evaluating commercial spoken language translation software	Harold Somers and Yuri Sugita	http://www.mt-archive.info/00/MTS-2003-Somers-1.pdf			Papers presented
+Translation selection for Japanese-English noun-noun compounds	Takaaki Tanaka and Timothy Baldwin	http://www.mt-archive.info/00/MTS-2003-Tanaka.pdf			Papers presented
+Evaluation of machine translation and its evaluation	Joseph P. Turian and Luke Shen and I.Dan Melamed	http://www.mt-archive.info/00/MTS-2003-Turian.pdf			Papers presented
+Confidence measures for statistical machine translation	Nicola Ueffing and Klaus Macherey and Hermann Ney	http://www.mt-archive.info/00/MTS-2003-Ueffing.pdf			Papers presented
+The CMU statistical machine translation system	Stephan Vogel and Ying Zhang and Fei Huang and Alicia Tribble and Ashish Venugopal and Bing Zhao and Alex Waibel	http://www.mt-archive.info/00/MTS-2003-Vogel-1.pdf			Papers presented
+Example-based decoding for statistical machine translation	Taro Watanabe and Eiichiro Sumita	http://www.mt-archive.info/00/MTS-2003-Watanabe.pdf			Papers presented
+Automatic predicate argument structure analysis of the Penn Chinese Treebank	Nianwen Xue and Seth Kulick	http://www.mt-archive.info/00/MTS-2003-Xue.pdf			Papers presented
+Improving translation models by applying asymmetric learning	Setsuo Yamada and Masaaki Nagata and Kenji Yamada	http://www.mt-archive.info/00/MTS-2003-Yamada.pdf			Papers presented
+Customizing complex lexical entries for high-quality MT	Rémi Zajac and Elke Lange and Jin Yang	http://www.mt-archive.info/00/MTS-2003-Zajac.pdf			Papers presented
+The Comprendium Translator system.	Juan A. Alonso and Gregor Thurmair				System Presentations
+Language Weaver: the next generation of machine translation	Bryce Benjamin and Laurie Gerber and Kevin Knight and Daniel Marcu	http://www.mt-archive.info/00/MTS-2003-Benjamin.pdf			System Presentations
+The Johns Hopkins University 2003 Chinese-English machine translation system	W. Byrne and S. Khudanpur and W. Kim and S. Kumar and P. Pecina and P. Virga and P. Xu and D. Yarowsky	http://www.mt-archive.info/00/MTS-2003-Byrne.pdf			System Presentations
+SYSTRAN Review Manager	Jean-Cédric Costa and Christiane Panissod	http://www.mt-archive.info/00/MTS-2003-Costa.pdf			System Presentations
+	Jennifer DeCamp and Bob Bernier				System Presentations
+MultiTrans system presentation: translation support and language management solutions	Dan Gervais	http://www.mt-archive.info/00/MTS-2003-Gervais.pdf			System Presentations
+A multi-language translation example browser	Isao Goto and Naoto Kato and Noriyoshi Uratani and Terumasa Ehara and Tadashi Kumano and HidekiTanaka	http://www.mt-archive.info/00/MTS-2003-Goto-2.pdf			System Presentations
+Matador: Spanish-English GHMT	Nizar Habash	http://www.mt-archive.info/00/MTS-2003-Habash-2.pdf			System Presentations
+CatVar: a database of categorial variations for English	Nizar Habash and Bonnie Dorr	http://www.mt-archive.info/00/MTS-2003-Habash-1.pdf			System Presentations
+A system for Japanese/English/Korean multilingual patent retrieval	Mitsuharu Makita and Shigeto Higuchi and Atsushi Fujii and Tetsuya Ishikawa	http://www.mt-archive.info/00/MTS-2003-Makita.pdf			System Presentations
+Implementation of collaborative translation environment 'Yakushite Net'	Toshiki Murata and Mihoko Kitamura and Tsuyoshi Fukui and Tatsuya Sukehiro	http://www.mt-archive.info/00/MTS-2003-Murata.pdf			System Presentations
+LTC Communicator	Philippe Nozay and Adriane Rinsche	http://www.mt-archive.info/MTS-2003-Nozay.pdf			System Presentations
+An integrated system for source language checking, analysis and term management	Eric Nyberg and Teruko Mitamura and David Svoboda and Jeongwoo Ko and Kathryn Baker and Jeffrey Micher	http://www.mt-archive.info/00/MTS-2003-Nyberg.pdf			System Presentations
+MATS -- a glass box machine translation system	Anna Sågvall Hein and Eva Forsbom and Per Weijnitz and Ebba Gustavii and Jörg Tiedemann	http://www.mt-archive.info/00/MTS-2003-Sagvall.pdf			System Presentations
+AnglaHindi: an English to Hindi machine-aided translation system	R.M.K. Sinha and A. Jain	http://www.mt-archive.info/00/MTS-2003-Sinha.pdf			System Presentations
+TransType2 - a new paradigm for translation automation	Antonio S. Valderrábanos and José Esteban and Luis Iraola	http://www.mt-archive.info/00/MTS-2003-Valderrabanos.pdf			System Presentations
+Translation of words in context	Eric Wehrli	http://www.mt-archive.info/00/MTS-2003-Wehrli.pdf			System Presentations
+MT customization	Rémi Zajac	http://www.mt-archive.info/00/MTS-2003-Zajac-tutorial.pdf			Tutorials
+Finite state technology and its applications to machine translation	Shuly Wintner	http://www.mt-archive.info/00/MTS-2003-Wintner-tutorial.pdf			Tutorials

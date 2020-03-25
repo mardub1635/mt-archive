@@ -1,0 +1,18 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Notes
+An n-gram Approach to Exploiting a Monolingual Corpus for Machine Translation	Toni Badia and Gemma Boleda and Maite Melero and Antoni Oliver	http://www.mt-archive.info/05/MTS-2005-Badia.pdf			Example-based machine translation
+Context-sensitive Retrieval for Example-based Translation	Ralf Brown	http://www.mt-archive.info/05/MTS-2005-Brown.pdf			Example-based machine translation
+Reversible Template-based Shake & Bake Generation	Michel Carl and Paul Schmidt and Jörg Schütz	http://www.mt-archive.info/05/MTS-2005-Carl.pdf			Example-based machine translation
+Learning Translation Templates with Type Constraints	Ilyas Cicekli	http://www.mt-archive.info/05/MTS-2005-Cicekli.pdf			Example-based machine translation
+The Influence of Example-data Homogeneity on EBMT Quality	Etienne Denoual	http://www.mt-archive.info/05/MTS-2005-Denoual.pdf			Example-based machine translation
+METISII: Example-based Machine Translation Using Monolingual Corpora­System Description	Peter Dirix and Ineke Schuurman and Vincent Vandeghinste	http://www.mt-archive.info/05/MTS-2005-Dirix.pdf			Example-based machine translation
+Graph-based Retrieval for Example-based Machine Translation Using Edit-distance	Takao Doi and Hirofumi Yamamoto and Eiichiro Sumita	http://www.mt-archive.info/05/MTS-2005-Doi.pdf			Example-based machine translation
+Assembling a Parallel Corpus from RSS News Feeds	John Fry	http://www.mt-archive.info/05/MTS-2005-Fry.pdf			Example-based machine translation
+Towards a Definition of Example-based Machine Translation	John Hutchins	http://www.mt-archive.info/05/MTS-2005-Hutchins.pdf			Example-based machine translation
+EBMT by Tree-Phrasing: a Pilot Study	Philippe Langlais and Fabrizio Gotti and Didier Bourigault and Claude Coulombe	http://www.mt-archive.info/05/MTS-2005-Langlais.pdf			Example-based machine translation
+The 'purest' EBMT System Ever Built: No Variables, No Templates, No Training, Examples, Just Examples, Only Examples	Yves Lepage and Etienne Denoual	http://www.mt-archive.info/05/MTS-2005-Lepage.pdf			Example-based machine translation
+Monolingual Corpus-based MT Using Chunks	Stella Markantonatou and Sokratis Sofianopoulos and Vassiliki Spilioti and Yiorgos Tambouratzis and Marina Vassiliou and Olga Yannoutsou and Nikos Ioannou	http://www.mt-archive.info/05/MTS-2005-Markantonatou.pdf			Example-based machine translation
+Dependency Treelet Translation: The Convergence of Statistical and Example-based Machine-translation?	Arul Menezes and Chris Quirk	http://www.mt-archive.info/05/MTS-2005-Menezes.pdf			Example-based machine translation
+An Example-Based Approach to Translating Sign Language	Sara Morrissey and Andy Way	http://www.mt-archive.info/05/MTS-2005-Morrissey.pdf			Example-based machine translation
+A Machine Learning Approach to Hypotheses Selection of Greedy Decoding for SMT	Michael Paul and Eiichiro Sumita and Seiichi Yamamoto	http://www.mt-archive.info/05/MTS-2005-Paul.pdf			Example-based machine translation
+A Semantics-based English-Bengali EBMT System for Translating News Headlines	Diganta Saha and Sivaji Bandyopadhyay	http://www.mt-archive.info/05/MTS-2005-Saha.pdf			Example-based machine translation
+Example-based Translation Without Parallel Corpora: First Experiments on a Prototype	Vincent Vandeghinste and Peter Dirix and Ineke Schuurman	http://www.mt-archive.info/05/MTS-2005-Vandeghinste.pdf			Example-based machine translation

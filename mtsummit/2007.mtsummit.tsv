@@ -1,0 +1,87 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Notes
+Cover	Cover	http://www.mt-archive.info/MTS-2007-cover.pdf			Cover
+Preface	Bente Maegaard	http://www.mt-archive.info/MTS-2007-preface.pdf			[ISBN: 978-87-90708-16-0]
+Client centric multilingual information leveraging – scale the skills	Doris Marty-Albisser	http://www.mt-archive.info/05/MTS-2007-Marty-Albisser.pdf			Invited papers
+Microsoft machine translation: from research to real user	Stephen Richardson	http://www.mt-archive.info/05/MTS-2007-Richardson.pdf			Invited papers
+EuroMatrix – machine translation for all European languages	Philipp Koehn	http://www.mt-archive.info/MTS-2007-Koehn-1.pdf			Invited papers
+Human communication technology – development of speech translation for hand-held devices	Akitoshi Okumura	http://www.mt-archive.info/MTS-2007-Okumura.pdf			Invited papers
+Impact of controlled language on translation quality and post-editing in a statistical machine translation environment	Takako Aikawa and Lee Schwartz and Ronit King and Mo Corston-Oliver and Carmen Lozano	http://www.mt-archive.info/MTS-2007-Aikawa.pdf			Main conference papers
+Improving speech-to-speech translation using word posterior probabilities	Vicente Alabau and Alberto Sanchis and Francisco Casacuberta	http://www.mt-archive.info/MTS-2007-Alabau.pdf			Main conference papers
+Online learning methods for discriminative training of phrase based statistical machine translation	Abhishek Arun and Philipp Koehn	http://www.mt-archive.info/MTS-2007-Arun.pdf			Main conference papers
+Automatic extraction of entries for a machine translation dictionary using bitexts	Julia Aymerich and Hermes Camelo	http://www.mt-archive.info/MTS-2007-Aymerich.pdf			Main conference papers
+Translating from under-resourced languages: comparing direct transfer against pivot translation	Bogdan Babych and Anthony Hartley and Serge Sharoff	http://www.mt-archive.info/MTS-2007-Babych-1.pdf			Main conference papers
+Dan2eng: wide-coverage Danish-English machine translation	Eckard Bick	http://www.mt-archive.info/MTS-2007-Bick.pdf			Main conference papers
+Global Public Health Intelligence Network (GPHIN)	Michael Blench	http://www.mt-archive.info/MTS-2007-Blench.pdf			Main conference papers
+Unsupervised syntax-based machine translation: the contribution of discontiguous phrases	Rens Bod	http://www.mt-archive.info/MTS-2007-Bod.pdf			Main conference papers
+A system to mine large-scale bilingual dictionaries from monolingual web pages	Guihong Cao and Jianfeng Gao and Jian-Yun Nie	http://www.mt-archive.info/MTS-2007-Cao.pdf			Main conference papers
+METIS-II: the German to English MT system	Michael Carl	http://www.mt-archive.info/MTS-2007-Carl.pdf			Main conference papers
+Context-dependent phrasal translation lexicons for statistical machine translation	Marine Carpuat and Dekai Wu	http://www.mt-archive.info/MTS-2007-Carpuat.pdf			Main conference papers
+Enhancing image-based Arabic document translation using noisy channel correction model	Yi Chang and Ying Zhang and Stephan Vogel and Jie Yang	http://www.mt-archive.info/MTS-2007-Chang-1.pdf			Main conference papers
+A Chinese-to-Chinese statistical machine translation model for mining synonymous simplified-traditional Chinese terms	Jing-Shin Chang and Chun-Kai Kung	http://www.mt-archive.info/MTS-2007-Chang-2.pdf			Main conference papers
+Incorporating constituent structure constraint into discriminative word alignment	Wen-Han Chao and Zhou-Jun Li	http://www.mt-archive.info/MTS-2007-Chao.pdf			Main conference papers
+Better n-best translations through generative n-gram language models	Boxing Chen and Marcello Federico and Mauro Cettolo	http://www.mt-archive.info/MTS-2007-Chen.pdf			Main conference papers
+Syntax-enhanced n-gram-based SMT	Josep M. Crego and José B. Mariño	http://www.mt-archive.info/MTS-2007-Crego.pdf			Main conference papers
+All links are not the same: evaluating word alignments for statistical machine translation	Paul C. Davis and Zhuli Xie and Kevin Small	http://www.mt-archive.info/MTS-2007-Davis.pdf			Main conference papers
+A state-of-the-art statistical machine translation system based on Moses	Daniel Déchelotte and Holger Schwenk and Hélène Bonneau-Maynard and Alexandre Allauzen and Gilles Adda	http://www.mt-archive.info/MTS-2007-Dechelotte.pdf			Main conference papers
+Analogical translation of unknown words in a statistical machine translation framework	Etienne Denoual	http://www.mt-archive.info/MTS-2007-Denoual.pdf			Main conference papers
+Arabic diacritization in the context of statistical machine translation	Mona Diab and Mahmoud Ghoneim and Nizar Habash	http://www.mt-archive.info/MTS-2007-Diab.pdf			Main conference papers
+Automatic evaluation of machine translation based on recursive acquisition of an intuitive common parts continuum	Hiroshi Echizen-ya and Kenji Araki	http://www.mt-archive.info/MTS-2007-Echizen-ya.pdf			Main conference papers
+Estimating phrase pair relevance for translation model pruning	Matthias Eck and Stephan Vogel and Alex Waibel	http://www.mt-archive.info/MTS-2007-Eck.pdf			Main conference papers
+How much data is needed for reliable MT evaluation? Using bootstrapping to study human and automatic metrics	Paula Estrella and Olivier Hamon and Andrei Popescu-Belis	http://www.mt-archive.info/MTS-2007-Estrella-1.pdf			Main conference papers
+Lexical translation with application to image searching on the web	Oren Etzioni and Kobi Reiter and Stephen Soderland and Marcus Sammer	http://www.mt-archive.info/MTS-2007-Etzioni.pdf			Main conference papers
+Improving transfer-based MT systems with automatic refinements	Ariadna Font Llitjós and Jaime Carbonell and Alon Lavie	http://www.mt-archive.info/MTS-2007-Font-Llitjos.pdf			Main conference papers
+Learning bilingual lexicons from comparable English and Spanish corpora	Pablo Gamallo Otero	http://www.mt-archive.info/MTS-2007-Gamallo-Otero.pdf			Main conference papers
+Online and free! Ten years of online machine translation: origins, developments, current use and future prospects	Federico Gaspari and John Hutchins	http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf			Main conference papers
+POS-based reordering models for statistical machine translation	Deepa Gupta and Mauro Cettolo and Marcello Federico	http://www.mt-archive.info/MTS-2007-Gupta.pdf			Main conference papers
+Syntactic preprocessing for statistical machine translation	Nizar Habash	http://www.mt-archive.info/MTS-2007-Habash-1.pdf			Main conference papers
+End-to-end evaluation of a speech-to-speech translation system in TC-STAR	Olivier Hamon and Djamel Mostefa and Khalid Choukri	http://www.mt-archive.info/MTS-2007-Hamon-1.pdf			Main conference papers
+Assessing human and automated quality judgments in the French MT evaluation campaign CESTA	Olivier Hamon and Anthony Hartley and Andrei Popescu-Belis and Khalid Choukri	http://www.mt-archive.info/MTS-2007-Hamon-2.pdf			Main conference papers
+Report on the NSF-sponsored Human Language Technology Workshop on Industrial Centers	Mary Harper and Alex Acero and Srinivas Bangalore and Jaime Carbonell and Jordan Cohen and Barbara Cuthill and Carol Espy-Wilson and Christiane Fellbaum and John Garofolo and Chin-Hui Lee and Jim Lester and Andrew McCallum and Nelson Morgan and Michael Picheney and Joe Picone and Lance Ramshaw and Jeff Reynar and Hadar Shemtov and Clare Voss	http://www.mt-archive.info/MTS-2007-Harper.pdf			Main conference papers
+Experiments with a noun-phrase driven statistical machine translation system	Sanjika Hewavitharana and Alon Lavie and Stephan Vogel	http://www.mt-archive.info/MTS-2007-Hewavitharana.pdf			Main conference papers
+Domain adaptation of MT systems through automatic post-editing	Pierre Isabelle and Cyril Goutte and Michel Simard	http://www.mt-archive.info/MTS-2007-Isabelle.pdf			Main conference papers
+Development of a Japanese-Chinese machine translation system	Hitoshi Isahara and Sadao Kurohashi and Jun’ichi Tsujii and Kiyotaka Uchimoto and Hiroshi Nakagawa and Hiroyuki Kaji and Shun’ichi Kikuchi	http://www.mt-archive.info/MTS-2007-Isahara.pdf			Main conference papers
+Automatic validation of terminology translation consistenscy with statistical method	Masaki Itagaki and Takako Aikawa and Xiaodong He	http://www.mt-archive.info/MTS-2007-Itagaki.pdf			Main conference papers
+Comparing parallel corpora and evaluating their quality	Heiki-Jaan Kaalep and Kaarel Veskis	http://www.mt-archive.info/MTS-2007-Kaalep.pdf			Main conference papers
+Iterative refinement of lexicon and phrasal alignment	Jae Dong Kim and Stephan Vogel	http://www.mt-archive.info/MTS-2007-Kim.pdf			Main conference papers
+Semi-automatic error analysis for large-scale statistical machine translation	Katrin Kirchhoff and Owen Rambow and Nizar Habash and Mona Diab	http://www.mt-archive.info/MTS-2007-Kirchhoff.pdf			Main conference papers
+Comparing rule-based and data-driven approaches to Spanish-to-Basque machine translation	Gorka Labaka and Nicolas Stroppa and Andy Way and Kepa Sarasola	http://www.mt-archive.info/MTS-2007-Labaka.pdf			Main conference papers
+Log-linear generation models for example-based machine translation	Zhanyi Liu and Hifeng Wang and Hua Wu	http://www.mt-archive.info/MTS-2007-Liu.pdf			Main conference papers
+Dutch parallel corpus: MT corpus and translator’s aid	Lieve Macken and Julia Trushkina and Lidia Rura	http://www.mt-archive.info/MTS-2007-Macken.pdf			Main conference papers
+Faster beam-search decoding for phrasal statistical machine translation	Robert C. Moore and Chris Quirk	http://www.mt-archive.info/MTS-2007-Moore.pdf			Main conference papers
+Combining data-driven MT systems for improved sign language translation	Sara Morrissey and Andy Way and Daniel Stein and Jan Bungeroth and Hermann Ney	http://www.mt-archive.info/MTS-2007-Morrissey.pdf			Main conference papers
+Structural phrase alignment based on consistency criteria	Toshiaki Nakazawa and Yu Kun and Sadao Kurohashi	http://www.mt-archive.info/MTS-2007-Nakazawa.pdf			Main conference papers
+How portable are controlled language rules? A comparison of two empirical MT studies	Sharon O’Brien and Johann Roturier	http://www.mt-archive.info/MTS-2007-OBrien.pdf			Main conference papers
+Machine transliteration using multiple transliteration engines and hypothesis re-ranking	Jong-Hoon Oh and Hitoshi Isahara	http://www.mt-archive.info/MTS-2007-Oh.pdf			Main conference papers
+Introducing translation dictionary into phrase-based SMT	Hideo Okuma and Hirofumi Yamamoto and Eiichiro Sumita	http://www.mt-archive.info/MTS-2007-Okuma.pdf			Main conference papers
+Improving example-based machine translation through morphological generalization and adaptation	Aaron B. Phillips and Violetta Cavalli-Sforza and Ralf D. Brown	http://www.mt-archive.info/MTS-2007-Phillips.pdf			Main conference papers
+Generative models of noisy translations with applications to parallel fragment extraction	Chris Quirk and Raghavendra Udupa U. and Arul Menezes	http://www.mt-archive.info/MTS-2007-Quirk.pdf			Main conference papers
+Improving spoken language translation by automatic disfluency removal: evidence from conversational speech transcripts	Sharath Rao and Ian Lane and Tanja Schultz	http://www.mt-archive.info/MTS-2007-Rao.pdf			Main conference papers
+Improving statistical word alignment with various clues	Dengjun Ren and Hua Wu and Haifeng Wang	http://www.mt-archive.info/MTS-2007-Ren.pdf			Main conference papers
+Building a sense-distinguished multilingual lexicon from monolingual corpora and bilingual lexicons	Marcus Sammer and Stephen Soderland	http://www.mt-archive.info/MTS-2007-Sammer.pdf			Main conference papers
+Estimation of confidence measures for machine translation	Alberto Sanchis and Alfons Juan and Enrique Vidal	http://www.mt-archive.info/MTS-2007-Sanchis.pdf			Main conference papers
+Getting professional translation through user interaction	Young-Ae Seo and Chang-Hyun Kim and Seong-Il Yang and Young-gil Kim	http://www.mt-archive.info/MTS-2007-Seo.pdf			Main conference papers
+Hindi generation from interlingua	Smriti Singh and Mrugank Dalal and Vishal Vachhani and Pushpak Bhattacharyya and Om P.Damani	http://www.mt-archive.info/MTS-2007-Singh.pdf			Main conference papers
+Using rich morphology in resolving certain Hindi-English machine translation divergence	R.Mahesh K. Sinha	http://www.mt-archive.info/MTS-2007-Sinha.pdf			Main conference papers
+The quest for machine translation quality at CLS Communication	Hans-Udo Stadler and Ursula Peter-Spörndli	http://www.mt-archive.info/MTS-2007-Stadler.pdf			Main conference papers
+Rapid development of new language pairs at SYSTRAN	Sylvain Surcin and Elke Lange and Jean Senellart	http://www.mt-archive.info/MTS-2007-Surcin.pdf			Main conference papers
+Flexible automatic look-up of English idiom entries in dictionaries	Koichi Takeuchi and Takashi Kanehila and Kazuki Hilao and Takeshi Abekawa and Kyo Kageura	http://www.mt-archive.info/MTS-2007-Takeuchi.pdf			Main conference papers
+A MT system from Turkmen to Turkish employing finite state and statistical methods	Ahmet Cüneyd Tantuğ and Eşref Adali and Kemal Oflazer	http://www.mt-archive.info/MTS-2007-Tantug.pdf			Main conference papers
+Robust language pair-independent sub-tree alignment	John Tinsley and Ventsislav Zhechev and Mary Hearne and Andy Way	http://www.mt-archive.info/MTS-2007-Tinsley.pdf			Main conference papers
+A Japanese-English patent parallel corpus	Masao Utiyama and Hitoshi Isahara	http://www.mt-archive.info/MTS-2007-Utiyama.pdf			Main conference papers
+Japanese-Hungarian dictionary generation using ontology resources	István Varga and Shoichi Yokoyama	http://www.mt-archive.info/MTS-2007-Varga.pdf			Main conference papers
+Morphology-aware statistical machine translation based on morphs induced in an unsupervised manner	Sami Virpioja and Jaako J.Väyrynen and Mathias Creutz and Markus Sadeniemi	http://www.mt-archive.info/MTS-2007-Virpioja.pdf			Main conference papers
+Evaluating MT with translations or translators: what is the difference?	Martin Volk and Søren Harder	http://www.mt-archive.info/MTS-2007-Volk.pdf			Main conference papers
+Comparative study of word alignment heuristics and phrase-based SMT	Hua Wu and Haifeng Wang	http://www.mt-archive.info/MTS-2007-Wu.pdf			Main conference papers
+Domain dependent statistical machine translation	Jia Xu and Yonggang Deng and Yuqing Gao and Hermann Ney	http://www.mt-archive.info/MTS-2007-Xu.pdf			Main conference papers
+Aspect marker generation in English-to-Chinese machine translation	Yang Ye and Karl-Michael Schneider and Steven Abney	http://www.mt-archive.info/MTS-2007-Ye.pdf			Main conference papers
+English-Slovenian statistical machine translation: from a lower- to a highly-inflected language	Jerneja Žganec Gros and Stanislav Gruden	http://www.mt-archive.info/MTS-2007-Zganec.pdf			Main conference papers
+A tree-to-tree alignment-based model for statistical machine translation	Min Zhang and Hongfei Jiang and Ai Ti Aw and Jun Sun and Sheng Li and Chew Lim Tan	http://www.mt-archive.info/MTS-2007-Zhang-1.pdf			Main conference papers
+PanDoRA: a large-scale two-way statistical machine translation system for hand-held devices	Ying Zhang and Stephan Vogel	http://www.mt-archive.info/MTS-2007-Zhang-2.pdf			Main conference papers
+Building Japanese-Chinese translation dictionary based on EDR Japanese-English bilingual dictionary	Yujie Zhang and Qing Ma and Hitoshi Isahara	http://www.mt-archive.info/MTS-2007-Zhang-3.pdf			Main conference papers
+Syntax-based word reordering in phrase-based statistical machine translation: why does it work?	Simon Zwarts and Mark Dras	http://www.mt-archive.info/MTS-2007-Zwarts.pdf			Main conference papers
+Statistical machine translation	Kevin Knight and Philipp Koehn	http://www.mt-archive.info/05/MTS-2007-Knight-1.pdf	http://www.mt-archive.info/MTS-2007-Koehn-3.pdf;http://www.mt-archive.info/MTS-2007-Knight-3.pdf		Tutorials, 10 September
+Example based machine translation for cross-lingual information retrieval	Cristina Vertan	http://www.mt-archive.info/MTS-2007-Vertan.pdf	http://www.mt-archive.info/MTS-2007-Vertan-ppt.pdf		Tutorials, 10 September
+Context-based evaluation of MT systems: principles and tools	Maghi King and Andrei Popescu-Belis and Paula Estrella	http://www.mt-archive.info/MTS-2007-King-1.pdf	http://www.mt-archive.info/MTS-2007-Estrella-2.pdf		Tutorials, 10 September
+Using free online MT in multilingual websites	Federico Gaspari and Harold Somers	http://www.mt-archive.info/05/05/MTS-2007-Gaspari-2.pdf			Tutorials, 10 September
+LTC tutorial on workflow and business information management in the language industry	Adriane Rinsche	http://www.mt-archive.info/MTS-2007-Rinsche-1.pdf			Tutorials, 10 September
+How to successfully integrate MT	Jen Doyon	http://www.mt-archive.info/MTS-2007-Doyon.pdf			Tutorials, 10 September
