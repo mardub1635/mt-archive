@@ -1,28 +1,28 @@
-Title	Authors	Pdf	Presentation	Volume_Name	Notes
-Keynote address	John Yeo				
-Foundations of machine translation: linguistics	Wallace L. Chafe	http://www.mt-archive.info/70/AJCL-1976-Chafe.pdf			
-Foundations of machine translation: operations	Martin Kay	http://www.mt-archive.info/70/AJCL-1976-Kay.pdf			
-Experimental on-line computer aids for the human translator	Erhard O. Lippmann	http://www.mt-archive.info/70/AJCL-1976-Lippmann.pdf			
-Automatic language processing project, Brigham Young University	Eldon G.Lytel				
-Chinese-English machine translation project on linguistic analysis, University of California, Berkeley	William S-Y Wang	http://www.mt-archive.info/70/AJCL-1976-Wang.pdf			
-Leibnitz – a multilingual system	John Chandioux	http://www.mt-archive.info/70/AJCL-1976-Chandioux-1.pdf			
-Chinese-English Translation Assistance group	J. Mathias	http://www.mt-archive.info/70/AJCL-1976-Mathias-1.pdf			
-METEO, an operational system for the translation of public weather forecasts	John Chandioux	http://www.mt-archive.info/70/AJCL-1976-Chandioux-2.pdf			
-Excerpt from ... presentation on Xonics MT system	Bedrich Chaloupka	http://www.mt-archive.info/70/AJCL-1976-Chaloupka.pdf			
-SYSTRAN	Peter Toma	http://www.mt-archive.info/70/AJCL-1976-Toma.pdf			
-CULT, Chinese University Language Translator	Shiu-Chang Loh	http://www.mt-archive.info/70/AJCL-1976-Loh.pdf			
-Russian-English system, Georgetown University	Michael Zarechnak	http://www.mt-archive.info/70/AJCL-1976-Zarechnak.pdf			
-Regular use of machine translation of Russian at Oak Ridge National Laboratory	Martha W. Gerrard	http://www.mt-archive.info/70/AJCL-1976-Gerrard.pdf			
-Georgetown University MT system usage, Nuclear Division, Union Carbide Corp	Fred C. Hutton				
-Translation aids, Federal Republic of Germany	Friedrich Krollmann				
-Optical character recognition based on phenomenal attributes	Robert J.Shillman	http://www.mt-archive.info/70/AJCL-1976-Shillman.pdf			
-Machine processing of Chinese characters	William Stallings	http://www.mt-archive.info/70/AJCL-1976-Stallings.pdf			
-Programs to understand stories	Roger C. Schank				
-Semantics and world knowledge in MT	Yorick Wilks	http://www.mt-archive.info/70/AJCL-1976-Wilks.pdf			
-Formal representation	Robert F. Simmons				
-Summary of FBIS Seminar on Machine Translation,	S.R.Petrick	http://www.mt-archive.info/70/AJCL-1976-Petrick.pdf			
-Summary remarks for machine translation conference	Sally Yeates Sedelow	http://www.mt-archive.info/70/AJCL-1976-Sedelow.pdf			
-Summary report on the FBIS conference	Richard See	http://www.mt-archive.info/70/AJCL-1976-See.pdf			
-Machine translation: generalities and guide to action	David G. Hays	http://www.mt-archive.info/70/AJCL-1976-Hays.pdf			
-Summary notes FBIS Seminar on Machine Translation,	Jim Mathias	http://www.mt-archive.info/70/AJCL-1976-Mathias-2.pdf			
-Conceptual outlines of machine translation: systems and experience. Appendix	David G.Hays and Jim Mathias				
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Notes
+Keynote address	John Yeo				5-7	
+Foundations of machine translation: linguistics	Wallace L. Chafe	http://www.mt-archive.info/70/AJCL-1976-Chafe.pdf			8-9	
+Foundations of machine translation: operations	Martin Kay	http://www.mt-archive.info/70/AJCL-1976-Kay.pdf			10	
+Experimental on-line computer aids for the human translator	Erhard O. Lippmann	http://www.mt-archive.info/70/AJCL-1976-Lippmann.pdf			11-13	
+Automatic language processing project, Brigham Young University	Eldon G.Lytel				14-23	
+Chinese-English machine translation project on linguistic analysis, University of California, Berkeley	William S-Y Wang	http://www.mt-archive.info/70/AJCL-1976-Wang.pdf			24	
+Leibnitz – a multilingual system	John Chandioux	http://www.mt-archive.info/70/AJCL-1976-Chandioux-1.pdf			25	
+Chinese-English Translation Assistance group	J. Mathias	http://www.mt-archive.info/70/AJCL-1976-Mathias-1.pdf			26	
+METEO, an operational system for the translation of public weather forecasts	John Chandioux	http://www.mt-archive.info/70/AJCL-1976-Chandioux-2.pdf			27-36	
+Excerpt from ... presentation on Xonics MT system	Bedrich Chaloupka	http://www.mt-archive.info/70/AJCL-1976-Chaloupka.pdf			37-39	
+SYSTRAN	Peter Toma	http://www.mt-archive.info/70/AJCL-1976-Toma.pdf			40-45	
+CULT, Chinese University Language Translator	Shiu-Chang Loh	http://www.mt-archive.info/70/AJCL-1976-Loh.pdf			56-50	
+Russian-English system, Georgetown University	Michael Zarechnak	http://www.mt-archive.info/70/AJCL-1976-Zarechnak.pdf			51-52	
+Regular use of machine translation of Russian at Oak Ridge National Laboratory	Martha W. Gerrard	http://www.mt-archive.info/70/AJCL-1976-Gerrard.pdf			53-56	
+Georgetown University MT system usage, Nuclear Division, Union Carbide Corp	Fred C. Hutton				57	
+Translation aids, Federal Republic of Germany	Friedrich Krollmann				58	
+Optical character recognition based on phenomenal attributes	Robert J.Shillman	http://www.mt-archive.info/70/AJCL-1976-Shillman.pdf			59	
+Machine processing of Chinese characters	William Stallings	http://www.mt-archive.info/70/AJCL-1976-Stallings.pdf			60-64	
+Programs to understand stories	Roger C. Schank				65	
+Semantics and world knowledge in MT	Yorick Wilks	http://www.mt-archive.info/70/AJCL-1976-Wilks.pdf			67-69	
+Formal representation	Robert F. Simmons				70-71	
+Summary of FBIS Seminar on Machine Translation,	S.R.Petrick	http://www.mt-archive.info/70/AJCL-1976-Petrick.pdf			72-76	
+Summary remarks for machine translation conference	Sally Yeates Sedelow	http://www.mt-archive.info/70/AJCL-1976-Sedelow.pdf			77-81	
+Summary report on the FBIS conference	Richard See	http://www.mt-archive.info/70/AJCL-1976-See.pdf			82-83	
+Machine translation: generalities and guide to action	David G. Hays	http://www.mt-archive.info/70/AJCL-1976-Hays.pdf			84-88	
+Summary notes FBIS Seminar on Machine Translation,	Jim Mathias	http://www.mt-archive.info/70/AJCL-1976-Mathias-2.pdf			89-90	
+Conceptual outlines of machine translation: systems and experience. Appendix	David G.Hays and Jim Mathias				91-96	

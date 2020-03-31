@@ -1,25 +1,25 @@
-Title	Authors	Pdf	Presentation	Volume_Name	Notes
-Foreword	Zbigniew Pankowicz and Franz H.Dettmer	http://www.mt-archive.info/70/LRC-1971-Pankowitz-1.pdf			
-Abstract		http://www.mt-archive.info/70/LRC-1971-abstract.pdf			
-Technical evaluation	Zbigniew L.Pankowicz	http://www.mt-archive.info/70/LRC-1971-Pankowitz-2.pdf			
-Table of contents		http://www.mt-archive.info/70/LRC-1971-contents.pdf			
-Report		http://www.mt-archive.info/70/LRC-1971-Lehmann.pdf			
-Conferences at the Linguistics Research Center		http://www.mt-archive.info/70/LRC-1971-conferences.pdf			
-Papers of participants		http://www.mt-archive.info/70/LRC-1971-papers.pdf			
-Bibliography of relevant papers by consultants and major contributors		http://www.mt-archive.info/70/LRC-1971-bibliography.pdf			
-Some reflections on the present outlook for high-quality machine translation	Yehoshua Bar-Hillel	http://www.mt-archive.info/70/LRC-1971-Bar-Hillel.pdf			
-On a fully developed system of linguistic description	C.F.Fillmore	http://www.mt-archive.info/70/LRC-1971-Fillmore.pdf			
-Operational problems of machine translation: a position paper	Paul L.Garvin	http://www.mt-archive.info/70/LRC-1971-Garvin.pdf			
-The logic of English predicate complement constructions	Lauri Karttunen	http://www.mt-archive.info/70/LRC-1971-Karttunen.pdf			
-The feasibility of high quality machine translation	John Lyons	http://www.mt-archive.info/70/LRC-1971-Lyons.pdf			
-Philosophy of language and the feasibility of MT: a position paper	Norman M.Martin	http://www.mt-archive.info/70/LRC-1971-Martin.pdf			
-Toward a theory of computational linguistics	Jacob Mey	http://www.mt-archive.info/70/LRC-1971-Mey.pdf			
-Meaning revisited	Eugene D.Pendergraft	http://www.mt-archive.info/70/LRC-1971-Pendergraft.pdf			
-Syntactic analysis for transformational grammars	S.R.Petrick	http://www.mt-archive.info/70/LRC-1971-Petrick-1.pdf			
-Syntactic analysis requirements of machine translation	S.R.Petrick	http://www.mt-archive.info/70/LRC-1971-Petrick-2.pdf			
-Analysis of Es liegt eine grosse Anzahl von Elementen vor	Annette Stachowitz	http://www.mt-archive.info/70/LRC-1971-Stachowitz-1.pdf			
-Lexical features in translation and paraphrasing: an experiment	Rolf Stachowitz	http://www.mt-archive.info/70/LRC-1971-Stachowitz-2.pdf			
-Requirements for machine translation: problems, solutions, prospects	Rolf Stachowitz	http://www.mt-archive.info/70/LRC-1971-Stachowitz-3.pdf			
-The current status of computer hardware and software as it affects the development of high quality machine translation	D.Walker	http://www.mt-archive.info/70/LRC-1971-Walker.pdf			
-Equivalents and explanations in bilingual dictionaries	L.Zgusta	http://www.mt-archive.info/70/LRC-1971-Zgusta-1.pdf			
-The shape of the dictionary for mechanical translation purposes	L.Zgusta	http://www.mt-archive.info/70/LRC-1971-Zgusta-2.pdf			
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Notes
+Foreword	Zbigniew Pankowicz and Franz H.Dettmer	http://www.mt-archive.info/70/LRC-1971-Pankowitz-1.pdf			ii	
+Abstract		http://www.mt-archive.info/70/LRC-1971-abstract.pdf			iii	
+Technical evaluation	Zbigniew L.Pankowicz	http://www.mt-archive.info/70/LRC-1971-Pankowitz-2.pdf			Iv-ix	
+Table of contents		http://www.mt-archive.info/70/LRC-1971-contents.pdf			xi	
+Report		http://www.mt-archive.info/70/LRC-1971-Lehmann.pdf			1-50	
+Conferences at the Linguistics Research Center		http://www.mt-archive.info/70/LRC-1971-conferences.pdf			51	
+Papers of participants		http://www.mt-archive.info/70/LRC-1971-papers.pdf			53-54	
+Bibliography of relevant papers by consultants and major contributors		http://www.mt-archive.info/70/LRC-1971-bibliography.pdf			55-72	
+Some reflections on the present outlook for high-quality machine translation	Yehoshua Bar-Hillel	http://www.mt-archive.info/70/LRC-1971-Bar-Hillel.pdf			73-76	
+On a fully developed system of linguistic description	C.F.Fillmore	http://www.mt-archive.info/70/LRC-1971-Fillmore.pdf			77-94	
+Operational problems of machine translation: a position paper	Paul L.Garvin	http://www.mt-archive.info/70/LRC-1971-Garvin.pdf			95-118	
+The logic of English predicate complement constructions	Lauri Karttunen	http://www.mt-archive.info/70/LRC-1971-Karttunen.pdf			119-155	
+The feasibility of high quality machine translation	John Lyons	http://www.mt-archive.info/70/LRC-1971-Lyons.pdf			156-162	
+Philosophy of language and the feasibility of MT: a position paper	Norman M.Martin	http://www.mt-archive.info/70/LRC-1971-Martin.pdf			163-174	
+Toward a theory of computational linguistics	Jacob Mey	http://www.mt-archive.info/70/LRC-1971-Mey.pdf			175-187	
+Meaning revisited	Eugene D.Pendergraft	http://www.mt-archive.info/70/LRC-1971-Pendergraft.pdf			188-323	
+Syntactic analysis for transformational grammars	S.R.Petrick	http://www.mt-archive.info/70/LRC-1971-Petrick-1.pdf			324-342	
+Syntactic analysis requirements of machine translation	S.R.Petrick	http://www.mt-archive.info/70/LRC-1971-Petrick-2.pdf			343-355	
+Analysis of Es liegt eine grosse Anzahl von Elementen vor	Annette Stachowitz	http://www.mt-archive.info/70/LRC-1971-Stachowitz-1.pdf			356-366	
+Lexical features in translation and paraphrasing: an experiment	Rolf Stachowitz	http://www.mt-archive.info/70/LRC-1971-Stachowitz-2.pdf			367-408	
+Requirements for machine translation: problems, solutions, prospects	Rolf Stachowitz	http://www.mt-archive.info/70/LRC-1971-Stachowitz-3.pdf			409-532	
+The current status of computer hardware and software as it affects the development of high quality machine translation	D.Walker	http://www.mt-archive.info/70/LRC-1971-Walker.pdf			533-535	
+Equivalents and explanations in bilingual dictionaries	L.Zgusta	http://www.mt-archive.info/70/LRC-1971-Zgusta-1.pdf			536-548	
+The shape of the dictionary for mechanical translation purposes	L.Zgusta	http://www.mt-archive.info/70/LRC-1971-Zgusta-2.pdf			549-576	
