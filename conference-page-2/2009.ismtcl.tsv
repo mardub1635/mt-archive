@@ -1,0 +1,164 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Abstract	Notes
+"Multiple Uses of Machine Translation and Computerised Translation Tools"	"John Hutchins"				13-20	"For many years MT systems
+and tools were used principally for the production of good-quality translations:
+either MT in combination with controlled (restricted) input and/or with human
+post-editing; or computer-based translation tools by translators. Since 1990
+the situation has changed. Corporate use of MT with human assistance has
+continued to expand (particularly in the area of localisation) and the use of translation
+aids has increased (particularly with the coming of translation memories). But
+the main change has been the ever expanding use of unrevised MT output, such as
+online translation services (Babel Fish, Google, etc.), applications in
+information extraction, document retrieval, intelligence analysis, electronic mail,
+and much more."	
+"French to Arabic Machine TranslationIsomorphic Syntax, Use of Terminal Sequences"	"Mohand Beddar"				38-42	"Languages are different
+and each of them requires special processing. A machine translation system should
+take into account syntactic and semantic particularities of each language. In
+fact, syntactic and semantic models should be defined in both the source and
+target languages and a link should be established between both the syntactic
+and semantic models. In security protocols, French and Arabic syntax are quite similar.
+Structures can be formalized to be isomorphic structures and terminal sequences
+link these structures to the semantics of the language, therefore limiting semantic
+ambiguities."	
+"Remarks about Linguistic Analysis, Normalization and Translation of Spanish ""What to Do in Case of Fire"" Texts"	"Xavier Blanco"				43-48	"We intend to discuss, in a understandable way for no trained linguists, the key
+points that can allow us to see the main invariable meaning of a cluster of
+texts through the enormous multiplicity of possible paraphrases. As means of
+example, we show how to formalize the core messages of a collection of Spanish
+“What to Do in Case of Fire” texts. We keep our analysis to the simple phrase
+level (i.e. no textual constraints as, for instance, cohesion or thematic progression,
+will be discussed). At this level, we discuss mainly the following topics:
+semantic labelling of facts; semantic labelling of entities; paradigmatic lexical
+functions; syntagmatic lexical functions; grammatical
+meanings. We give examples in different European languages concerning the
+translation of our “What to Do in Case of Fire” texts. We show that linguistic
+formalization can be regarded as sort of an interlingua
+particularly well suited for translation of alert texts."	
+"Controlled Languages and Machine Translation"	"Krzysztof Bogacki"				49-55	"We will examine
+controlled languages in the context of machine translation. First we will
+present principles governing the conversion of standard natural language texts
+into controlled Polish. We will compare 6 converted texts with their standard
+sources and comment on them. Then we will present the results of an experiment
+which has turned out to be disappointing in this respect: the number of mistranslations
+and various sorts of mistakes was sufficiently big to make us query the reasons
+of such a result."	
+"Achieving a Better Machine Translation from French to English via a Controlled Language"	"Tessa Cornally"				69-73	"This article discusses
+how the use of a controlled language can improve Machine Translation results. More
+specifically it is concerned with the sublanguage of oenology and examines the
+structures specific to this domain."	
+"English/Veneto Resource Poor Machine Translation with STILVEN"	"Rodolfo Delmonte and Antonella Bristot and Sara Tonelli and Emanuele Pianta"				82-89	"The paper reports ongoing
+work for the implementation of a system for automatic translation from
+English-to-Veneto and viceversa. The system does not
+have parallel texts to work on because of the almost inexistence of such manual
+translations. The project is called STILVEN and is financed by the Regional
+Authorities of Veneto Region in Italy.
+After the first year of activities, we managed to produce a prototype which
+handles Venetian questions that have a structure very close to English. We will
+present problems related to Veneto,
+basic ideas, their implementation and results obtained."	
+"Syntactic Problems in French-Russian Machine Translation of Periodicals"	"Ekaterina Ershova"				100-103	"French-Russian machine
+translation is not a new-found field of study. Nevertheless this is a domain
+that is very rich and fruitful in problems which still need to be resolved,
+particularly syntactic problems. Moreover, limited to a certain subject field,
+i.e. periodicals, MT “of high quality” is certain to be possible."	
+"Translating Composite Sentences in Azerbaijani-English MT System"	"Rauf Fatullayev and Sevinc Mammadova and Abulfat Fatullayev"				104-113	"This article is dedicated
+to the automation of the translation process of the composite sentences in the Azerbaijani
+language in an Azerbaijani-English MT system. First the Azerbaijani composite
+sentence is divided into simple sentences and English translation of the
+sentence is synthesized by using the translations of the simple sentences."	
+"Some Problems in a French-Chinese Machine Translation System"	"Gan Jin"				138-142	"The Chinese language is
+very different from European languages with respect to morphology, lexica,
+syntax and semantics. This complexity causes many problems in machine
+translation systems. ‘Rang' is a Chinese character morphologically simple, but
+its usage is very complicated. For a long time, linguists have been interested
+in its complexity. With all the efforts, the linguists have not come to agreement
+to this day as to the correct grammatical category. Some linguists consider it
+as a preposition, others as a verb. In this article, we try to explain the real
+usage of ‘Rang' sentence in a French-Chinese machine translation
+system for a specific domain where safety is extremely important and we show
+our methods of disambiguating verbs with respect to not only Chinese grammar
+but also French grammar because the latter is our source language in the translation
+system. Our objective is to create a reliable machine translation system."	
+"French-Vietnamese Noun phrase Translation"	"Le Thi Sinh"				158-163	"Vietnamese is a noun
+classifier language, while this is not the case for French. This is why we
+encounter some problems when translating French noun phrases (NPs) into
+Vietnamese. This article will suggest a simple algorithm for French-Vietnamese
+NP translation after building a Vietnamese classifier-noun combination system
+which makes up a considerable knot to be solved in the algorithm. All these are
+realized basing on the results from the condensed comparative analyses of NPs
+of the two languages under consideration."	
+"Cognitive Models of Yesterday and Today in Machine Translation and their Implication for Controlled Languages"	"Henri Madec"				172-178	"In this article we
+present a contradiction between the 50 years NLP epistemology based on
+behaviourism and the today's one that requires taking into account advances in
+brain imaging. The science of translation is certainly an idea developed after
+the Soviet experience of Pavlov on a stimulus-response model. Today we know
+better how the human brain works. It would be necessary to make a new science
+of translation, based on other principles and a new epistemology. This should
+be a necessity. And perhaps the probabilistic and statistical models in fashion
+now with Google lead us in this direction. But it is doubtful that the two last
+approaches go in the same direction.  Also
+would it be better to defend the Soviet science of translation which doesn't
+prove quite outdated in the current state of the art and allow the controlled languages....
+even if it does not contribute to build a stable and consistent pattern of TAL."	
+"Abduction Alerts in Greek and Spanish"	"Eleni Papadopoulou and Marcel Puig Portella"				185-189	"In this paper, we intend
+to present a redaction model of abduction alert messages for both Greek and
+Spanish languages, in the frame of the MESSAGE project. The main object of the
+present work is to describe the lexicographic groundwork needed in order to
+construct models applicable to NLP (Natural Language Processing) software,
+which would be able to generate and translate automatically texts in Greek and
+Spanish and to be further used in the controlled languages' field."	
+"Grammatical and Lexical Errors Analysis of English-Vietnamese Translation Texts with the Google & EVTRAN Engines and Post-editing Tasks"	"Phan Thi Thanh Thao"				190-197	"Evaluation of machine
+translation (MT) is a challenging task for computational linguists due to the variety
+of translation engines used to “decode” different pairs of languages. Although
+a large number of automatic evaluation measures have been proposed and studied
+over the last years, human judgements of MT quality still remain the best
+method for comparing and evaluating different MT systems. Moreover, to achieve
+the high quality of MT, manual post-editing tasks are taken into significant
+consideration. It is important to study the methods of post-editing the MT output
+fast and effectively, which requires the typical error analysis of different
+translation engines. This paper mentions the grammatical and lexical error analysis
+of English-Vietnamese translation texts extracted from BBC News from January to
+May 2009 with the Google and EVTRAN engines. Based on the error analysis, some
+manual post-editing tasks are suggested to improve the quality of translation
+engines to some extent."	
+"Treatment of the Imperative Forms in the Machine Translation betweenCatalan, Spanish and Greek"	"Marcel Puig Portella and Eleni Papadopoulou"				198-202	"This paper is a fruit of
+our research on controlled languages and their automatic/machine translation in
+the frame of Alert Messages and Protocols project and its purpose is twofold. Firstly,
+we outline the imperative and alter-imperative forms in Catalan, Greek and
+Spanish. Following to this description, we propose a systematic treatment of
+these forms in the framework of the automatic translation and the controlled
+languages."	
+"Polish controlled language and its machine translation into French"	"Zuzanna Rudas"				231-235	"This paper presents some difficulties
+encountered during the analysis of Polish controlled protocols about the fire
+regulations in their aim for a machine translation into French. The applied
+method to solve the problems uses the systemic linguistics."	
+"Post-editing Experiments with MT for a Controlled Language"	"Irina Temnikova and Constantin Orasan"				249-255	"This paper aims to
+establish whether a new controlled language (CL) for emergency-related texts could
+facilitate both human and machine translation. To achieve this, an experiment
+involving an MT engine and human translators and post-editors was conduced. In
+order to estimate whether the CL pre-editing has an impact on human and machine
+translation, the time to manually translate, the time to post-edit and the edit
+distance between the original and the simplified texts were measured. The
+results of the experiment confirm the hypothesis."	
+"Research into the Practicality of Machine Translation of AdministrativeDocuments"	"Tsai Yi-Jung"				256-259	"This paper discusses
+Machine Translation (MT) in the domain of administrative documents. MT is not only
+an interesting field for research but also has an immense practical value to
+society. Due to the fact that natural languages contain many ambiguities and
+there is too much information for the corpus to be complete, there are still
+some problems to resolve and some obstacles to overcome. However,
+administrative documents issued by governments and other official institutions,
+which are written in a standard form, with an identical structure, limited
+vocabulary and rarely contain ambiguities are just an ideal sublanguage domain
+to treat in which fully automatic high quality translation is achievable."	
+"Building a Linguistic Database for Chinese Interrogative Sentences"	"Xiaohong Wu"				260-268	"Analysis of the
+interrogative sentences plays an important role in systems that focus on work
+such as question-answering and/or human-machine communication. In this paper we
+present the work we have done for a multilingual MT system. Texts collected for
+the building of the parallel corpora are those from the domains where the
+accurate interpretation of the texts is extremely crucial. Therefore, exact and
+accurate translation is not only necessary but also obligatory. To reach high
+quality translations, we adopt the controlled language technique. Here we lay
+focus on building a linguistic database for the analysis and transfer of the
+French interrogative sentences into Chinese, which play an important role in
+some texts in our corpora. We will introduce how we classify and control the interrogative
+sentences in our work. We will describe the classifications and the linguistic
+information needed when processing the interrogative sentences according to
+their differed usages."	

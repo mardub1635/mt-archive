@@ -1,0 +1,123 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Abstract	Notes
+Phoneme-based transliteration of foreign names for OOV problem	Wei Gao and Kam-Fai Wong and Wai Lam				110-119	"            A proper noun dictionary is never complete rendering name
+translation from English to Chinese ineffective. One way to solve this problem
+is not to rely on a dictionary alone but to adopt automatic translation
+according to pronunciation similarities, i.e. to map phonemes comprising an
+English name to the phonetic representations of the corresponding Chinese name.
+This process is called transliteration. We present a statistical
+transliteration method. An efficient algorithm for aligning phoneme chunks is
+described. Unlike rule-based approaches, our method is data-driven. Compared to
+source-channel based statistical approaches, we adopt a direct transliteration
+model, i.e. the direction of probabilistic estimation conforms to the
+transliteration direction. We demonstrate comparable performance to
+source-channel based system."	Selected abstracts
+Building a parallel bilingual syntactically annotated corpus	Jan Cuřin and Martin Čmejrek and Jiří Havelka and Vladislav Kuboň				168-176	"            This paper describes a process of building a bilingual
+syntactically annotated corpus, the PCEDT (Prague Czech-English Dependency
+Treebank). The corpus is being created at Charles
+University, Prague, and the release of this corpus as
+Linguistic Data Consortium data collection is scheduled for the spring of 2004.
+The paper discusses important decisions made prior to the start of the project
+and gives an overview of all kinds of resources included in the PCEDT."	Selected abstracts
+Acquiring bilingual named entity translations from content-aligned corpora	Tadashi Kumano and Hideki Kashioka and Hideki Tanaka and Takahiro Fukusima				177-186	"            We propose a new method for acquiring bilingual named
+entity (NE) translations from non-literal, content-aligned corpora. It first
+recognizes NEs in each of a bilingual document pair
+using the NE extraction technique, then finds NE groups whose members share the
+same referent, and finally corresponds between bilingual NE groups. The exhaustive
+detection of NEs can potentially acquire translation
+pairs with broad coverage. The correspondences between bilingual NE groups are
+estimated based on the similarity of the appearance order in each document, and
+the corresponding performance came up to F(=1)
+= 71.0% by using small bilingual dictionary together. The total performance for
+acquiring bilingual NE pairs through the overall process of extraction,
+grouping, and corresponding was F(=1) = 58.8%."	Selected abstracts
+Example-based machine translation without saying inferable predicate	Eiji Aramaki and Sadao Kurohashi and Hideki Kashioka and Hideki Tanaka				206-215	"            For natural translations, a human being does not express
+predicates that are inferable from the context in a target language. This paper
+proposes a method of machine translation which handles these predicates. First,
+to investigate how to translate them, we build a corpus in which predicate
+correspondences are annotated manually. Then, we observe the corpus, and find
+alignment patterns including these predicates. In our experimental results, the
+machine translation system using the patterns demonstrated the basic
+feasibility of our approach."	Selected abstracts
+Improving back-transliteration by combining information sources	Slaven Bilac and Hozumi Tanaka				216-223	"            Transliterating words and names from one language to
+another is a frequent and highly productive phenomenon. Transliteration is
+information loosing since important distinctions are not preserved in the
+process. Hence, automatically converting transliterated words back into their
+original form is a real challenge. However, due to wide applicability in MT and
+CLIR, it is a computationally interesting problem. Previously proposed
+back-transliteration methods are based either on phoneme modeling
+or grapheme modeling across languages. In this paper,
+we propose a new method, combining the two models in order to enhance the
+back–transliterations of words transliterated in Japanese. Our experiments show
+that the resulting system outperforms single-model systems."	Selected abstracts
+Bilingual sentence alignment based on punctuation statistics and lexicon	Thomas C.Chuang and Jian-Cheng Wu and Tracy Lin and Wen-chie Shei and Jason S.Chang				224-232	"            This paper presents a new method of aligning bilingual
+parallel texts based on punctuation statistics and lexical information. It is
+demonstrated that the punctuation statistics prove to be effective means to
+achieve good results. The task of sentence alignment of bilingual texts written
+in disparate language pairs like English and Chinese is reportedly more
+difficult. We examine the feasibility of using punctuations for high accuracy
+sentence alignment. Encouraging precision rate is demonstrated in aligning
+sentences in bilingual parallel corpora based solely on punctuation statistics.
+Improved results were obtained when both punctuation statistics and lexical
+information were employed. We have experimented with an implementation of the
+proposed method on the parallel corpora of Sinorama
+Magazine and Records of the Hong Kong Legislative Council with satisfactory
+results."	Selected abstracts
+Automatic learning of parallel dependency treelet pairs	Yuan Ding and Martha Palmer				233-243	"            Induction of synchronous grammars from empirical data has
+long been an unsolved problem; despite generative synchronous grammars
+theoretically suit the machine translation task very well. This fact is mainly
+due to pervasive structural divergences between languages. This paper presents
+a statistical approach that learns dependency structure mappings from parallel
+corpora. The new algorithm automatically learns parallel dependency treelet pairs from loosely matched non-isomorphic
+dependency trees while keeping computational complexity polynomial in the
+length of the sentences. A set of heuristics is introduced and specifically
+optimized for parallel treelet learning purposes
+using Minimum Error Rate training."	Selected abstracts
+Practical translation pattern acquisition from combined language resources	Mihoko Kitamura and Yuji Matsumoto				244-253	"            Automatic extraction of translation patterns from
+parallel corpora is an efficient way to automatically develop translation
+dictionaries, and therefore various approaches have been proposed. This paper
+presents a practical translation pattern extraction method that greedily
+extracts translation patterns based on co-occurrence of English and Japanese
+word sequences, which can also be effectively combined with manual confirmation
+and linguistic resources, such as chunking information and translation
+dictionaries. Use of these extra linguistic resources enables it to acquire
+results of higher precision and broader coverage regardless of the amount of
+documents."	Selected abstracts
+An English-Hindi statistical machine translation system	Raghavendra Udupa U. and Tanveer A.Faruquie				254-262	"            Recently statistical methods for natural language
+translation have become popular and found reasonable success. In this paper we
+describe an English-Hindi statistical machine translation system. Our machine
+translation system is based on IBM Models 1, 2, and 3. We present experimental
+results on an English-Hindi parallel corpus consisting of 150,000 sentence
+pairs. We propose two new algorithms for the transfer of fertility parameters
+from Model 2 to Model 3. Our algorithms have a worst case time complexity of O(m3) improving on the exponential
+time algorithm proposed in the classical paper on IBM Models. When the maximum
+fertility of a word is small, our algorithms are O(m2)
+and hence very efficient in practice."	Selected abstracts
+Natural language database access using semi-automatically constructed translation knowledge	In-Su Kang and Jae-Hak J.Bae and Jong-Hyeok Lee				280-289	"            In most natural language database interfaces (NLDBI),
+translation knowledge acquisition heavily depends on human specialties,
+consequently undermining domain portability. This paper attempts to
+semi-automatically construct translation knowledge by introducing a physical
+Entity-Relationship schema, and by simplifying translation knowledge
+structures. Based on this semi-automatically produced translation knowledge, a
+noun translation method is proposed in order to resolve NLDBI translation
+ambiguities."	Selected abstracts
+Influence of WSD on cross-language information retrieval	In-Su Kang and Seung-Hoon Na and Jong-Hyeok Lee				358-366	"Translation
+ambiguity is a major problem in dictionary-based cross-language information
+retrieval. This paper proposes a statistical word sense disambiguation (WSD)
+approach for translation ambiguity resolution. Then, with respect to CLIR
+effectiveness, the pure effect of a disambiguation module will be explored on the
+following issues: contribution of disambiguation weight to target term weighting, influences of WSD performance on CLIR retrieval
+effectiveness. In our investigation, we do not use pre-translation or
+post-translation methods to exclude any mixing effects on CLIR."	Selected abstracts
+Bilingual chunk alignment based on interactional matching and probabilistic latent semantic indexing	Feifan Liu and Qianli Jin and Jun Zhao and Bo Xu				416-425	"            An integrated method for bilingual chunk partition and
+alignment, called Interactional Matching, is proposed in this paper. Different from former works,
+our method tries to get as necessary information as possible from the bilingual
+corpora themselves, and through bilingual constraint it can automatically build
+one-to-one chunk-pairs associated with the chunk-pair confidence coefficients.
+Also, our method partitions bilingual sentences entirely into chunks with no
+fragments left, different from collocation extracting methods. Furthermore,
+with the technology of Probabilistic Latent Semantic Indexing (PLSI), this
+method can deal with not only compositional chunks, but also non-compositional
+ones. The experiments show that, for overall process (including partition and
+alignment), our method can obtain 85% precision with 57% recall for the written
+language chunk-pairs and 78% precision with 53% recall for the spoken language
+chunk-pairs."	Selected abstracts
