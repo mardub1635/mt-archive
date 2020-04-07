@@ -1,7 +1,0 @@
-
-Keynote speaker
-Domain Adaptation in Machine Translation: Findings from the 2012 Johns Hopkins Summer Workshop; Hal Daumé III and Marine Carpuat and  Alex Fraser and  Chris Quirk
-Trends in Adoption of MT as a Globalization Technology; Don DePalma
-Language Research at DARPA-Machine Translation and Beyond; Bonnie J. Dorr
-Duolingo: Learn a Language for Free while Helping to Translate the Web ;Luis von Ahn
-On Marketing and Poetry; Caitilin Walsh
