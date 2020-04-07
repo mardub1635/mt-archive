@@ -1,52 +1,35 @@
-Title	Authors	Pdf	Presentation	Volume_Name
-"""The Jungle is Neutral"" - Newcomer Languages Face New Media"	"Ostler, Nicholas"	http://www.mt-archive.info/05/EAMT-2009-Ostler.pdf		"Invited Papers"
-"Adaptable, Community-Controlled, Language Technologies for Language Maintenance"	"Levin, Lori"	http://www.mt-archive.info/05/EAMT-2009-Levin.pdf		"Invited Papers"
-"Character-Based PSMT for Closely Related Languages"	"Tiedemann, Jörg"	http://www.mt-archive.info/05/EAMT-2009-Tiedemann-1.pdf		"Regular Papers"
-"TS3: an Improved Version of the Bilingual Concordancer TransSearch"	"Huet, Stéphane and Bourdaillet, Julien and Langlais, Philippe"	http://www.mt-archive.info/05/EAMT-2009-Huet.pdf		"Regular Papers"
-"Estimating the Sentence-Level Quality of Machine Translation Systems"	"Specia, Lucia and Turchi, Marco and Cancedda, Nicola and Cristianini, Nello and Dymetman, Marc"	http://www.mt-archive.info/05/EAMT-2009-Specia.pdf		"Regular Papers"
-"Evaluation-Guided Pre-Editing of Source Text: Improving MT-Tractability of Light Verb Constructions"	"Babych, Bogdan and Hartley, Anthony and Sharoff, Serge"	http://www.mt-archive.info/05/EAMT-2009-Babych.pdf		"Regular Papers"
-"Learning Labelled Dependencies in Machine Translation Evaluation"	"He, Yifan and Way, Andy"	http://www.mt-archive.info/05/EAMT-2009-He.pdf		"Regular Papers"
-"Improving a Catalan-Spanish Statistical Translation System using Morphosyntactic Knowledge"	"Farrús, Mireia and Costa-jussà, Marta R. and Poch, Marc and Hernández, Adolfo and Mariño, José B."	http://www.mt-archive.info/05/EAMT-2009-Farrus.pdf		"Regular Papers"
-"Use of Rich Linguistic Information to Translate Prepositions and Grammar Cases to Basque"	"Agirre, Eneko and Atutxa, Aitziber and Labaka, Gorka and Lersundi, Mikel and Mayor, Aingeru and Sarasola, Kepa"	http://www.mt-archive.info/05/EAMT-2009-Agirre.pdf		"Regular Papers"
-"Gappy Translation Units under Left-to-Right SMT Decoding"	"Crego, Josep M. and Yvon, François"	http://www.mt-archive.info/05/EAMT-2009-Crego.pdf		"Regular Papers"
-"Relevance of Different Segmentation Options on Spanish-Basque SMT"	"Díaz de Ilarraza, Arantza and Labaka, Gorka and Sarasola, Kepa"	http://www.mt-archive.info/05/EAMT-2009-Diaz.pdf		"Regular Papers"
-"English-Latvian Toponym Processing: Translation Strategies and Linguistic Patterns"	"Gornostay, Tatiana and Skadiņa, Inguna"	http://www.mt-archive.info/05/EAMT-2009-Gornostay.pdf		"Regular Papers"
-"An Environment for Named Entity Recognition and Translation"	"Graliński, Filip and Jassem, Krzysztof and Marcińczuk, Michał"	http://www.mt-archive.info/05/EAMT-2009-Gralinski.pdf		"Regular Papers"
-"Optimal Bilingual Data for French-English PB-SMT"	"Ozdowska, Sylwia and Way, Andy"	http://www.mt-archive.info/05/EAMT-2009-Ozdowska.pdf		"Regular Papers"
-"Word- and Sentence-Level Confidence Measures for Machine Translation"	"Raybaud, Sylvain and Lavecchia, Caroline and Langlois, David and Smaïli, Kamel"	http://www.mt-archive.info/05/EAMT-2009-Raybaud.pdf		"Regular Papers"
-"Translating Questions for Cross-Lingual QA"	"Tiedemann, Jörg"	http://www.mt-archive.info/05/EAMT-2009-Tiedemann-2.pdf		"Regular Papers"
-"Developing Prototypes for Machine Translation between Two Sami Languages"	"Tyers, Francis M. and Wiechetek, Linda and Trosterud, Trond"	http://www.mt-archive.info/05/EAMT-2009-Tyers-1.pdf		"Regular Papers"
-"Collocations in a Rule-Based MT System: A Case Study Evaluation of their Translation Adequacy"	"Wehrli, Eric and Seretan, Violeta and Nerima, Luka and Russo, Lorenza"	http://www.mt-archive.info/05/EAMT-2009-Wehrli.pdf		"Regular Papers"
-"Automatic Translation of Norwegian Noun Compounds"	"Bungum, Lars and Oepen, Stephan"	http://www.mt-archive.info/05/EAMT-2009-Bungum.pdf		"Regular Papers"
-"Marker-Based Filtering of Bilingual Phrase Pairs for SMT"	"Sánchez-Martínez, Felipe and Way, Andy"	http://www.mt-archive.info/05/EAMT-2009-Sanchez-Martinez.pdf		"Regular Papers"
-"Tree-Based Target Language Modeling"	"Vandeghinste, Vincent"	http://www.mt-archive.info/05/EAMT-2009-Vandeghinste.pdf		"Regular Papers"
-"Language Model Adaptation for Difficult to Translate Phrases"	"Mohit, Behrang and Liberato, Frank and Hwa, Rebecca"	http://www.mt-archive.info/05/EAMT-2009-Mohit.pdf		"Regular Papers"
-"A Phrase-Based Hidden Semi-Markov Approach to Machine Translation"	"Andrés-Ferrer, Jesús and Juan, Alfons"	http://www.mt-archive.info/05/EAMT-2009-Andres-Ferrer.pdf		"Regular Papers"
-"Building Strong Multilingual Aligned Corpora"	"Zadeh, Reza Bosagh"	http://www.mt-archive.info/05/EAMT-2009-Bosagh-Zadeh.pdf		"Regular Papers"
-"A Constraint Satisfaction Approach to Machine Translation"	"Canisius, Sander and van den Bosch, Antal"	http://www.mt-archive.info/05/EAMT-2009-Canisius.pdf		"Regular Papers"
-"Introducing the Autshumato Integrated Translation Environment"	"Groenewald, Hendrik J. and Fourie, Wildrich"	http://www.mt-archive.info/05/EAMT-2009-Groenewald.pdf		"Regular Papers"
-"A New Subtree-Transfer Approach to Syntax-Based Reordering for Statistical Machine Translation"	"Khalilov, Maxim and Fonollosa, José A. R. and Dras, Mark"	http://www.mt-archive.info/05/EAMT-2009-Khalilov.pdf		"Regular Papers"
-"On Extracting Multiword NP Terminology for MT"	"Sheremetyeva, Svetlana"	http://www.mt-archive.info/05/EAMT-2009-Sheremetyeva.pdf		"Regular Papers"
-"Rule-Based Augmentation of Training Data in Breton-French Statistical Machine Translation"	"Tyers, Francis M."	http://www.mt-archive.info/05/EAMT-2009-Tyers-2.pdf		"Regular Papers"
-"Can Semantic Role Labeling Improve SMT?"	"Wu, Dekai and Fung, Pascale"	http://www.mt-archive.info/05/EAMT-2009-Wu.pdf		"Regular Papers"
-"Are Unaligned Words Important for Machine Translation?"	"Zhang, Yuqi and Matusov, Evgeny and Ney, Hermann"	http://www.mt-archive.info/05/EAMT-2009-Zhang.pdf		"Regular Papers"
-"Using Supertags as Source Language Context in SMT"	"*Haque, Rejwanul and Naskar, Sudip Kumar and Ma, Yanjun and Way, Andy"	http://www.mt-archive.info/05/EAMT-2009-Haque.pdf		"Regular Papers"
-"On LM Heuristics for the Cube Growing Algorithm"	"Vilar, David and Ney, Hermann"	http://www.mt-archive.info/05/EAMT-2009-Vilar.pdf		"Regular Papers"
-"Tuning Syntactically Enhanced Word Alignment for Statistical Machine Translation"	"Ma, Yanjun and Lambert, Patrik and Way, Andy"	http://www.mt-archive.info/05/EAMT-2009-Ma.pdf		"Regular Papers"
-Introduction	"Cancedda, Nicola"	http://www.mt-archive.info/05/SMART-2009-Cancedda-1.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Empirical machine translation and its evaluation"	"Giménez, Jesús"	http://www.mt-archive.info/05/SMART-2009-Gimenez.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Online learning for CAT applications"	"Cesa-Bianchi, Nicolò and Reverberi, Gabriele"	http://www.mt-archive.info/05/SMART-2009-Cesa-Bianchi.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Sinuhe – statistical machine translation with a globally trained conditional exponential family translation model"	"Kääriäinen, Matti"	http://www.mt-archive.info/05/SMART-2009-Kaariainen.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Large scale maximum margin regression based, structural learning approach to phrase translations"	"Szedmak, Sandor and Galbrun, Esther and Saunders, Craig and Ni, Yizhao"	http://www.mt-archive.info/05/SMART-2009-Szedmak.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Learning to translate: a statistical and computational analysis"	"Turchi, Marco and de Bie, Tijl and Cristianini, Nelo"	http://www.mt-archive.info/05/SMART-2009-Turchi.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Improving SMT by learning translation direction"	"Goutte, Cyril and Kurokawa, David and Isabelle, Pierre"	http://www.mt-archive.info/05/SMART-2009-Goutte.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Multi-view CCA and regression CCA"	"Rupnik, Jan"	http://www.mt-archive.info/05/SMART-2009-Rupnik.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Large-margin structural prediction via linear programming"	"Wang, Zuoran and Shawe-Taylor, John and Szedmák, Sándor"	http://www.mt-archive.info/05/SMART-2009-Wang.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Sentence-level confidence estimation for MT"	"Specia, Lucia and Cancedda, Nicola and Dymetman, Marc and Saunders, Craig and Turchi, Marco and Cristianini, Nello and Wang, Zhuoran and Shawe-Taylor, John"	http://www.mt-archive.info/05/SMART-2009-Specia.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Closing remarks"	"Cancedda, Nicola"	http://www.mt-archive.info/05/SMART-2009-Cancedda-2.pdf		"Workshop held in conjunction with the Conference, Wednesday 13 May, Statistical Multilingual Analysis for Retrieval and Translation"
-"Challenges in machine (aided) translation for historical languages"	"von Hahn, Walther"			"Workshop held in conjunction with the Conference, Wednesday 13 May, Machine Technologies for Historical Linguistics"
-"Mass digitization in the humanities and results of DARIAH-Network"	"Priddy, Mike"			"Workshop held in conjunction with the Conference, Wednesday 13 May, Machine Technologies for Historical Linguistics"
-"Machine (aided) translation for historical texts – an overview of current solutions"	"Vertan, Cristina"			"Workshop held in conjunction with the Conference, Wednesday 13 May, Machine Technologies for Historical Linguistics"
-"Tagging Old Russian texts via modern translations – applications of and resources for historical MT"	"Meyer, Roland"			"Workshop held in conjunction with the Conference, Wednesday 13 May, Machine Technologies for Historical Linguistics"
-"Hypothetical and explicit lexical resources supporting access to historical documents "	"Ringlstetter, Christoph"			"Workshop held in conjunction with the Conference, Wednesday 13 May, Machine Technologies for Historical Linguistics"
-"Automatically building bilingual dictionaries for Greek and Latin"	"Bammann, David"			"Workshop held in conjunction with the Conference, Wednesday 13 May, Machine Technologies for Historical Linguistics"
+Title	Authors	Pdf	Presentation	Volume_Name	Note
+"The Jungle is Neutral" - Newcomer Languages Face New Media	Ostler, Nicholas	http://www.mt-archive.info/05/EAMT-2009-Ostler.pdf			Invited Papers
+Adaptable, Community-Controlled, Language Technologies for Language Maintenance	Levin, Lori	http://www.mt-archive.info/05/EAMT-2009-Levin.pdf			Invited Papers
+Character-Based PSMT for Closely Related Languages	Tiedemann, Jörg	http://www.mt-archive.info/05/EAMT-2009-Tiedemann-1.pdf			Regular Papers
+TS3: an Improved Version of the Bilingual Concordancer TransSearch	Huet, Stéphane and Bourdaillet, Julien and Langlais, Philippe	http://www.mt-archive.info/05/EAMT-2009-Huet.pdf			Regular Papers
+Estimating the Sentence-Level Quality of Machine Translation Systems	Specia, Lucia and Turchi, Marco and Cancedda, Nicola and Cristianini, Nello and Dymetman, Marc	http://www.mt-archive.info/05/EAMT-2009-Specia.pdf			Regular Papers
+Evaluation-Guided Pre-Editing of Source Text: Improving MT-Tractability of Light Verb Constructions	Babych, Bogdan and Hartley, Anthony and Sharoff, Serge	http://www.mt-archive.info/05/EAMT-2009-Babych.pdf			Regular Papers
+Learning Labelled Dependencies in Machine Translation Evaluation	He, Yifan and Way, Andy	http://www.mt-archive.info/05/EAMT-2009-He.pdf			Regular Papers
+Improving a Catalan-Spanish Statistical Translation System using Morphosyntactic Knowledge	Farrús, Mireia and Costa-jussà, Marta R. and Poch, Marc and Hernández, Adolfo and Mariño, José B.	http://www.mt-archive.info/05/EAMT-2009-Farrus.pdf			Regular Papers
+Use of Rich Linguistic Information to Translate Prepositions and Grammar Cases to Basque	Agirre, Eneko and Atutxa, Aitziber and Labaka, Gorka and Lersundi, Mikel and Mayor, Aingeru and Sarasola, Kepa	http://www.mt-archive.info/05/EAMT-2009-Agirre.pdf			Regular Papers
+Gappy Translation Units under Left-to-Right SMT Decoding	Crego, Josep M. and Yvon, François	http://www.mt-archive.info/05/EAMT-2009-Crego.pdf			Regular Papers
+Relevance of Different Segmentation Options on Spanish-Basque SMT	Díaz de Ilarraza, Arantza and Labaka, Gorka and Sarasola, Kepa	http://www.mt-archive.info/05/EAMT-2009-Diaz.pdf			Regular Papers
+English-Latvian Toponym Processing: Translation Strategies and Linguistic Patterns	Gornostay, Tatiana and Skadiņa, Inguna	http://www.mt-archive.info/05/EAMT-2009-Gornostay.pdf			Regular Papers
+An Environment for Named Entity Recognition and Translation	Graliński, Filip and Jassem, Krzysztof and Marcińczuk, Michał	http://www.mt-archive.info/05/EAMT-2009-Gralinski.pdf			Regular Papers
+Optimal Bilingual Data for French-English PB-SMT	Ozdowska, Sylwia and Way, Andy	http://www.mt-archive.info/05/EAMT-2009-Ozdowska.pdf			Regular Papers
+Word- and Sentence-Level Confidence Measures for Machine Translation	Raybaud, Sylvain and Lavecchia, Caroline and Langlois, David and Smaïli, Kamel	http://www.mt-archive.info/05/EAMT-2009-Raybaud.pdf			Regular Papers
+Translating Questions for Cross-Lingual QA	Tiedemann, Jörg	http://www.mt-archive.info/05/EAMT-2009-Tiedemann-2.pdf			Regular Papers
+Developing Prototypes for Machine Translation between Two Sami Languages	Tyers, Francis M. and Wiechetek, Linda and Trosterud, Trond	http://www.mt-archive.info/05/EAMT-2009-Tyers-1.pdf			Regular Papers
+Collocations in a Rule-Based MT System: A Case Study Evaluation of their Translation Adequacy	Wehrli, Eric and Seretan, Violeta and Nerima, Luka and Russo, Lorenza	http://www.mt-archive.info/05/EAMT-2009-Wehrli.pdf			Regular Papers
+Automatic Translation of Norwegian Noun Compounds	Bungum, Lars and Oepen, Stephan	http://www.mt-archive.info/05/EAMT-2009-Bungum.pdf			Regular Papers
+Marker-Based Filtering of Bilingual Phrase Pairs for SMT	Sánchez-Martínez, Felipe and Way, Andy	http://www.mt-archive.info/05/EAMT-2009-Sanchez-Martinez.pdf			Regular Papers
+Tree-Based Target Language Modeling	Vandeghinste, Vincent	http://www.mt-archive.info/05/EAMT-2009-Vandeghinste.pdf			Regular Papers
+Language Model Adaptation for Difficult to Translate Phrases	Mohit, Behrang and Liberato, Frank and Hwa, Rebecca	http://www.mt-archive.info/05/EAMT-2009-Mohit.pdf			Regular Papers
+A Phrase-Based Hidden Semi-Markov Approach to Machine Translation	Andrés-Ferrer, Jesús and Juan, Alfons	http://www.mt-archive.info/05/EAMT-2009-Andres-Ferrer.pdf			Regular Papers
+Building Strong Multilingual Aligned Corpora	Zadeh, Reza Bosagh	http://www.mt-archive.info/05/EAMT-2009-Bosagh-Zadeh.pdf			Regular Papers
+A Constraint Satisfaction Approach to Machine Translation	Canisius, Sander and van den Bosch, Antal	http://www.mt-archive.info/05/EAMT-2009-Canisius.pdf			Regular Papers
+Introducing the Autshumato Integrated Translation Environment	Groenewald, Hendrik J. and Fourie, Wildrich	http://www.mt-archive.info/05/EAMT-2009-Groenewald.pdf			Regular Papers
+A New Subtree-Transfer Approach to Syntax-Based Reordering for Statistical Machine Translation	Khalilov, Maxim and Fonollosa, José A. R. and Dras, Mark	http://www.mt-archive.info/05/EAMT-2009-Khalilov.pdf			Regular Papers
+On Extracting Multiword NP Terminology for MT	Sheremetyeva, Svetlana	http://www.mt-archive.info/05/EAMT-2009-Sheremetyeva.pdf			Regular Papers
+Rule-Based Augmentation of Training Data in Breton-French Statistical Machine Translation	Tyers, Francis M.	http://www.mt-archive.info/05/EAMT-2009-Tyers-2.pdf			Regular Papers
+Can Semantic Role Labeling Improve SMT?	Wu, Dekai and Fung, Pascale	http://www.mt-archive.info/05/EAMT-2009-Wu.pdf			Regular Papers
+Are Unaligned Words Important for Machine Translation?	Zhang, Yuqi and Matusov, Evgeny and Ney, Hermann	http://www.mt-archive.info/05/EAMT-2009-Zhang.pdf			Regular Papers
+Using Supertags as Source Language Context in SMT	*Haque, Rejwanul and Naskar, Sudip Kumar and Ma, Yanjun and Way, Andy	http://www.mt-archive.info/05/EAMT-2009-Haque.pdf			Regular Papers
+On LM Heuristics for the Cube Growing Algorithm	Vilar, David and Ney, Hermann	http://www.mt-archive.info/05/EAMT-2009-Vilar.pdf			Regular Papers
+Tuning Syntactically Enhanced Word Alignment for Statistical Machine Translation	Ma, Yanjun and Lambert, Patrik and Way, Andy	http://www.mt-archive.info/05/EAMT-2009-Ma.pdf			Regular Papers
