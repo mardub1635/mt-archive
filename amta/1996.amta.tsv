@@ -1,40 +1,40 @@
-Title	Authors	Pdf	Presentation	Volume_Name
-"An example-based approach to machine translation"	"Bróna Collins and Pádraig Cunningham and Tony Veale"	http://www.mt-archive.info/90/AMTA-1996-Collins.pdf		Papers
-"A controlled skip parser"	"Kenji Yamada"	http://www.mt-archive.info/90/AMTA-1996-Yamada.pdf		Papers
-"Juggling with words: some insights from the human translation process"	"Claude Bédard"	http://www.mt-archive.info/90/AMTA-1996-Bedard.pdf		Papers
-"Bilingual concordancers:a new tool for bilingual lexicographers"	"Lucie Langlois"	http://www.mt-archive.info/90/AMTA-1996-Langlois.pdf		Papers
-"Translation differences and pragmatics-based MT"	"Stephen Helmreich and David Farwell"	http://www.mt-archive.info/90/AMTA-1996-Helmreich.pdf		Papers
-"Abstraction and underspecification in semantic transfer"	"Bernd Abb and Bianka Buschbeck-Wolf and Christel Tschernitschek"	http://www.mt-archive.info/90/AMTA-1996-Abb.pdf		Papers
-"Lexical knowledge from large corpora and its application to text generation"	"Isahara Hitoshi and Inui Hiroko and Uchida Yuriko"	http://www.mt-archive.info/90/AMTA-1996-Isahara.pdf		Papers
-"Capturing motion verb generalizations in synchronous tree adjoining grammars"	"Martha Palmer and Joseph Rosenzweig"	http://www.mt-archive.info/90/AMTA-1996-Palmer.pdf		Papers
-"Evolution of the Logos grammar: system design and development methodology"	"Patricia Schmid and Claudia Gdaniec"	http://www.mt-archive.info/90/AMTA-1996-Schmid.pdf		Papers
-"Two principles and six techniques for rapid MT development"	"Sergei Nirenburg and Stephen Beale and Stephen Helmreich and Kavi Mahesh and Evelyne Viegas and Rémi Zajac"	http://www.mt-archive.info/90/AMTA-1996-Nirenburg.pdf		Papers
-"Adaptation of the DARPA machine translation evlauation paradigm to end-to-end systems"	"John S.White and Theresa A. O'Connell"	http://www.mt-archive.info/90/AMTA-1996-White-1.pdf		Papers
-"Combining machine readable lexical resources and bilingual corpora for broad word sense disambiguation"	"Jason J.S.Chang and Jen-Nan Chen and Huei-Hong Sheng and Sur-Jin Ker"	http://www.mt-archive.info/90/AMTA-1996-Chang.pdf		Papers
-"Automatic construction of clean broad-coverage translation lexicons"	"I. Dan Melamed"	http://www.mt-archive.info/90/AMTA-1996-Melamed.pdf		Papers
-"Bilingual sentence alignment: balancing robustness and accuracy"	"Michel Simard and Pierre Plamondon"	http://www.mt-archive.info/90/AMTA-1996-Simard.pdf		Papers
-"Line 'em up: advances in alignment technology and their impact on translation support tools"	"Elliott Macklovitch and Marie-Louise Hannan"	http://www.mt-archive.info/90/AMTA-1996-Macklovitch.pdf		Papers
-"Checking translations for inconsistency - a tool for the editor"	"Magnus Merkel"	http://www.mt-archive.info/90/AMTA-1996-Merkel.pdf		Papers
-"Space, metaphor and schematization in sign: sign language translation in the ZARDOZ system"	"Tony Veale and Bróna Collins"	http://www.mt-archive.info/90/AMTA-1996-Veale.pdf		Papers
-"Combing language technolgy and web technology to streamline an automotive hotline support service"	"Jörg Schütz"	http://www.mt-archive.info/90/AMTA-1996-Schutz.pdf		Papers
-"Two years online: experiences, challenges and trends"	"Mary Flanagan"	http://www.mt-archive.info/90/AMTA-1996-Flanagan-1.pdf		"Featured Speaker Papers"
-"The state of machine translation in Europe"	"John Hutchins"	http://www.mt-archive.info/90/AMTA-1996-Hutchins.pdf		"Featured Speaker Papers"
-"""Specialized"" machine translation"	"John Chandioux and Annette Grimaila"	http://www.mt-archive.info/90/AMTA-1996-Chandioux-1.pdf		"Featured Speaker Papers"
-"The primacy of core technology MT evaluation"	"John S.White"	http://www.mt-archive.info/90/AMTA-1996-White-2.pdf		"Featured Speaker Papers"
-"MT online: the future is now! "		http://www.mt-archive.info/90/AMTA-1996-Panel-1.pdf		"Panel Statements"
-"The limits of automation: optimists vs skeptics. "		http://www.mt-archive.info/90/AMTA-1996-Panel-2.pdf		"Panel Statements"
-"What can we learn from users? "		http://www.mt-archive.info/90/AMTA-1996-Panel-3.pdf		"Panel Statements"
-"Next steps in MT research"		" http://www.mt-archive.info/90/AMTA-1996-Panel-4.pdf"		"Panel Statements"
-"ANTHEM:advanced natural language interface for multilingual text generation in healthcare (LRE 62-007)"	"G.Deville and E.Herbigniaux and P.Mousel and G.Thienpont and M.Wéry"	http://www.mt-archive.info/90/AMTA-1996-Deville.pdf		"System Demonstrations"
-"Online MT at Compuserve"	"Mary Flanagan"	http://www.mt-archive.info/90/AMTA-1996-Flanagan-2.pdf		"System Demonstrations"
-ITSVOX	"Eric Wehrli"	http://www.mt-archive.info/90/AMTA-1996-Wehrli.pdf		"System Demonstrations"
-"JANUS: multi-lingual translation of spontaneous speech in limited domain"	"Alon Lavie and Lori Levin and Alex Waibel and Donna Gates and Marsal Gavalda and Laura Mayfield"	http://www.mt-archive.info/90/AMTA-1996-Lavie.pdf		"System Demonstrations"
-"JAPANGLOSS: using statistics to fill knowledge gaps"	"Kevin Knight and Yaser Al-Onaizan and Ishwar Chander and Eduard Hovy and Irene Langkilde and Richard Whitney and Kenji Yamada"	http://www.mt-archive.info/90/AMTA-1996-Knight.pdf		"System Demonstrations"
-"JICST Japanese-English machine translation system"	"Patricia O'Neill-Brown"	http://www.mt-archive.info/90/AMTA-1996-ONeill-Brown.pdf		"System Demonstrations"
-LEXIUM	"John Chandioux and Annette Grimaila"	http://www.mt-archive.info/90/AMTA-1996-Chandioux-2.pdf		"System Demonstrations"
-"Logos Intelligent Translation System"	"Winfield Scott Bennett"	http://www.mt-archive.info/90/AMTA-1996-Bennett.pdf		"System Demonstrations"
-"The Pangloss-Lite machine translation system"	"Robert E. Frederking and Ralf D. Brown"	http://www.mt-archive.info/90/AMTA-1996-Frederking.pdf		"System Demonstrations"
-"PARS and PARS/U machine translation systems: English-Russian-English and English-Ukrainian-English"	"Michael S. Blekhman"	http://www.mt-archive.info/90/AMTA-1996-Blekhman.pdf		"System Demonstrations"
-"SYSTRAN Chinese-English MT, ECI Chinese OCR - CHIOCR"	"Laurie Gerber"	http://www.mt-archive.info/90/AMTA-1996-Gerber.pdf		"System Demonstrations"
-"Towards a multilingual analyst's workstation: Temple"	"Rémi Zajac"	http://www.mt-archive.info/90/AMTA-1996-Zajac.pdf		"System Demonstrations"
-"Trados translator's workbench"	"Mark Berry"	http://www.mt-archive.info/90/AMTA-1996-Berry.pdf		"System Demonstrations"
+Title	Authors	Pdf	Presentation
+An example-based approach to machine translation	Bróna Collins and Pádraig Cunningham and Tony Veale	http://www.mt-archive.info/90/AMTA-1996-Collins.pdf	
+A controlled skip parser	Kenji Yamada	http://www.mt-archive.info/90/AMTA-1996-Yamada.pdf	
+Juggling with words: some insights from the human translation process	Claude Bédard	http://www.mt-archive.info/90/AMTA-1996-Bedard.pdf	
+Bilingual concordancers:a new tool for bilingual lexicographers	Lucie Langlois	http://www.mt-archive.info/90/AMTA-1996-Langlois.pdf	
+Translation differences and pragmatics-based MT	Stephen Helmreich and David Farwell	http://www.mt-archive.info/90/AMTA-1996-Helmreich.pdf	
+Abstraction and underspecification in semantic transfer	Bernd Abb and Bianka Buschbeck-Wolf and Christel Tschernitschek	http://www.mt-archive.info/90/AMTA-1996-Abb.pdf	
+Lexical knowledge from large corpora and its application to text generation	Isahara Hitoshi and Inui Hiroko and Uchida Yuriko	http://www.mt-archive.info/90/AMTA-1996-Isahara.pdf	
+Capturing motion verb generalizations in synchronous tree adjoining grammars	Martha Palmer and Joseph Rosenzweig	http://www.mt-archive.info/90/AMTA-1996-Palmer.pdf	
+Evolution of the Logos grammar: system design and development methodology	Patricia Schmid and Claudia Gdaniec	http://www.mt-archive.info/90/AMTA-1996-Schmid.pdf	
+Two principles and six techniques for rapid MT development	Sergei Nirenburg and Stephen Beale and Stephen Helmreich and Kavi Mahesh and Evelyne Viegas and Rémi Zajac	http://www.mt-archive.info/90/AMTA-1996-Nirenburg.pdf	
+Adaptation of the DARPA machine translation evlauation paradigm to end-to-end systems	John S.White and Theresa A. O'Connell	http://www.mt-archive.info/90/AMTA-1996-White-1.pdf	
+Combining machine readable lexical resources and bilingual corpora for broad word sense disambiguation	Jason J.S.Chang and Jen-Nan Chen and Huei-Hong Sheng and Sur-Jin Ker	http://www.mt-archive.info/90/AMTA-1996-Chang.pdf	
+Automatic construction of clean broad-coverage translation lexicons	I. Dan Melamed	http://www.mt-archive.info/90/AMTA-1996-Melamed.pdf	
+Bilingual sentence alignment: balancing robustness and accuracy	Michel Simard and Pierre Plamondon	http://www.mt-archive.info/90/AMTA-1996-Simard.pdf	
+Line 'em up: advances in alignment technology and their impact on translation support tools	Elliott Macklovitch and Marie-Louise Hannan	http://www.mt-archive.info/90/AMTA-1996-Macklovitch.pdf	
+Checking translations for inconsistency - a tool for the editor	Magnus Merkel	http://www.mt-archive.info/90/AMTA-1996-Merkel.pdf	
+Space, metaphor and schematization in sign: sign language translation in the ZARDOZ system	Tony Veale and Bróna Collins	http://www.mt-archive.info/90/AMTA-1996-Veale.pdf	
+Combing language technolgy and web technology to streamline an automotive hotline support service	Jörg Schütz	http://www.mt-archive.info/90/AMTA-1996-Schutz.pdf	
+Two years online: experiences, challenges and trends	Mary Flanagan	http://www.mt-archive.info/90/AMTA-1996-Flanagan-1.pdf	
+The state of machine translation in Europe	John Hutchins	http://www.mt-archive.info/90/AMTA-1996-Hutchins.pdf	
+"Specialized" machine translation	John Chandioux and Annette Grimaila	http://www.mt-archive.info/90/AMTA-1996-Chandioux-1.pdf	
+The primacy of core technology MT evaluation	John S.White	http://www.mt-archive.info/90/AMTA-1996-White-2.pdf	
+MT online: the future is now! 		http://www.mt-archive.info/90/AMTA-1996-Panel-1.pdf	
+The limits of automation: optimists vs skeptics. 		http://www.mt-archive.info/90/AMTA-1996-Panel-2.pdf	
+What can we learn from users? 		http://www.mt-archive.info/90/AMTA-1996-Panel-3.pdf	
+Next steps in MT research		 http://www.mt-archive.info/90/AMTA-1996-Panel-4.pdf	
+ANTHEM:advanced natural language interface for multilingual text generation in healthcare (LRE 62-007)	G.Deville and E.Herbigniaux and P.Mousel and G.Thienpont and M.Wéry	http://www.mt-archive.info/90/AMTA-1996-Deville.pdf	
+Online MT at Compuserve	Mary Flanagan	http://www.mt-archive.info/90/AMTA-1996-Flanagan-2.pdf	
+ITSVOX	Eric Wehrli	http://www.mt-archive.info/90/AMTA-1996-Wehrli.pdf	
+JANUS: multi-lingual translation of spontaneous speech in limited domain	Alon Lavie and Lori Levin and Alex Waibel and Donna Gates and Marsal Gavalda and Laura Mayfield	http://www.mt-archive.info/90/AMTA-1996-Lavie.pdf	
+JAPANGLOSS: using statistics to fill knowledge gaps	Kevin Knight and Yaser Al-Onaizan and Ishwar Chander and Eduard Hovy and Irene Langkilde and Richard Whitney and Kenji Yamada	http://www.mt-archive.info/90/AMTA-1996-Knight.pdf	
+JICST Japanese-English machine translation system	Patricia O'Neill-Brown	http://www.mt-archive.info/90/AMTA-1996-ONeill-Brown.pdf	
+LEXIUM	John Chandioux and Annette Grimaila	http://www.mt-archive.info/90/AMTA-1996-Chandioux-2.pdf	
+Logos Intelligent Translation System	Winfield Scott Bennett	http://www.mt-archive.info/90/AMTA-1996-Bennett.pdf	
+The Pangloss-Lite machine translation system	Robert E. Frederking and Ralf D. Brown	http://www.mt-archive.info/90/AMTA-1996-Frederking.pdf	
+PARS and PARS/U machine translation systems: English-Russian-English and English-Ukrainian-English	Michael S. Blekhman	http://www.mt-archive.info/90/AMTA-1996-Blekhman.pdf	
+SYSTRAN Chinese-English MT, ECI Chinese OCR - CHIOCR	Laurie Gerber	http://www.mt-archive.info/90/AMTA-1996-Gerber.pdf	
+Towards a multilingual analyst's workstation: Temple	Rémi Zajac	http://www.mt-archive.info/90/AMTA-1996-Zajac.pdf	
+Trados translator's workbench	Mark Berry	http://www.mt-archive.info/90/AMTA-1996-Berry.pdf	
