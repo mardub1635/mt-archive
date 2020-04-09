@@ -1,0 +1,38 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Notes
+Improving SMT by model filtering and phrase embedding	Chengqing Zong	http://www.mt-archive.info/15/IWSLT-2015-Zong.pdf			
+The IWSLT 2015 Evaluation Campaign	Mauro Cettolo and Jan Niehues and Sebastian Stüker and Luisa Bentivogli and Roldano Cattoni and Marcello Federico	http://www.mt-archive.info/15/IWSLT-2015-Cettolo.pdf			
+The RWTH Aachen machine translation system for IWSLT 2015	Jan-Thorsten Peter and Farzad Toutounchi and Stephan Peitz and Parnia Bahar and Andreas Guta and Hermann Ney	http://www.mt-archive.info/15/IWSLT-2015-Peter.pdf			
+The MITLL-AFRL IWSLT 2015 MT system	Michaeel Kazi and Brian Thompson and Elizabeth Salesky and Timothy Anderson and Grant Erdmann and Eric Hansen and Brian Ore and Katherine Young and Jeremy Gwinnup and Michael Hutt and Christina May	http://www.mt-archive.info/15/IWSLT-2015-Kazi.pdf			
+The Edinburgh machine translation systems for IWSLT 2015	Matthias Huck and Alexandra Birch	http://www.mt-archive.info/15/IWSLT-2015-Huck.pdf			
+The MLLP ASR systems for IWSLT 2015	Miguel Ángel Del Agua Teba and Adrià Agusti Martinez Villaronga and Santiago Piqueras Gozalbes and Adrià Giménez Pastor and José Alberto Sanchis Navarro and Jorge Civera Saiz and Alfons Juan Císcar	http://www.mt-archive.info/15/IWSLT-2015-del-agua.pdf			
+The Heidelberg University English-German translation system for IWSLT 2015	Laura Jehl and PatrickSimianer and Julian HIrschler and Stefan Riezler	http://www.mt-archive.info/15/IWSLT-2015-jehl.pdf			
+The LIUM ASR and SLT systems for IWSLT 2015	Mercedes Garcia Martínez and Loïc Barrault and Anthony Rousseau and Paul Deléglise and Yannick Estève	http://www.mt-archive.info/15/IWSLT-2015-garcia.pdf			
+The UMD machine translation systems at IWSLT 2015	Amittai Axelrod and Marine Carpuat	http://www.mt-archive.info/15/IWSLT-2015-axelrod.pdf			
+The KIT translation systems for IWSLT 2015	Thanh-Le Ha and Jan Niehues and Eunah Cho and Mohammed Mediani and Alex Waibel	http://www.mt-archive.info/15/IWSLT-2015-ha.pdf			
+The 2015 KIT IWSLT speech-to-text systems for English and German	Markus Mueller and Tai Son Nguyen and Matthias Sperber and Kevin Kilgour and Sebastian Stuker and Alex Waibel	http://www.mt-archive.info/15/IWSLT-2015-muller.pdf			
+Stanford neural machine translation systems for spoken language domains	Minh-Thang Luong and Christopher Manning	http://www.mt-archive.info/15/IWSLT-2015-luong.pdf			
+The English-Vietnamese machine translation system for IWSLT 2015	Viet Tran Hong and Huyen Vu Thong and Vinh Nguyen Van and Trung Le Tien	http://www.mt-archive.info/15/IWSLT-2015-viet.pdf			
+The IOIT English ASR system for IWSLT 2015	Van Huy Nguyen and Quoc Bao Nguyen and Tat Thang Vu and Chi Mai Luong	http://www.mt-archive.info/15/IWSLT-2015-nguyen.pdf			
+The 12R ASR system for IWSLT 2015	Huy Dat Tran and Jonathan Dennis and Wen Zheng Ng	http://www.mt-archive.info/15/IWSLT-2015-tran.pdf			
+The JAIST-UET-MITI machine translation systems for IWSLT 2015	Hai-Long Trieu and Thanh-Quyen Dang and Phuong-Thai Nguyen and Le-Minh Nuyen	http://www.mt-archive.info/15/IWSLT-2015-trieu.pdf			
+PJAIT systems for the IWSLT 2015 evaluation campaign enhanced by comparable corpora	Krzysztof Wolk and Krzysztof Marasek	http://www.mt-archive.info/15/IWSLT-2015-wolk.pdf			
+The NAIST English speech recognition system for IWSLT 2015	Michael Heck and Quoc Truong Do and Sakriani Sakti and Graham Neubig and Satoshi Nakamura	http://www.mt-archive.info/15/IWSLT-2015-heck.pdf			
+Improvement of word alignment models for Vietnamese-to-English translation	Takahiro Nomura and Hajime Tsukada and Tomoyoshi Akiba	http://www.mt-archive.info/15/IWSLT-2015-nomura.pdf			
+Unsupervised comparable corpora preparation and exploration for bi-lingual translation equivalents	Krzysztof Wolk and Krzysztof Marasek	http://www.mt-archive.info/15/IWSLT-2015-wolk-2.pdf			
+Applying cross-entropy difference for selecting parallel training data from publicly available sources for conversational machine translation	William Lewis and Christian Federmann and Ying Xin	http://www.mt-archive.info/15/IWSLT-2015-lewis.pdf			
+Source discriminative word lexicon for translation disambiguation	Teresa Herrmann and Jan Niehues and Alex Waibel	http://www.mt-archive.info/15/IWSLT-2015-herrmann.pdf			
+Phrase-level estimation for machine translation	Varvara Logacheva and Lucia Specia	http://www.mt-archive.info/15/IWSLT-2015-logacheva.pdf			
+Improving continuous space language models auxiliary features	Walid Aransa and Holger Schwenk and Loïc Barrault	http://www.mt-archive.info/15/IWSLT-2015-aransa.pdf			
+Multifeature modular deep neural network acoustic models	Kevin Kilgour and Alex Waibel	http://www.mt-archive.info/15/IWSLT-2015-kilgour.pdf			
+Using language adaptive deep neural networks for improved multilingual speech recognition	Markus Mueller and Alex Waibel	http://www.mt-archive.info/15/IWSLT-2015-muller-2.pdf			
+Punctuation insertion for real-time spoken language translation	Eunah Cho and Jan Niehues and Kevin Kilgour and Alex Waibel	http://www.mt-archive.info/15/IWSLT-2015-cho.pdf			
+Class-based N-gram language difference models for data selection	Amittai Axelrod and Yogarshi Vyas and Marianna Martindale and Marine Carpuat	http://www.mt-archive.info/15/IWSLT-2015-axelrod-2.pdf			
+Morphology-aware alignments for translation to and from a synthetic language	Franck Burlot and François Yvon	http://www.mt-archive.info/15/IWSLT-2015-burlot.pdf			
+An open-source toolkit for word-level confidence estimation in machine translation	Christophe Servan and Le Ngoc Tien and Luong Ngoc Quang and Lecouteux Benjamin and Besacier Laurent	http://www.mt-archive.info/15/IWSLT-2015-servan.pdf			
+Improving translation of emphasis with pause prediction in speech-to-speech translation systems	Quoc Truong Do and Sakriani Sakti and Graham Neubig and Tomoki Toda and Satoshi Nakamura	http://www.mt-archive.info/15/IWSLT-2015-do.pdf			
+Evaluation and revision of a speech translation system for healthcare	Mark Seligman and Mike Dillinger	http://www.mt-archive.info/15/IWSLT-2015-seligman.pdf			
+Learning segmentations that balance latency versus quality in spoken language translation	Hassan Shavarani and Maryam Siahbani and Ramtin Mehdizadeh Seraj and Anoop Sarkar	http://www.mt-archive.info/15/IWSLT-2015-shavarani.pdf			
+Development of a Filipino-to-English bidirectional statistical machine translation system that dynamically updates via user feedback	Joel Ilao and Jasmine Ang and Marc Randell Chan and Paolo Genato and Joyce Uy	http://www.mt-archive.info/15/IWSLT-2015-ang.pdf			
+Parser self-training for syntax-based machine translation	Makoto Morishita and Koichi Akabe and Yuto Hatakoshi and Graham Neubig and Koichiro Yoshino and Satoshi Nakamura	http://www.mt-archive.info/15/IWSLT-2015-morishita.pdf			
+Risk-aware distribution of SMT outputs for translation of documents targeting many anonymous readers	Yo Ehara and Masao Utiyama and Eiichiro Sumita	http://www.mt-archive.info/15/IWSLT-2015-ehara.pdf			
+Inducing bilingual lexicons from small quantities of sentence-aligned phonemic transcriptions	Oliver Adams and Graham Neubig and Trevor Cohn and Steven Bird	http://www.mt-archive.info/15/IWSLT-2015-adams.pdf			

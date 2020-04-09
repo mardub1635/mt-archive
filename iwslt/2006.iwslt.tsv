@@ -1,0 +1,33 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Notes
+Overview of the IWSLT06 evaluation campaign	Michael Paul	http://www.mt-archive.info/05/IWSLT-2006-Paul.pdf				
+Finite-state transducer-based statistical machine translation using joint probabilities	Srinivas Bangalore and Stephan Kanthak and Patrick Haffner	http://www.mt-archive.info/05/IWSLT-2006-Bangalore.pdf				
+IWSLT-06: experiments with commercial MT systems and lessons from subjective evaluations	Christian Boitet and Youcef Bey and Mutsuko Tomokio and Wenjie Cao and Hervé Blanchon	http://www.mt-archive.info/05/IWSLT-2006-Boitet.pdf				
+MATREX: DCU machine translation system for IWSLT 2006.	Nicolas Stroppa and Andy Way	http://www.mt-archive.info/05/IWSLT-2006-Stroppa.pdf				
+Toward integrating word sense and entity disambiguation into statistical machine translation	Marine Carpuat and Yihai Shen and Xiaofeng Yu and Dekai Wu	http://www.mt-archive.info/05/IWSLT-2006-Carpuat.pdf				
+IBM Arabic-to-English translation for IWSLT 2006	Young-Suk Lee	http://www.mt-archive.info/05/IWSLT-2006-Lee.pdf				
+The ITC-irst SMT system for IWSLT 2006	Boxing Chen and Roldano Cattoni and Nicola Bertoldi and Mauro Cettolo and Marcello Federico	http://www.mt-archive.info/05/IWSLT-2006-Chen-1.pdf				
+The JHU workshop 2006 IWSLT system	Wade Shen and Richard Zens and Nicola Bertoldi and Marcello Federico	http://www.mt-archive.info/05/IWSLT-2006-Shen-1.pdf				
+Example-based machine translation based on deeper NLP	Toshiaki Nakazawa and Kun Yu and Daisuke Kawahara and Sadao Kurohashi	http://www.mt-archive.info/05/IWSLT-2006-Nakazawa.pdf				
+The MIT-LL/AFRL IWSLT-2006 MT system	Wade Shen and Brian Delaney and Tim Anderson	http://www.mt-archive.info/05/IWSLT-2006-Shen-2.pdf				
+Phrase reordering for statistical machine translation based on predicate-argument structure	Mamoru Komachi and Masaaki Nagata and Yuji Matsumoto	http://www.mt-archive.info/05/IWSLT-2006-Komachi.pdf				
+The NiCT-ATR statistical machine translation system for IWSLT 2006	Ruiqiang Zhang and Hirofumi Yamamoto and Michael Paul and Hideo Okuma and Keiji Yasuda and Yves Lepage and Etienne Denoual and Daichi Mochihashi and Andrew Finch and Eiichiro Sumita	http://www.mt-archive.info/05/IWSLT-2006-Zhang.pdf				
+NLPR translation system for IWSLT 2006 evaluation campaign	Chunguang Chai and Jinhua Du and Wei Wei and Peng Liu and Keyan Zhou and Yanqing He and Chengqing Zong	http://www.mt-archive.info/05/IWSLT-2006-Chai.pdf				
+NTT statistical machine translation for IWSLT 2006	Taro Watanabe and Jun Suzuki and Hajime Tsukada and Hideki Isozaki	http://www.mt-archive.info/05/IWSLT-2006-Watanabe.pdf				
+The RWTH statistical machine translation system for the IWSLT 2006 evaluation	Arne Mauser and Richard Zens and Evgeny Matusov and Sasa Hasan and Hermann Ney	http://www.mt-archive.info/05/IWSLT-2006-Mauser.pdf				
+The SLE example-based translation system	Pete Whitelock and Victor Poznanski	http://www.mt-archive.info/05/IWSLT-2006-Whitelock.pdf				
+The TALP Ngram-based SMT systems for IWSLT 2006	Josep M. Crego and Adrià de Gispert and Patrick Lambert and Maxim Khalilov and Marta R. Costa-jussà and José B. Mariño and Rafael Banchs and José A.R.Fonollosa	http://www.mt-archive.info/05/IWSLT-2006-Crego.pdf				
+TALP phrase-based system and TALP system combination for IWSLT 2006	Marta R. Costa-jussà and Josep M. Crego and Adrià de Gispert and Patrik Lambert and Maxim Khalilov and José A.R.Fonollosa and José B. Mariño and Rafael Banchs	http://www.mt-archive.info/05/IWSLT-2006-Costa-jussa.pdf				
+The UKA/CMU statistical machine translation system for IWSLT 2006	Matthias Eck and Ian Lane and Nguyen Bach and Sanjika Hewavitharana and Muntsin Kolss and Bing Zhao and Almut Silja Hildebrand and Stephan Vogel and Alex Waibel	http://www.mt-archive.info/05/IWSLT-2006-Eck.pdf				
+The CMU-UKA syntax augmented machine translation system for IWSLT-06	Andreas Zollmann and Ashish Venugopal and Stephan Vogel and Alex Waibel	http://www.mt-archive.info/05/IWSLT-2006-Zollmann.pdf				
+The University of Washington machine translation system for IWSLT 2006	Katrin Kirchhoff and Kevin Duh and Chris Lim	http://www.mt-archive.info/05/IWSLT-2006-Kirchhoff.pdf				
+The XMU phrase-based statistical machine translation system for IWSLT 2006	Yidong Chen and Xiaodong Shi and Changle Zhou	http://www.mt-archive.info/05/IWSLT-2006-Chen-2.pdf				
+Automatic sentence segmentation and punctuation prediction for spoken language translation	Evgeny Matusov and Arne Mauser and Hermann Ney	http://www.mt-archive.info/05/IWSLT-2006-Matusov.pdf				
+Continuous space language models for the IWSLT 2006 task	Holger Schwenk and Marta R. Costa-jussà and José A. R. Fonollosa	http://www.mt-archive.info/05/IWSLT-2006-Schwenk.pdf				
+Using monolingual source-language data to improve MT performance	Nicola Ueffing	http://www.mt-archive.info/05/IWSLT-2006-Ueffing.pdf				
+Reordering rules for phrase-based statistical machine translation	Boxing Chen and Mauro Cettolo and Marcello Federico	http://www.mt-archive.info/05/IWSLT-2006-Chen-3.pdf				
+Tuning machine translation parameters with SPSA	Patrik Lambert and Rafael E. Banchs	http://www.mt-archive.info/05/IWSLT-2006-Lambert.pdf				
+An efficient graph search decoder for phrase-based statistical machine translation	Brian Delaney and Wade Shen and Timothy Anderson	http://www.mt-archive.info/05/IWSLT-2006-Delaney.pdf				
+AER: do we need to “improve” our alignments?	David Vilar and Maja Popovic and Hermann Ney	http://www.mt-archive.info/05/IWSLT-2006-Vilar.pdf				
+Development of client-server speech translation system on a multi-lingual speech communication platform	Tohru Shimizu and Yutaka Ashikari and Eiichiro Sumita and Hideki Kashioka and Satoshi Nakamura	http://www.mt-archive.info/05/IWSLT-2006-Shimizu.pdf				
+TC-STAR: a speech to speech translation project 	Gianni Lazzari		http://www.mt-archive.info/05/IWSLT-2006-Lazzari.pdf			
+Rosetta: an analyst’s co-pilot  	Salim Roukos		http://www.mt-archive.info/05/IWSLT-2006-Roukos.pdf			

@@ -1,0 +1,40 @@
+Title	Authors	Pdf	Presentation	Volume_Name
+Keynotes		http://www.mt-archive.info/10/IWSLT-2011-keynotes.pdf		
+Data-intensive approaches for ASR	Sadaoki Furui			
+Meaning-equivalent semantics forunderstanding, generation, translation, and evaluation	Daniel Marcu			
+Resource-rich research on natural language processing and understanding	Junichi Tsujii			
+Overview of the IWSLT 2011 evaluation campaign	Marcello Federico and Luisa Bentivogli and Michael Paul and Sebastian Stüker	http://www.mt-archive.info/10/IWSLT-2011-Federico.pdf		
+The NICT ASR system for IWSLT2011	Kazuhiko Abe and Youzheng Wu and Chien-lin Huang and Paul R.Dixon and Shigeki Matsuda and Chiori Hori and Hideki Kashioka	http://www.mt-archive.info/10/IWSLT-2011-Abe.pdf		
+The MIT-LL/AFRL IWSLT-2011 MT system	A.Ryan Aminzadeh and Tim Anderson and Ray Slyh and Brian Ore and Eric Hansen and Wade Shen and Jennifer Drexler and Terry Gleason	http://www.mt-archive.info/10/IWSLT-2011-Aminzadeh.pdf		
+The DCU machine translation systems for IWSLT 2011	Pratyush Banerjee and Hala Almaghout and Sudip Naskar and Johann Roturier and Jie Jiang and Andy Way and Josef van Genabith	http://www.mt-archive.info/10/IWSLT-2011-Banerjee.pdf		
+The NICT translation system for IWSLT 2011	Andrew Finch and Chooi-Ling Goh and Graham Neubig and Eiichiro Sumita	http://www.mt-archive.info/10/IWSLT-2011-Finch.pdf		
+The MSR system for IWSLT 2011 evaluation	Xiaodong He and Amittai Axelrod and Li Deng and Alex Acero and Mei-Yuh Hwang and Alisa Nguyen and Andrew Wang and Xiahui Huang	http://www.mt-archive.info/10/IWSLT-2011-He.pdf		
+LIMSI’s experiments in domain adaptation for IWSLT11	Thomas Lavergne and Alexandre Allauzen and Hai-Son Le and François Yvon	http://www.mt-archive.info/10/IWSLT-2011-Lavergne.pdf		
+LIG English-French spoken language translation system for IWSLT 2011	Benjamin Lecouteux and Laurent Besacier and Hervé Blanchon	http://www.mt-archive.info/10/IWSLT-2011-Lecouteux.pdf		
+The KIT English-French translation systems for IWSLT 2011	Mohammed Mediani and Eunach Cho and Jan Niehues and Teresa Herrmann and Alex Waibel	http://www.mt-archive.info/10/IWSLT-2011-Mediani.pdf		
+LIUM’s systems for the IWSLT 2011 speech translation tasks	Anthony Rousseau and Fethi Bougares and Paul Deléglise and Holger Schwenk and Yannick Estève	http://www.mt-archive.info/10/IWSLT-2011-Rousseau.pdf		
+FBK@IWSLT 2011	N.Ruiz and A.Bisazza and F.Brugnara and D.Falavigna and D.Giuliani and S.Jaber and R.Gretter and M.Federico	http://www.mt-archive.info/10/IWSLT-2011-Ruiz.pdf		
+The 2011 KIT English ASR system for the IWSLT evaluation	Sebastian Stüker and Kevin Kilgour and Christian Saam and Alex Waibel	http://www.mt-archive.info/10/IWSLT-2011-Stuker.pdf		
+DFKI's SC and MT submissions to IWSLT 2011	David Vilar and Eleftherios Avramidis and Maja Popović and Sabine Hunsicker	http://www.mt-archive.info/10/IWSLT-2011-Vilar.pdf		
+The RWTH Aachen machine translation system for IWSLT 2011	Joern Wuebker and Matthias Huck and Saab Mansour and Markus Freitag and Minwei Feng and Stephan Peitz and Christoph Schmidt and Hermann Ney	http://www.mt-archive.info/10/IWSLT-2011-Wuebker.pdf		
+Advances on spoken language translation in the Quaero program	Karim Boudahmane and Bianka Buschbeck and Eunah Cho and Josep Maria Crego and Markus Freitag and Thomas Lavergne and Hermann Ney and Jan Niehues and Stephan Peitz and Jean Senellart and Artem Sokolov and Alex Waibel and Tonio Wandmacher and Joern Wuebker and François Yvon	http://www.mt-archive.info/10/IWSLT-2011-Boudahmane.pdf		
+Speech recognition for machine translation in Quaero	Lori Lamel and Sandrine Courcinous and Julien Despres and Jean-Luc Gauvain and Yvan Josse and Kevin Kilgour and Florian Kraft and Viet Bac Le and Hermann Ney and Markus Nußbaum-Thom and Ilya Oparin and Tim Schlippe and Ralf Schlüter and Tanja Schultz and Thiago Fraga da Silva and Sebastian Stüker and Martin Sundermeyer and Bianca Vieru and Ngoc Thang Vu and Alexander Waibel and Cécile Woehrling	http://www.mt-archive.info/10/IWSLT-2011-Lamel.pdf		
+Protocol and lessons learnt from the production of parallel corpora for the evaluation of speech translation systems	Victoria Arranz and Olivier Hamon and Karim Boudahmane and Martine Garnier-Rizet	http://www.mt-archive.info/10/IWSLT-2011-Arranz.pdf		
+Fill-up versus interpolation methods for phrase-based SMT adaptation	Arianna Bisazza and Nick Ruiz and Marcello Federico	http://www.mt-archive.info/10/IWSLT-2011-Bisazza.pdf		
+Semantic smoothing and fabrication of phrase pairs for SMT	Boxing Chen and Roland Kuhn and George Foster	http://www.mt-archive.info/10/IWSLT-2011-Chen.pdf		
+SCFG latent annotation for machine translation	Tagyoung Chung and Licheng Fang and Daniel Gildea	http://www.mt-archive.info/10/IWSLT-2011-Chung.pdf		
+Long-distance hierarchical structure transformation rules utilizing function words	Chenchen Ding and Takashi Inui and Mikio Yamamoto	http://www.mt-archive.info/10/IWSLT-2011-Ding.pdf		
+Investigation of the effects of ASR tuning on speech translation performance	Paul R.Dixon and Andrew Finch and Chiori Hori and Hideki Kashioka	http://www.mt-archive.info/10/IWSLT-2011-Dixon.pdf		
+Extending a probabilistic phrase alignment approach for SMT	Mridul Gupta and Sanjika Hewavitharana and Stephan Vogel	http://www.mt-archive.info/10/IWSLT-2011-Gupta.pdf		
+Left language model state for syntactic machine translation	Kenneth Heafield and Hieu Hoang and Philipp Koehn and Tetsuo Kiso and Marcello Federico	http://www.mt-archive.info/10/IWSLT-2011-Heafield.pdf		
+Lexicon models for hierarchical phrase-based machine translation	Matthias Huck and Saab Mansour and Simon Wiesler and Hermann Ney	http://www.mt-archive.info/10/IWSLT-2011-Huck.pdf		
+The 2011 KIT QUAERO speech-to-text system for Spanish	Kevin Kilgour and Christian Saam and Christian Mohr and Sebastian Stüker and Alex Waibel	http://www.mt-archive.info/10/IWSLT-2011-Kilgour.pdf		
+Named entity translation using anchor texts	Wang Ling and Pável Calado and Bruno Martins and Isabel Trancoso and Alan Black and Luísa Coheur	http://www.mt-archive.info/10/IWSLT-2011-Ling.pdf		
+Unsupervised vocabulary selection for simultaneous lecture translation	Paul Maergner and Kevin Kilgour and Ian Lane and Alex Waibel	http://www.mt-archive.info/10/IWSLT-2011-Maergner.pdf		
+Combining translation and language model scoring for domain-specific data filtering	Saab Mansour and Joern Wuebker and Hermann Ney	http://www.mt-archive.info/10/IWSLT-2011-Mansour.pdf		
+Using Wikipedia to translate domain-specific terms in SMT	Jan Niehues and Alex Waibel	http://www.mt-archive.info/10/IWSLT-2011-Niehues.pdf		
+Modeling punctuation prediction as machine translation	Stephan Peitz and Markus Freitag and Arne Mauser and Hermann Ney	http://www.mt-archive.info/10/IWSLT-2011-Peitz.pdf		
+Soft string-to-dependency hierarchical machine translation	Jan-Thorsten Peter and Matthias Huck and Hermann Ney and Daniel Stein	http://www.mt-archive.info/10/IWSLT-2011-Peter.pdf		
+Speaker alignment in synthesised, machine translation communication	Anne H.Schneider and Saturnino Luz	http://www.mt-archive.info/10/IWSLT-2011-Schneider.pdf		
+How good are your phrases? Assessing phrase quality with single class classification	Nadi Tomeh and Marco Turchi and Guillaume Wisinewski and Alexandre Allauzen and François Yvon	http://www.mt-archive.info/10/IWSLT-2011-Tomeh.pdf		
+Annotating data selection for improving machine translation	Keiji Yasuda and Hideo Okuma and Masao Utiyama and Eiichiro Sumita	http://www.mt-archive.info/10/IWSLT-2011-Yasuda.pdf		

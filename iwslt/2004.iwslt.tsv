@@ -1,0 +1,24 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Notes
+Overview of the IWSLT evaluation campaign	Yasuhiro Akiba and Marcello Federico and Noriko Kando and Hiromi Nakaiwa and Michael Paul and Jun’ichi Tsujii	http://www.mt-archive.info/00/IWSLT-2004-Akiba.pdf			1-12	
+EBMT, SMT, hybrid and more: ATR spoken language translation system	Eiichiro Sumita and Yasuhiro Akiba and Takao Doi and Andrew Finch and Kenji Imamura and Hideo Okuma and Michael Paul and Mitsuo Shimohata and Taro Watanabe	http://www.mt-archive.info/00/IWSLT-2004-Sumita.pdf			13-20	
+Towards fairer evaluations of commercial MT systems on basic travel expressions corpora	Herve Blanchon and Christian Boitet and Francis Brunet-Manquat and Mutsuko Tomokiyo and Agnes Hamon and Vo Trung Hung and Youcef Bey	http://www.mt-archive.info/00/IWSLT-2004-Blanchon-1.pdf			21-26	
+Auto word alignment based Chinese-English EBMT	Yang Muyun and Zhao Tiejun and Liu Haijie and Shi Xiasheng and Jiang Hongfei	http://www.mt-archive.info/00/IWSLT-2004-Yang.pdf			27-29	
+Experimenting with phrase-based statistical translation within the IWSLT Chinese-to-English shared translation task	Philippe Langlais and Michael Carl and Oliver Streiter	http://www.mt-archive.info/00/IWSLT-2004-Langlais.pdf			31-38	
+IBM spoken language translation system evaluation	Young-Suk Lee and Salim Roukos	http://www.mt-archive.info/00/IWSLT-2004-Lee.pdf			39-46	
+An EBMT system based on word alignment	Hou Hongxu and Deng Dan and Zou Gang and Yu Hongkui and Liu Yang and Xiong Deyi and Liu Qun	http://www.mt-archive.info/00/IWSLT-2004-Hou.pdf			47-49	
+The ITC-irst statistical machine translation system for IWSLT-	Nicola Bertoldi and Roldano Cattoni and Mauro Cettolo and Marcello Federico	http://www.mt-archive.info/00/IWSLT-2004-Bertoldi.pdf			51-58	
+The ISI/USC MT system	Emil Ettelaie and Kevin Knight and Daniel Marcu and Dragos Stefan Munteanu and Franz J. Och and Ignacio Thayer and Quamrul Tipu	http://www.mt-archive.info/00/IWSLT-2004-Thayer.pdf			59-60	
+The ISL EDTRL system	Juergen Reichert and Alex Waibel	http://www.mt-archive.info/00/IWSLT-2004-Reichert.pdf			61-64	
+The ISL statistical translation system for spoken language translation	Stephan Vogel and Sanjika Hewavitharana and Muntsin Kolss and Alex Waibel	http://www.mt-archive.info/00/IWSLT-2004-Vogel.pdf			65-72	
+Multi-engine based Chinese-to-English translation system	Yuncun Zuo and Yu Zhou and Chengqing Zong	http://www.mt-archive.info/00/IWSLT-2004-Zuo.pdf			73-77	
+Alignment templates: the RWTH SMT system	Oliver Bender and Richard Zens and Evgeny Matusov and Hermann Ney	http://www.mt-archive.info/00/IWSLT-2004-Bender.pdf			79-84	
+TALP: Xgram-based spoken language translation system	Adria de Gispert and Jose B. Marino	http://www.mt-archive.info/00/IWSLT-2004-DeGispert-1.pdf			85-90	
+Example-based machine translation using structural translation examples	Eiji Aramaki and Sadao Kurohashi	http://www.mt-archive.info/00/IWSLT-2004-Aramaki.pdf			91-94	
+Spoken dialogue translation systems evaluation: results, new trends, problems and proposals	Herve Blanchon and Christian Boitet and Laurent Besacier	http://www.mt-archive.info/00/IWSLT-2004-Blanchon-2.pdf			95-102	
+Minimum error training of log-linear translation models	Mauro Cettolo and Marcello Federico	http://www.mt-archive.info/00/IWSLT-2004-Cettolo.pdf			103-106	
+Phrase-based alignment combining corpus cooccurrences and linguistic knowledge	Adria de Gispert and Jose B. Marino and Josep M. Crego	http://www.mt-archive.info/00/IWSLT-2004-DeGispert-2.pdf			107-114	
+On feature selection in maximum entropy approach to statistical concept-based speech-to-speech translation	Liang Gu and Yuqing Gao	http://www.mt-archive.info/00/IWSLT-2004-Gu.pdf			115-121	
+PolyphraZ: a tool for the quantitative and subjective evaluation of parallel corpora	Najeh Hajlaoui and Christian Boitet	http://www.mt-archive.info/00/IWSLT-2004-Hajlaoui.pdf			123-129	
+Toward named entity extraction and translation in spoken language translation	Fei Huang and Stephan Vogel and Alex Waibel	http://www.mt-archive.info/00/IWSLT-2004-Huang.pdf			131-137	
+Statistical machine translation of spontaneous speech with scarce resources	Evgeny Matusov and Maja Popovic and Richard Zens and Hermann Ney	http://www.mt-archive.info/00/IWSLT-2004-Matusov.pdf			139-146	
+Multi-lingual speech recognition system for speech-to-speech translation	Satoshi Nakamura and Konstantin Markov and Takatoshi Jitsuhiro and Jin-Song Zhang and Hirofumi Yamamoto and Genichiro Kikui	http://www.mt-archive.info/00/IWSLT-2004-Nakamura.pdf			146-154	
