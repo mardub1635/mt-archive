@@ -1,0 +1,33 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Notes
+Rule-based and statistical machine translation with a focus on Swedish	Anna Sågvall Hein	http://www.mt-archive.info/05/TMI-2007-Sagvall-Hein.pdf				abstract
+Statistical MT from TMI-1988 to TMI-2007: what has happened?	Hermann Ney	http://www.mt-archive.info/05/TMI-2007-Ney.pdf				abstract
+Is MT in crisis?	Steven Krauwer	http://www.mt-archive.info/05/TMI-2007-panel.pdf				abstract
+An assessment of language elicitation without the supervision of a linguist	Alison Alvarez and Lori Levin and Robert Frederking and Jill Lehman	http://www.mt-archive.info/05/TMI-2007-Alvarez.pdf			1-10	
+Combining translation models in statistical machine translation	Jesús Andrés-Ferrer and Ismael Garcia-Varea and Francisco Casacuberta	http://www.mt-archive.info/05/TMI-2007-Andres-Ferrer.pdf			11-20	
+Support vector machine based orthographic disambiguation	Eiji Aramaki and Takeshi Imai and Kengo Miyo and Kazuhiko Ohe	http://www.mt-archive.info/05/TMI-2007-Aramaki.pdf			21-30	
+Breaking the barrier of context-freeness: towards a linguistically adequate probabilistic dependency model of parallel texts	Matthias Buch-Kromann	http://www.mt-archive.info/05/TMI-2007-Buch-Kromann.pdf			31-40	
+Demonstration of the German to English METIS-II MT system	Michael Carl and Sandrine Garnier and Paul Schmidt	http://www.mt-archive.info/05/TMI-2007-Carl.pdf			41-42	
+How phrase sense disambiguation outperforms word sense disambiguation for statistical machine translation	Marine Carpuat and Dekai Wu	http://www.mt-archive.info/05/TMI-2007-Carpuat.pdf			43-52	
+Demonstration of the Dutch-to-English METIS-II MT system	Peter Dirix and Vincent Vandeghinste and Ineke Schuurman	http://www.mt-archive.info/05/TMI-2007-Dirix.pdf			53-54	
+A new method for the study of correlations between MT evaluation metrics	Paula Estrella and Andrei Popescu-Belis and Maghi King	http://www.mt-archive.info/05/TMI-2007-Estrella.pdf			55-64	
+EBMT based on finite automata state transfer generation	Ren Feiliang and Zhang Li and Hu Minghan and Yao Tianshun	http://www.mt-archive.info/05/TMI-2007-Feiliang.pdf			65-74	
+Learning bilingual semantic frames: shallow semantic parsing vs. semantic role projection	Pascale Fung and Zhaojun Wu and Yongsheng Yang and Dekai Wu	http://www.mt-archive.info/05/TMI-2007-Fung.pdf			75-84	
+Capturing translational divergences with a statistical tree-to-tree aligner	Mary Hearne and John Tinsley and Ventsislav Zhechev and Andy Way	http://www.mt-archive.info/05/TMI-2007-Hearne.pdf			85-94	
+Extracting phrasal alignments from comparable corpora by using joint probability SMT model	Tadashi Kumano and Hideki Tanaka and Takenobu Tokunaga	http://www.mt-archive.info/05/TMI-2007-Kumano.pdf			95-103	
+A greedy decoder for phrase-based statistical machine translation	Philippe Langlais and Alexandre Patry and Fabrizio Gotti	http://www.mt-archive.info/05/TMI-2007-Langlais.pdf			104-113	
+Alignment-guided chunking	Yanjun Ma and Nicolas Stroppa and Andy Way	http://www.mt-archive.info/05/TMI-2007-Ma.pdf			114-121	
+BLEUÂTRE: flattening syntactic dependencies for MT evaluation	Dennis N. Mehay and Chris Brew	http://www.mt-archive.info/05/TMI-2007-Mehay.pdf			122-131	
+Demonstration of the Spanish to English METIS-II MT system	Maite Melero and Toni Badia	http://www.mt-archive.info/05/TMI-2007-Melero.pdf			132-133	
+Combining resources for open source machine translation	Eric Nichols and Francis Bond and Darren Scott Appling and Yuji Matsumoto	http://www.mt-archive.info/05/TMI-2007-Nichols.pdf			134-143	
+Towards hybrid quality-oriented machine translation – on linguistics and probabilities in MT	Stephan Oepen and Erik Velldal and Jan Tore Lønning and Paul Meurer and Victoria Rosén and Dan Flickinger	http://www.mt-archive.info/05/TMI-2007-Oepen.pdf			144-153	
+Reducing human assessment of machine translation quality to binary classifiers	Michael Paul and Andrew Finch and Eiichiro Sumita	http://www.mt-archive.info/05/TMI-2007-Paul.pdf			154-162	
+Sub-phrasal matching and structural templates in example-based MT	Aaron B.Phillips	http://www.mt-archive.info/05/TMI-2007-Phillips.pdf			163-170	
+Word reordering in statistical machine translation with a POS-based distortion model	Kay Rottmann and Stephan Vogel	http://www.mt-archive.info/05/TMI-2007-Rottmann.pdf			171-180	
+Automatic induction of shallow-transfer rules for open-source machine translation	Felipe Sánchez-Martínez and Mikel L.Forcada	http://www.mt-archive.info/05/TMI-2007-Sanchez-Martinez.pdf			181-190	
+Reordering via n-best lists for Spanish-Basque translation	Germán Sanchis and Francisco Casacuberta	http://www.mt-archive.info/05/TMI-2007-Sanchis.pdf			191-198	
+Demonstration of the Greek to English METIS-II system	Sokratis Sofianopoulos and Vassiliki Spilioti and Marina Vassiliou and Olga Yannoutsou and Stella Markantonatou	http://www.mt-archive.info/05/TMI-2007-Sofianopoulos.pdf			199-205	
+Theoretical and methodological issues regarding the use of language technologies for patients with limited English proficiency	Harold Somers	http://www.mt-archive.info/05/TMI-2007-Somers.pdf			206-213	
+Hand in hand: automatic sign language to English translation	Daniel Stein and Philippe Dreuw and Hermann Ney and Sara Morrissey and Andy Way	http://www.mt-archive.info/05/TMI-2007-Stein.pdf			214-220	
+A cluster-based representation for multi-system MT evaluation	Nicolas Stroppa and Karolina Owczarzak	http://www.mt-archive.info/05/TMI-2007-Stroppa-1.pdf			221-230	
+Exploiting source similarity for SMT using context-informed features	Nicolas Stroppa and Antal van den Bosch and Andy Way	http://www.mt-archive.info/05/TMI-2007-Stroppa-2.pdf			231-240	
+Phrase alignment based on bilingual parsing	Akira Ushioda	http://www.mt-archive.info/05/TMI-2007-Ushioda.pdf			241-250	
