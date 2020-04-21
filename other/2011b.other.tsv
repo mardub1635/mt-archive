@@ -1,0 +1,20 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Notes
+Introductions, programme, and About the OpenMT-2 project		http://www.mt-archive.info/10/LIHMT-2011-programme-1.pdf				
+Rich morphology and what can we expect from hybrid approaches to MT .	Ondřej Bojar	http://www.mt-archive.info/10/LIHMT-2011-Bojar-abs.pdf				absract
+Statistical MT with syntax and morphology: challenges and some solutions	Alon Lavie	http://www.mt-archive.info/10/LIHMT-2011-Lavie-abs.pdf				absract
+Linguistic indicators for quality estimation of machine translation	Lucia Specia	http://www.mt-archive.info/10/LIHMT-2011-Specia-abs.pdf				absract
+Improved statistical machine translation using multiword expressions	Dhouha Bouamor and Nasredine Semmar and Pierre Zweigenbaum	http://www.mt-archive.info/10/LIHMT-2011-Bouamor.pdf				
+VERTa: exploring a multidimensional linguistically-motivated metric	Elisabet Comelles and Jordi Atserias and Victoria Arranz and Irene Castellón and Olivier Hamon	http://www.mt-archive.info/10/LIHMT-2011-Comelles.pdf				
+Using Apertium linguistic data for tokenization to improve Moses SMT performance	Santiago Cortés Vaíllo and Sergio Ortiz Rojas	http://www.mt-archive.info/10/LIHMT-2011-Ortiz-Rojas.pdf				
+Reordering by parsing	Jakob Elming and Martin Haulrich	http://www.mt-archive.info/10/LIHMT-2011-Elming.pdf				
+Comparing corpus-based MT approaches using restricted resources	Monica Gavrila and Natalia Elita	http://www.mt-archive.info/10/LIHMT-2011-Gavrila.pdf				
+Deep evaluation of hybrid architectures: simple metrics correlated with human judgments	Gorka Labaka and Arantza Díaz de Ilarraza and Cristina España-Bonet and Lluís Màrquez and Kepa Sarsola	http://www.mt-archive.info/10/LIHMT-2011-Labaka.pdf				
+A radically simple, effective annotation and alignment methodology for semantic frame based SMT and MT evaluation	Chi-kiu Lo and Dekai Wu	http://www.mt-archive.info/10/LIHMT-2011-Lo.pdf				
+Word translation disambiguation without parallel texts	Erwin Marsi and André Lynum and Lars Bungum and Björn Gambäck	http://www.mt-archive.info/10/LIHMT-2011-Marsi.pdf				
+A new hybrid machine translation approach using cross-language information retrieval and only target text corpora	Nasredine Semmar and Dhouha Bouamor	http://www.mt-archive.info/10/LIHMT-2011-Semmar.pdf				
+Introduction, programme and about META-NET		http://www.mt-archive.info/10/LIHMT-2011-programme-2.pdf				Shared Task on Applying Machine Learning Techniques to Optimise the Division of Labour in Hybrid Machine Translation
+Machine translation system combination with MANY for ML4HMT	LoïcBarrault and Patrik Lambert	http://www.mt-archive.info/10/LIHMT-2011-Barrault.pdf				Shared Task on Applying Machine Learning Techniques to Optimise the Division of Labour in Hybrid Machine Translation
+DCU confusion network-based system combination for ML4HMT	Tsuyoshi Okita and Josef van Genabith	http://www.mt-archive.info/10/LIHMT-2011-Okita.pdf				Shared Task on Applying Machine Learning Techniques to Optimise the Division of Labour in Hybrid Machine Translation
+DFKI system combination with sentence ranking at ML4HMT-2011	Eleftherios Avramidis	http://www.mt-archive.info/10/LIHMT-2011-Avramidis.pdf				Shared Task on Applying Machine Learning Techniques to Optimise the Division of Labour in Hybrid Machine Translation
+DFKI system combination using syntactic information at ML4HMT-2011	Christian Federmann and Sabine Hunsicker and Yu Chen and Rui Wang	http://www.mt-archive.info/10/LIHMT-2011-Federmann-1.pdf				Shared Task on Applying Machine Learning Techniques to Optimise the Division of Labour in Hybrid Machine Translation
+Results from the ML4HMT shared task on applying machine learning techniques to optimise the division of labour in hybrid MT	Christian Federmann	http://www.mt-archive.info/10/LIHMT-2011-Federmann-2.pdf				Shared Task on Applying Machine Learning Techniques to Optimise the Division of Labour in Hybrid Machine Translation

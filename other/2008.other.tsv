@@ -1,0 +1,13 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Notes
+About OpenMT project		http://www.mt-archive.info/05/MATMT-2008-OpenMT.pdf			7	
+A method of automatically evaluating machine translations using a word-alignment based classifier	K.Kotani and T.Yoshimi and H.Isahara and T.Kutsumi and I.Sata	http://www.mt-archive.info/05/MATMT-2008-Kotani.pdf			11-18	
+Diagnosing human judgments in MT evaluation: an example based on the Spanish language	Olivier Hamon and Djamel Mostefa and Victoria Arranz	http://www.mt-archive.info/05/MATMT-2008-Hamon.pdf			19-26	
+Mixing approaches to MT for Basque: selecting the best output from RBMT, EBMT and SMT	I.Alegria and A.Casillas and A.Diaz de Ilarraza and J.Igartua and G.Labaka and M.Lersundi and A.Mayor and K.Sarasola and X.Saralegi and B.Laskurain	http://www.mt-archive.info/05/MATMT-2008-Alegria.pdf			27-34	
+Statistical post-editing: a valuable method in domain adaptation of RBMT systems for less-resourced languages	Arantza Diaz de Ilarraza and Gorka Labaka and Kepa Sarasola	http://www.mt-archive.info/05/MATMT-2008-Diaz.pdf			35-40	
+From free shallow monolingual resources to machine translation systems: easing the task	Helena M. Caseli and Maria das Gracas V.Nunes and Mikel L. Forcada	http://www.mt-archive.info/05/MATMT-2008-Caseli.pdf			41-48	
+Exploring Spanish-morphology effects on Chinese-Spanish SMT	Rafael B. Banchs and Haizhou Li	http://www.mt-archive.info/05/MATMT-2008-Banchs.pdf			49-53	
+Linguistic categorisation in machine translation using stochastic finite state transducers	Jorge González and Francisco Casacuberta	http://www.mt-archive.info/05/MATMT-2008-Gonzalez.pdf			55-62	
+Vocabulary extension via PoS information for SMT	Germán Sanchis and Joan A. Sanchis	http://www.mt-archive.info/05/MATMT-2008-Sanchis.pdf			63-70	
+Moses: moving open source MT towards linguistically richer models	Philipp Koehn	http://www.mt-archive.info/05/MATMT-2008-Koehn.pdf			71	Invited talks, abstract only
+Recent advances in spoken language translation	Marcello Federico	http://www.mt-archive.info/05/MATMT-2008-Federico.pdf			73	Invited talks, abstract only
+Combining approaches to machine translation: the DCU experience	Andy Way 	http://www.mt-archive.info/05/MATMT-2008-Way.pdf			75	Invited talks, abstract only

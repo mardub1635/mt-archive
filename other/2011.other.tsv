@@ -1,0 +1,31 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Notes
+Integrated morphology for translation	Kevin Knight	http://www.mt-archive.info/10/MTMRL-2011-Knight.pdf	http://www.mt-archive.info/10/MTMRL-2011-Knight-ppt.pdf			
+Using semantics in translation	Nachum Dershowitz	http://www.mt-archive.info/10/MTMRL-2011-Dershowitz.pdf	http://www.mt-archive.info/10/MTMRL-2011-Dershowitz-ppt.pdf			
+Machine translation between Hebrew and Arabic: needs, challenges and preliminary solutions	Reshef Shilon	http://www.mt-archive.info/10/MTMRL-2011-Shilon.pdf				
+Using verb paraphrases for Arabic-to-English example-based translation	Kfir Bar	http://www.mt-archive.info/10/MTMRL-2011-Bar.pdf	http://www.mt-archive.info/10/MTMRL-2011-Bar-ppt.pdf			
+Transliterated pairs acquisition in medical Hebrew	Raphael Cohen	http://www.mt-archive.info/10/MTMRL-2011-Cohen.pdf	http://www.mt-archive.info/10/MTMRL-2011-Cohen-ppt.pdf			
+Agreement matters: challenges of translating into a morphologically rich language, and the advantages of a syntax-based system	Yoav Goldberg	http://www.mt-archive.info/10/MTMRL-2011-Goldberg.pdf	http://www.mt-archive.info/10/MTMRL-2011-Goldberg-ppt.pdf			
+Topic models for morphologically rich languages and their usage to explore multilingual corpora	Michael Elhadad	http://www.mt-archive.info/10/MTMRL-2011-Elhadad.pdf	http://www.mt-archive.info/10/MTMRL-2011-Elhadad-ppt.pdf			
+Automatic evaluation in machine translation: towards combined linguistically-motivated measures	Lluís Màrquez	http://www.mt-archive.info/10/MTMRL-2011-Marquez.pdf	http://www.mt-archive.info/10/MTMRL-2011-Marquez-ppt.pdf			
+Textual entailment inference in machine translation	Ido Dagan	http://www.mt-archive.info/10/MTMRL-2011-Dagan.pdf	http://www.mt-archive.info/10/MTMRL-2011-Dagan-ppt.pdf			
+Identification of multi-word expressions by combining multiple linguistic information sources	Yulia Tsvetkov	http://www.mt-archive.info/10/MTMRL-2011-Tsvetkov.pdf	http://www.mt-archive.info/10/MTMRL-2011-Tsvetkov-ppt.pdf			
+Morphology, syntax, and what’s in between: reifying cross-linguistic variation through cross-linguistic parsing	Reut Tsarfaty	http://www.mt-archive.info/10/MTMRL-2011-Tsarfaty.pdf	http://www.mt-archive.info/10/MTMRL-2011-Tsarfaty-ppt.pdf			
+Rich morpho-syntactic descriptors for factored machine translation with highly inflected languages as target	Alexandru Ceausu	http://www.mt-archive.info/10/MTMRL-2011-Ceausu.pdf	http://www.mt-archive.info/10/MTMRL-2011-Ceausu-ppt.pdf			
+Forms wanted: training SMT on monolingual data	Ondřej Bojar	http://www.mt-archive.info/10/MTMRL-2011-Bojar.pdf	http://www.mt-archive.info/10/MTMRL-2011-Bojar-ppt.pdf			
+Integrating morphology in probabilistic translation models	Chris Dyer	http://www.mt-archive.info/10/MTMRL-2011-Dyer.pdf	http://www.mt-archive.info/10/MTMRL-2011-Dyer-ppt.pdf			
+Morphological processing and word reordering for statistical MT of highly inflected languages	Marcello Federico	http://www.mt-archive.info/10/MTMRL-2011-Federico.pdf	http://www.mt-archive.info/10/MTMRL-2011-Federico-ppt.pdf			
+Factored models for morphology	Philipp Koehn	http://www.mt-archive.info/10/MTMRL-2011-Koehn.pdf	http://www.mt-archive.info/10/MTMRL-2011-Koehn-ppt.pdf			
+Morphological generation of German for SMT	Alexander Fraser	http://www.mt-archive.info/10/MTMRL-2011-Fraser.pdf	http://www.mt-archive.info/10/MTMRL-2011-Fraser-ppt.pdf			
+Language models for machine translation: original vs	Gennadi Lembersky	http://www.mt-archive.info/10/MTMRL-2011-Lembersky.pdf	http://www.mt-archive.info/10/MTMRL-2011-Lembersky-ppt.pdf			
+A resource-light approach to learning verb valencies	Alex Rudnick	http://www.mt-archive.info/10/MTMRL-2011-Rudnick.pdf	http://www.mt-archive.info/10/MTMRL-2011-Rudnick-ppt.pdf			
+Processing of Russian by the ETAP-3 linguistic processor	Igor Boguslavsky	http://www.mt-archive.info/10/MTMRL-2011-Boguslavsky.pdf	http://www.mt-archive.info/10/MTMRL-2011-Boguslavsky-ppt.pdf			
+Improving SMT with morphology knowledge for Baltic languages	Raivis Skadiņs	http://www.mt-archive.info/10/MTMRL-2011-Skadins.pdf	http://www.mt-archive.info/10/MTMRL-2011-Skadins-ppt.pdf			
+The impact of Arabic morphological segmentation on broad-scale phrase-based SMT	Alon Lavie	http://www.mt-archive.info/10/MTMRL-2011-Lavie.pdf	http://www.mt-archive.info/10/MTMRL-2011-Lavie-ppt.pdf			
+Morphological aspects of computer-driven elicitation of knowledge about any language	Sergei Nirenburg	http://www.mt-archive.info/10/MTMRL-2011-Nirenburg.pdf	http://www.mt-archive.info/10/MTMRL-2011-Nirenburg-ppt.pdf			
+Syntax-to-morphology mapping in factored SMT	Kemal Oflazer	http://www.mt-archive.info/10/MTMRL-2011-Oflazer.pdf	http://www.mt-archive.info/10/MTMRL-2011-Oflazer-ppt.pdf			
+Unsupervised Turksih morphological segmentation for statistical machine translation	Coşkun Mermer	http://www.mt-archive.info/10/MTMRL-2011-Mermer.pdf	http://www.mt-archive.info/10/MTMRL-2011-Mermer-ppt.pdf			
+MWE-sensitive word alignment in factored translation model	Tsuyoshi Okita	http://www.mt-archive.info/10/MTMRL-2011-Okita.pdf	http://www.mt-archive.info/10/MTMRL-2011-Okita-ppt.pdf			
+A non-parametric Bayesian approach to inflectional morphology	Jason Eisner and Markus Dreyer	http://www.mt-archive.info/10/MTMRL-2011-Eisner.pdf	http://www.mt-archive.info/10/MTMRL-2011-Eisner-ppt.pdf			
+Towards English-Swahili machine translation	Guy De Pauw	http://www.mt-archive.info/10/MTMRL-2011-DePauw.pdf				
+Hindi to Punjabi machine translation system	Vishal Goyal	http://www.mt-archive.info/10/MTMRL-2011-Goyal.pdf				
+Steps taken in Spanish-Basque speech translation using stochastic finite-state transducers	Alicia Pérez	http://www.mt-archive.info/10/MTMRL-2011-Perez.pdf				
