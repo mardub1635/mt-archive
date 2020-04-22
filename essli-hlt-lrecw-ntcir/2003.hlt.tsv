@@ -1,0 +1,23 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	Notes
+On the Pleasure of Being Bi-textual; or My Life in Parallel Text	Elliott Macklovitch	http://www.mt-archive.info/00/HLT-NAACL-2003-Macklovitch.pdf				
+An Evaluation Exercise for Word Alignment	Rada Mihalcea and Ted Pedersen	http://www.mt-archive.info/00/HLT-NAACL-2003-Mihalcea.pdf				
+ProAlign: Shared Task System Description	Dekang Lin and Colin Cherry Bing Zhao and Stephan Vogel	http://www.mt-archive.info/00/HLT-NAACL-2003-Lin.pdf				
+Word Alignment Based on Bilingual Bracketing 	Bing Zhao and Stephan Vogel 	http://www.mt-archive.info/00/HLT-NAACL-2003-Zhao-2.pdf				
+Statistical Translation Alignment with Compositionality Constraints	Michel Simard and Philippe Langlais Herve Dejean and Eric Gaussier and Cyril Goutte and Kenji Yamada John C. Henderson	http://www.mt-archive.info/00/HLT-NAACL-2003-Simard-2.pdf				
+Reducing Parameter Space for Word Alignment 	Herve Dejean, Eric Gaussier, Cyril Goutte and Kenji Yamada	http://www.mt-archive.info/00/HLT-NAACL-2003-Dejean.pdf				
+Word Alignment Baselines 	John C. Henderson	http://www.mt-archive.info/00/HLT-NAACL-2003-Henderson.pdf				
+TREQ-AL: A Word Alignment System with Limited Language Resources	Dan Tufis and Ana-Maria Barbu and Radu Ion	http://www.mt-archive.info/00/HLT-NAACL-2003-Tufis.pdf				
+The Duluth Word Alignment System	Bridget Thomson McInnes and Ted Pedersen	http://www.mt-archive.info/00/HLT-NAACL-2003-McInnes.pdf				
+Phrase-based Evaluation of Word-to-Word Alignments 	Michael Carl and Sisay Fissaha	http://www.mt-archive.info/00/HLT-NAACL-2003-Carl.pdf				
+Bootstrapping Parallel Corpora	Chris Callison-Burch and Miles Osborne Mitsuo Shimohata and Eiichiro Sumita and Yuji Matsumoto Eiji Aramaki and Sadao Kurohashi and Hideki Kashioka and Hideki Tanaka	http://www.mt-archive.info/00/HLT-NAACL-2003-Callison-Burch.pdf				
+Retrieving Meaning-equivalent Sentences for Example-based Rough Translation 	Mitsuo Shimohata and Eiichiro Sumita and Yuji Matsumoto	http://www.mt-archive.info/00/HLT-NAACL-2003-Shimohata.pdf				
+Word Selection for EBMT based on Monolingual Similarity and Translation Confidence 	Eiji Aramaki and Sadao Kurohashi and Hideki Kashioka and Hideki Tanaka	http://www.mt-archive.info/00/HLT-NAACL-2003-Aramaki.pdf				
+Translation Spotting for Translation Memories	Michel Simard Kaoru Yamamoto and Taku Kudo and Yuta Tsuboi and Yuji Matsumoto Bing Zhao and Klaus Zechner and Stephen Vogel and Alex Waibel	http://www.mt-archive.info/00/HLT-NAACL-2003-Simard.pdf				
+Learning Sequence-to-Sequence Correspondences from Parallel Corpora via Sequential Pattern Mining 	Kaoru Yamamoto and Taku Kudo and Yuta Tsuboi and Yuji Matsumoto	http://www.mt-archive.info/00/HLT-NAACL-2003-Yamamoto.pdf				
+Efficient Optimization for Bilingual Sentence Alignment Based on Linear Regression	Bing Zhao and Klaus Zechner and Stephen Vogel and Alex Waibel 	http://www.mt-archive.info/00/HLT-NAACL-2003-Zhao.pdf				
+POS-Tagger for English Vietnamese Bilingual Corpus	Dinh Dien and Hoang Kiem Chun-Jen Lee and Jason S. Chang Takao Doi and Eiichiro Sumita	http://www.mt-archive.info/00/HLT-NAACL-2003-Dien.pdf				
+Acquisition of English-Chinese Transliterated Word Pairs from Parallel-Aligned Texts using a Statistical Machine Transliteration Model 	Chun-Jen Lee and Jason S. Chang 	http://www.mt-archive.info/00/HLT-NAACL-2003-Lee.pdf				
+Input Sentence Splitting and Translating	Takao Doi and Eiichiro Sumita	http://www.mt-archive.info/00/HLT-NAACL-2003-Doi.pdf				
+An LSA Implementation Against Parallel Texts in French and English	Katri A. Clodfelder Joel Martin and Howard Johnson and Benoit Farley and Anna Maclachlan Stephen Nightingale and Hideki Tanaka	http://www.mt-archive.info/00/HLT-NAACL-2003-Clodfelder.pdf				
+Aligning and Using an English-Inuktitut Parallel Corpus 	Dinh Dien and Hoang Kiem	http://www.mt-archive.info/00/HLT-NAACL-2003-Martin.pdf				
+Comparing the Sentence Alignment Yield from Two News Corpora Using a Dictionary-Based Alignment System	Stephen Nightingale and Hideki Tanaka 	http://www.mt-archive.info/00/HLT-NAACL-2003-Nightingale.pdf				
