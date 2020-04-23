@@ -42,7 +42,7 @@ def save_page(url, file_name):
         print("done")
 
 
-def get_url(code_conf):
+def get_url(code_conf,conference_page=None):
     """(String)->String
     
     given the name of a conference ($code_conf) returns the URL of this conference as a string.
@@ -56,14 +56,19 @@ def get_url(code_conf):
     >>>get_url('2002.amta')
    'http://www.mt-archive.info/00/AMTA-2002-TOC.htm',
     """
-    df = pd.read_csv("../ConferenceList.csv", delimiter=',')
+    code_tab="../ConferenceList.csv"
+    if conference_page==2:
+        code_tab="../ConferenceList2.csv"
+    df = pd.read_csv(code_tab, delimiter=',')
     row = df.loc[df['file_name'] == code_conf]
     conf_type = row.Type
+    print(conf_type)
     if conf_type.item() == 'PDF':
         print("WARNING: PDF")
     else:
         print("Geting URL")
     return row.URL.item()
+
 
 def unspace(text):
     """
@@ -74,16 +79,18 @@ def unspace(text):
     >>>' Conference\nin machine translation:\xa0\xa0\xa0\xa0 a very difficult         problem. "
     'Conference in machine translation: a very difficult problem.
     """
-    text = text.replace(u'\xa0', u' ').replace("\n", " ")
+    text = text.replace(u'\xa0', u' ').replace("\n", " ").replace("\r", " ")
     text = re.sub(' +', ' ', text)
+    text = text.strip()
+    text = text.strip("–")
     text = text.strip()
     return text
 
-def has_pdf(p):
+def has_pdf(p,i_link=0):
     """
-    (bs4.element.Tag)->String
+    (bs4.element.Tag, int)->String
     Given  beautifulsoup element $p returns the target of the first anchor in $p. 
-    If none is found returns None.
+    If none is found returns None. Change i_link to other integer than 0 if you do not want to return the first link.
 
     NOTE:
     This module is typically used on each <p> tags on the html page and serves to 
@@ -95,14 +102,17 @@ def has_pdf(p):
     """
     if p.find_all(['a']):
         links = p.find_all(['a'])
-        return links[0]['href']
+        try:
+            return links[i_link]['href']
+        except:
+            return None
     return None
 
 
 def get_title(p):
     if p.find_all(['a']):
         links = p.find_all(['a'])
-        t = links[0].get_text().replace("\n", " ")  # .decompose()#.contents[0]
+        t = unspace(links[0].get_text())  # .decompose()#.contents[0]
         return t
     return None
 
@@ -133,8 +143,11 @@ def remove_digit(text):
 
 
 def namify(line):
-    line = remove_digit(line).replace("…", "").strip().strip(".").replace(":","")
+
+    line = remove_digit(line).replace("…", "").strip().strip(".").replace(":","").strip(';')
+    line = line.strip("-").strip(".")
     line = unspace(line)
+    
     line = re.split(', and|,and|, | and|,|&',line)
     line = list(filter(None, line))  # remove empty
     authors_list = []
@@ -169,3 +182,73 @@ def has_italic(p):
             italic_text+=it.text+" "
             
         return unspace(italic_text)
+
+
+def remove_parenthesised(text, exclude=None):
+    if exclude == None:
+        text = re.sub("\([^)]*\)", "", text)
+        text = re.sub("\[[^]]*\]", "", text)
+    if exclude == "(":
+        text = re.sub("\[[^]]*\]", "", text)
+    if exclude == "[":
+        text = re.sub("\([^)]*\)", "", text)
+    return text
+
+def is_centered(p):
+    try:
+
+        if p['align']=='center':
+            return unspace(p.text)
+    except:
+        return None
+def has_bold(p):
+
+    try:
+        
+        bolds=p.find_all('b')
+        bold_text=""
+        for b in bolds:
+            bold_text+=b.text+" "
+        return unspace(bold_text)
+    except:
+        return None
+
+def finish_by_digit(p):
+    if unspace(p.text[-1]).isdigit():
+        return True
+
+
+def has_pp(p):
+    if "pp." in unspace(p.text):
+        return True
+
+def extract_pages(p):
+    if type(p)!=str:
+        text=p.text
+    else:
+        text=p
+       
+    pages=re.findall(r'(pp.d+-\d+|pp\d+|\d+-\d+|\d+)', text)[-1]
+    
+    return pages
+
+def remove_page(text):
+    pages=extract_pages(text)
+    text=text.replace(pages,"")
+
+    #remove_digit( unspace(text)).replace('pp.','')
+    text=text.replace('pp.','').replace('p.','').replace(' . .','').replace('....','').replace('....','').strip('-').strip(' ... ').strip('…')
+    text=unspace(text).strip(";").replace("… .","")
+    return unspace(text)
+
+def has_tag(p,tag):
+    try:
+        tags=p.find_all(tag)
+        print(tags)
+        tag_text=""
+        for t in tags:
+            tag_text+=t.text+" "
+            
+        return unspace(tag_text)
+    except:
+        return None
