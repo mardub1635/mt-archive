@@ -1,0 +1,17 @@
+Title	Authors	Pdf	Presentation	Volume_Name	Pages	pages in pdf	Notes
+Frontmatter						1	
+Instance Selection for Online Automatic Post-Editing in a multi-domain scenario	Rajen Chatterjee and Mihael Arcan and Matteo Negri and Marco Turchi				1	7	
+Machine Translation Quality and Post-Editor Productivity	Marina Sanchez-Torron and Philipp Koehn				16	22	
+Fuzzy-match repair using black-box machine translation systems: what can be expected?	John Ortega and Felipe Sánchez-Martínez and Mikel Forcada				27	33	
+Fast, Scalable Phrase-Based SMT Decoding	Hieu Hoang and Nikolay Bogoychev and Lane Schwartz and Marcin Junczys-Dowmunt				40	46	
+An Effective Diverse Decoding Scheme for Robust Synonymous Sentence Translation	Youngki Park and Hwidong Na and Hodong Lee and Jihyun Lee and Inchul Song				53	59	
+Ranking suggestions for black-box interactive translation prediction systems with multilayer perceptrons	Daniel Torregrosa and Juan Antonio Pérez-Ortiz and Mikel Forcada				65	71	
+Multi-domain Adaptation for Statistical Machine Translation Based on Feature Augmentation	Kenji Imamura and Eiichiro Sumita				79	85	
+Bilingual Methods for Adaptive Training Data Selection for Machine Translation	Boxing Chen and Roland Kuhn and George Foster and Colin Cherry and Fei Huang				93	99	
+Neural Interactive Translation Prediction	Rebecca Knowles and Philipp Koehn				107	113	
+Guided Alignment Training for Topic-Aware Neural Machine Translation	Wenhu Chen and Evgeny Matusov and Shahram Khadivi and Jan-Thorsten Peter				121	127	
+Improving Neural Machine Translation on resource-limited pairs using auxiliary data of a third language	Ander Martinez and Yuji Matsumoto				135	141	
+Which Words Matter in Defining Phrase Reordering Behavior in Statistical Machine Translation?	Hamidreza Ghader and Christof Monz				149	155	
+Translation of Unknown Words in Low Resource Languages	Biman Gujral and Huda Khayrallah and Philipp Koehn				163	169	
+Automatic Construction of Morphologically Motivated Translation Models for Highly Inflected, Low-Resource Languages	John Hewitt and Matt Post and David Yarowsky				177	183	
+Investigating the Impact of Various Partial Diacritization Schemes on Arabic-English Statistical Machine Translation	Sawsan Alqahtani and Mahmoud Ghoneim and Mona Diab				191	197	
