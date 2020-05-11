@@ -1,27 +1,4 @@
 Title	Authors	Pdf
-Patterns of terminological variation in post-editing and of cognate use in machine translation in contrast to human translation	Čulo, Oliver and Nitzke, Jean	http://www.mt-archive.info/15/EAMT-2016-Culo.pdf
-Graphonological Levenshtein edit distance	Babych, Bogdan	http://www.mt-archive.info/15/EAMT-2016-Babych.pdf
-Improving phrase-based SMT using cross-granularity embedding similarity	Passban, Peyman and Hokamp, Chris and Way, Andy and Liu, and Qun	http://www.mt-archive.info/15/EAMT-2016-Passban.pdf
-Comparing translator acceptability of TM and SMT outputs	Moorkens, Joss and Way, Andy	http://www.mt-archive.info/15/EAMT-2016-Moorkens.pdf
-Stand-off annotation of web content as a legally safer alternative to crawling for distribution	Forcada, Mikel L. and Esplà-Gomis, Miquel and Pérez-Ortiz, Juan	http://www.mt-archive.info/15/EAMT-2016-Forcada-2.pdf
-Combining translation memories and syntax-based SMT: experiments with real industrial data	Li, Liangyou and Escartín, Carla Parra and Liu, Qun	http://www.mt-archive.info/15/EAMT-2016-Li.pdf
-The trouble with machine translation coherence	Smith, Karin Sim and Aziz, Wilker and Specia, Lucia	http://www.mt-archive.info/15/EAMT-2016-Sim-Smith.pdf
-Pivoting methods and data for Czech-Vietnamese translation via English	Hoang, Duc Tam and Bojar, Ondřej	http://www.mt-archive.info/15/EAMT-2016-Hoang.pdf
-Detecting grammatical errors in machine translation output using dependency parsing and treebank querying	Tezcan, Arda and Hoste, Véronique and Macken, Lieve	http://www.mt-archive.info/15/EAMT-2016-Tezcan.pdf
-Potential and limits of using post-edits as reference translations for MT evaluation	Popović, Maja and Arčan, Mihael and Lommel, Arle	http://www.mt-archive.info/15/EAMT-2016-Popovic.pdf
-Can text simplification help machine translation	Štajner, Sanja and Popović, Maja	http://www.mt-archive.info/15/EAMT-2016-Stajner.pdf
-A portable method for parallel and comparable document alignment	Etchegoyhen, Thierry and Azpeitia, Andoni	http://www.mt-archive.info/15/EAMT-2016-Echegoyhen.pdf
-Semantic textual similarity in quality estimation	Béchara, Hanna and Escartín, Carla and Orӑsan, Constantia and Specia, Lucia	http://www.mt-archive.info/15/EAMT-2016-Bechara.pdf
-Climbing Mount BLEU: the strange world of reachable high-BLEU translations	Smith, Aaron and Hardmeier, Christian and Tiedemann, Jörg	http://www.mt-archive.info/15/EAMT-2016-Smith.pdf
-Interactive-predictive translation based on multiple word segments	Domingo, Miguel and Peris, Álvaro and Casacuberta, Francisco	http://www.mt-archive.info/15/EAMT-2016-Domingo.pdf
-A contextual language model to improve machine translation of pronouns by re-ranking translation hypotheses	Luong, Ngoc-Quang and Popescu-Belis, Andrei	http://www.mt-archive.info/15/EAMT-2016-Luong.pdf
-Predicting and using implicit discourse elements in Chinese-English translation	Steele, David and Specia, Lucia	http://www.mt-archive.info/15/EAMT-2016-Steele.pdf
-A graphical pronoun analysis tool for the PROTEST pronoun evaluation test suite	Christian Hardmeier and Guillou, Liane	http://www.mt-archive.info/15/EAMT-2016-Hardmeier.pdf
-Measuring cognitive translation effort with activity units	Schaeffer, Moritz and Carl, Michael and Lacruz, Isabel and Aizawa, Akiko	http://www.mt-archive.info/15/EAMT-2016-Schaeffer.pdf
-A comparative study of post-editing guidelines	Hu, Ke and Cadwell, Patrick	http://www.mt-archive.info/15/EAMT-2016-Hu.pdf
-Dealing with data sparseness in SMT with factored models and morphological expansion : a case study on Croation	Sánchez-Cartagena, Victor and Ljubešić, Nikola and Klubička, Filip	http://www.mt-archive.info/15/EAMT-2016-Sanchez-Cartagena.pdf
-Collaborative development of a rule-based machine translator between Croatian and Serbian	Klubička, Filip and Ramírez-Sánchez, Gema and Ljubešić, Nikola	http://www.mt-archive.info/15/EAMT-2016-Klubicka.pdf
-Re-assessing the impact of SMT techniques with human evaluation: a case study on English↔Crotian	Toral, Antonio and Rubino, Raphael and Ramírez-Sánchez, Gema	http://www.mt-archive.info/15/EAMT-2016-Toral.pdf
 TectoMT – a deep linguistic core of the combined Cimera MT system	Popel, Martin and Sudarikov, Roman and Bojar, Ondřej and Rosa, Rudolf and Hajič, Jan	http://www.mt-archive.info/15/EAMT-2016-Popel.pdf
 WiTKoM – virtual sign language translator project	Barczewska, Katarzyna and Galka, Jakub and Malawski, Filip and Mąsior, Mariusz and Szulc, Dorota and Wilczyński, Tomasz and Wróbel, Krzysztof	http://www.mt-archive.info/15/EAMT-2016-Barczewska.pdf
 Multi-level quality prediction with QuEst++	H.Paetzold, Gustavo and Specia, Lucia	http://www.mt-archive.info/15/EAMT-2016-Paetzold.pdf
