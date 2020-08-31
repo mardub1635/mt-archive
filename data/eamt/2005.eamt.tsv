@@ -1,5 +1,5 @@
 Title	Authors	Pdf
-Introduction	Maegaard, Bente	http://www.mt-archive.info/05/EAMT-2005-Maegaard.pdf
+Frontmatter	Maegaard, Bente	http://www.mt-archive.info/05/EAMT-2005-Maegaard.pdf
 The Language Translation Interface	Estival, Dominique	http://www.mt-archive.info/05/EAMT-2005-Estival.pdf
 Codified close translation as a standard for MT	Ahrenberg, Lars	http://www.mt-archive.info/05/EAMT-2005-Ahrenberg.pdf
 Machine translation for Catalan↔Spanish: the real case for productive MT	Alberto Alonso, Juan	http://www.mt-archive.info/05/EAMT-2005-Alonso.pdf
@@ -10,8 +10,8 @@ A generic multi-lingual open source platform for limited-domain medical speech t
 A compact data structure for searchable translation memories	Callison-Burch, Chris and Bannard, Colin and Schroeder, Josh	http://www.mt-archive.info/05/EAMT-2005-Callison-Burch.pdf
 Using template-grammars for shake & bake paraphrasing	Carl, Michael and Rascu, Ecaterina and Schmidt, Paul	http://www.mt-archive.info/05/EAMT-2005-Carl.pdf
 Prague Czech-English dependency treebank: resource for structure-based MT	Čmejrek, Martin and Cuřín, Jan and Hajič, Jan and Havelka, Jiří	http://www.mt-archive.info/05/EAMT-2005-Cmejrek.pdf
-An open-source shallow-transfer machine translation engine for the Romance languages of Spain	Corbi-Bellot, Antonio M. And Forcada, Mikel L. And Ortíz-Rojas, Sergio and Pérez-Ortiz, Juan Antonio and Ramírez-Sánchez, Gema and Sánchez-Martínez, Felipe and Alegria, Iñaki and Mayor, Aingeru and Sarasola, Kepa	http://www.mt-archive.info/05/EAMT-2005-Corbi-Bellot.pdf
-A framework for interactive and automatic refinement of transfer-based machine translation	Llitjós, Ariadna Font and Carbonell, Jaime G. And Lavie, Alon	http://www.mt-archive.info/05/EAMT-2005-Font-Llitjos.pdf
+An open-source shallow-transfer machine translation engine for the Romance languages of Spain	Corbi-Bellot, Antonio M. and Forcada, Mikel L. and Ortíz-Rojas, Sergio and Pérez-Ortiz, Juan Antonio and Ramírez-Sánchez, Gema and Sánchez-Martínez, Felipe and Alegria, Iñaki and Mayor, Aingeru and Sarasola, Kepa	http://www.mt-archive.info/05/EAMT-2005-Corbi-Bellot.pdf
+A framework for interactive and automatic refinement of transfer-based machine translation	Llitjós, Ariadna Font and Carbonell, Jaime G. and Lavie, Alon	http://www.mt-archive.info/05/EAMT-2005-Font-Llitjos.pdf
 Extraction of translation equivalents from parallel corpora using sense-sensitive contexts	Gamallo Otero, Pablo	http://www.mt-archive.info/05/EAMT-2005-Gamallo-Otero.pdf
 Sentence-level MT evaluation without reference translations: beyond language modeling	Gamon, Michael and Aue, Anthony and Smets, Martine	http://www.mt-archive.info/05/EAMT-2005-Gamon.pdf
 Target language preposition selection – an experiment with transformation based learning and aligned bilingual data	Gustavii, Ebba	http://www.mt-archive.info/05/EAMT-2005-Gustavii.pdf
@@ -30,12 +30,11 @@ Building a WSD module within an MT system to enable interactive resolution in th
 Exploiting phrasal lexica and additional morpho-syntactic language resources for statistical machine translation with scarce training data	Popovic, Maja and Ney, Hermann	http://www.mt-archive.info/05/EAMT-2005-Popovic.pdf
 An approach to machine translation via the rule-to-rule hypothesis	Prószéky, Gábor	http://www.mt-archive.info/05/EAMT-2005-Proszeky.pdf
 Linguistic representation of Finnish in a limited domain speech-to-speech translation system	Santaholma, Marianne	http://www.mt-archive.info/05/EAMT-2005-Santaholma.pdf
-Integrating CAT and MT in AnglaBhart-II architecture	Sinha, K. And Mahesh, R.	http://www.mt-archive.info/05/EAMT-2005-Sinha-1.pdf
-Translation divergence in English-Hindi MT	Sinha, K. And Mahesh, R. And Thakur, Anil	http://www.mt-archive.info/05/EAMT-2005-Sinha-2.pdf
+Integrating CAT and MT in AnglaBhart-II architecture	Sinha, K. and Mahesh, R.	http://www.mt-archive.info/05/EAMT-2005-Sinha-1.pdf
+Translation divergence in English-Hindi MT	Sinha, K. and Mahesh, R. and Thakur, Anil	http://www.mt-archive.info/05/EAMT-2005-Sinha-2.pdf
 Lexicon-coding workflow at CLS Communication	Stadler, Hans-Udo	http://www.mt-archive.info/05/EAMT-2005-Stadler.pdf
 Application of word-level confidence measures in interactive statistical machine translation	Ueffing, Nicola and Ney, Hermann	http://www.mt-archive.info/05/EAMT-2005-Ueffing.pdf
 Considerations in maximum mutual information and minimum classification error training for statistical machine translation	Vengupol, Ashish and Vogel, Stephan	http://www.mt-archive.info/05/EAMT-2005-Venugopal.pdf
 Sentence segmentation using IBM word alignment model 1	Xu, Jia and Zens, Richard and Ney, Hermann	http://www.mt-archive.info/05/EAMT-2005-Xu.pdf
-Initial considerations in building a speech-to-speech translation system for the Slovenian-English language pair	ŽganecGros, J. and Mihelič, A. and Žganec, M. and Mihelič, F. and Dobrišek, S. and Žibert, J. and Vintar, Š. and Korošec, T. and Erjavec, T. and Romih, and M.	http://www.mt-archive.info/05/EAMT-2005-Zganec-Gros.pdf
+Initial considerations in building a speech-to-speech translation system for the Slovenian-English language pair	Žganec Gros, J. and Mihelič, A. and Žganec, M. and Mihelič, F. and Dobrišek, S. and Žibert, J. and Vintar, Š. and Korošec, T. and Erjavec, T. and Romih, M.	http://www.mt-archive.info/05/EAMT-2005-Zganec-Gros.pdf
 An efficient phrase-to-phrase alignment model for arbitrarily long phrase and large corpora	Zhang, Ying and Vogel, Stephan	http://www.mt-archive.info/05/EAMT-2005-Zhang.pdf
-MT News International  no. 35		http://www.mt-archive.info/05/MTNI-35.pdf
