@@ -1,7 +1,5 @@
 # Ingestion of the MT-archive website
 
-2021-01-01
-- [Description](#Description)
 - [Introduction](#Introduction)
 - [Problem](#Problem)
 - [Description](#Description)
@@ -10,7 +8,7 @@
 
 ## Introduction
 
-Association for Computational Linguistics (ACL) is the bigest association gathering research groups and conference litterature about NLP. One mission of ACL is provide a centralised database of all the conference/journal paper on the computational linguistics domain: [ACL anthology](https://www.aclweb.org/anthology/).
+Association for Computational Linguistics (ACL) is the biggest association gathering research groups and conference literature about NLP. One mission of ACL consists in providing a centralised database of all the conference/journal paper on the computational linguistics domain: [ACL anthology](https://www.aclweb.org/anthology/).
 
 The goal of this project is to incorporate the data from an old archive website: [MT-archive.info](http://www.mt-archive.info/) into the ACL anthology.
     Mt-archive.info is an “Electronic repository and bibliography of articles, [...] in machine translation [...]”. It is one of the largest sources of free scientific literature used by the Machine Translation (MT) community.
@@ -18,7 +16,7 @@ The goal of this project is to incorporate the data from an old archive website:
 ## Problem
 [This website](http://www.mt-archive.info/) based on the initiative of John Hutchins seems not to be curated any longer (last update was March 2017). Many of the entries registered in it are not accessible by other means. This archive relies on the maintenance of its sole author.
 
-To remedy this we have extracted the data from inconsistent html/pdf files to consistent machine readable TSV files. Those files are stored in this repository and are waiting to be transfered into the [ACL anthology](https://www.aclweb.org/anthology/).
+To remedy this we have extracted the data from inconsistent html/pdf files to consistent machine-readable TSV files. Those files are stored in this repository and are waiting to be transferred into the [ACL anthology](https://www.aclweb.org/anthology/).
 
 To constitute the current repository we had to process:
 
@@ -51,11 +49,11 @@ And we store these data in a .tsv file named after the conference code.
 
 In the current repository you will find:
 * "data/" a folder containing subfolders named after conferences. Inside those folders you will find ".tsv" files named according to the code date.conference.tsv for instance data/bcs/1994.bcs.tsv
-* "script/" a folder containing scripts that helps transforming a webpage into a tsv file. Note that each web page is unique. Thus in my collect I used as much scripts as pages (around 200!) . For the sake of simplicity I leave here only an example script "parse_2002.amta.py"+"common.py". You can find the other scripts in my [non official repo](https://github.com/mardub1635/mt-archive-workdir/).
+* "script/" a folder containing scripts that help transforming a webpage into a tsv file. Note that each web page is unique. Thus in my collect, I used as much scripts as pages (around 200!). For the sake of simplicity, I leave here only an example script "parse_2002.amta.py"+"common.py". You can find the other scripts in my [non-official repo](https://github.com/mardub1635/mt-archive-workdir/).
 * "script/parse_2002.amta.py" an example of script to transform a table of content (TOC) page ([AMTA-2002 in this case](http://www.mt-archive.info/00/AMTA-2002-TOC.htm))
 * "script/common.py" script listing functions used by "parse_2002.amta.py to parse the TOC
 * "script/parse_confpage.py" a script to convert the list of conference into a .tsv
-* "script/ingest_tsv.py" a script to transform the resulted .tsv files into a proper folder containing the downloaded pdf + the xml files necesary for the conference anthology.
+* "script/ingest_tsv.py" a script to transform the resulted .tsv files into a proper folder containing the downloaded pdf + the xml files necessary for the conference anthology.
 
 
 
