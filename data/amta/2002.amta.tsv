@@ -12,7 +12,7 @@ Korean-Chinese machine translation based on verb patterns	Changhyun Kim and Munp
 Merging example-based and statistical machine translation: an experiment	Philippe Langlais and Michel Simard			Technical papers
 Classification approach to word selection in machine translation	Hyo-Kyung Lee			Technical papers
 Better contextual translation using machine learning	Arul Menezes			Technical papers
-Fast and accurate sentence alignment of bilingual corpora	Robert C. Moore			Technical papers
+Fast and accurate sentence alignment of bilingual corpora	Moore, Robert C.			Technical papers
 Deriving semantic knowledge from descriptive texts using an MT system	Eric Nyberg and Teruko Mitamura and Kathryn Baker and David Svoboda and Brian Peterson and Jennifer Williams			Technical papers
 using a large monolingual corpus to improve translation accuracy	Radu Soricut and Kevin Knight and daniel Marcu			Technical papers
 Semi-automatic compilation of bilingual lexcion entries from cross-lingually relevant news articles on WWW news sites	Takehito Utsuro and Takashi Horiuchi and Yasunobu Chiba and Takeshi Hamamoto			Technical papers
@@ -22,7 +22,7 @@ Getting the message in: a global company's experience with the new generation of
 An assessment of machine translation for vehicle assembly process planning at Ford Motor Company	Nestor Rychtyckyj			User studies
 Fluent Machines' EliMT system	Eli Abir and Steve Klein and David Miller and Michael Steinbaum			System descriptions
 LogoMedia TRANSLATE,Version 2.0	Glenn A. Akers			System descriptions
-Natural intelligence in a machine translation system	Howard J.Bender			System descriptions
+Natural intelligence in a machine translation system	Bender, Howard J.			System descriptions
 Translation by the numbers: Language Weaver	Bryce Benjamin and Kevin Knight and Daniel Marcu			System descriptions
 A new family of the PARS translation systems	Michael Blekhman and Andrei Kursin and Alia Rakova			System descriptions
 MSR-MT: the Microsoft research machine translation system	Willaim B. Dolan and Jessie Pinkham and Stephen D.Richardson			System descriptions
